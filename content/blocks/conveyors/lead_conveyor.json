@@ -1,0 +1,11 @@
+{
+  "type": "Conveyor",
+  "name": "lead conveyor",
+  "description": "Weaker and less efficient than standard conveyor. Useful in asteroids where copper is scarce",
+  "health": 20,
+  "requirements": [{"item": "lead","amount": 1}],
+  "category": "distribution",
+  "speed": 0.02,
+  "displayedSpeed": 2,
+  "research": "asteroidgen_origin"
+}

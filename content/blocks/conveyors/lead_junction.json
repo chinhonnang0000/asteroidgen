@@ -1,0 +1,11 @@
+{
+  "name": "lead Junction",
+  "description": "Inferior to standard junctions. Useful when it copper is scarce",
+  "type": "Junction",
+  "speed": 8,
+  "health": 30,
+  "size": 1,
+  "requirements": [{"item": "lead", "amount": 3}],
+  "category": "distribution",
+  "research": "lead_conveyor",
+}

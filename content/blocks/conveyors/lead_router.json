@@ -1,0 +1,13 @@
+{
+  "name": "Lead Router",
+  "description": "Distributes items to 3 output directions equally. Slower than the regular router. Useful in low-copper places",
+  "type": "Router",
+  "dumpTime": 1,
+  "speed": 0.1,
+  "health": 35,
+  "itemCapacity": 20,
+  "size": 1,
+  "requirements": [{"item": "lead", "amount": 3},]
+  "category": "distribution",
+  "research": "lead_junction",
+}

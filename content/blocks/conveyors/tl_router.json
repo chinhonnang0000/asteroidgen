@@ -1,0 +1,13 @@
+{
+  "name": "titanium Lead Router",
+  "description": "Distributes items to 3 output directions equally. Slower than the regular router. Useful in low-copper places",
+  "type": "Router",
+  "dumpTime": 1,
+  "speed": 1,
+  "health": 240,
+  "itemCapacity": 80,
+  "size": 1,
+  "requirements": [{"item": "lead", "amount": 3},{"item":"titanium","amount":3}]
+  "category": "distribution",
+  "research": "tl_junction",
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Conveyor",
+  "name": "titanium lead conveyor",
+  "description": "Stronger and faster than standard titanium conveyors. Useful in asteroids where copper is scarce",
+  "health": 160,
+"itemCapacity":7,
+  "requirements": [{"item":"lead","amount":2},{"item": "titanium","amount": 2}],
+  "category": "distribution",
+  "speed": 0.16,
+  "displayedSpeed": 16,
+  "research": "lead_pb_1"
+}
