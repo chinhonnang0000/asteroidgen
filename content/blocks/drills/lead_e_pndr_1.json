@@ -1,0 +1,24 @@
+{
+  "name": "small lead-enhanced pneumetic Drill",
+  "description": "tiny pneumetic drill enhanced with lead. twice as fast as tiny pneumetic drills",
+"health": 90,  
+"type": "Drill",
+  "size": 1,
+  "tier": 3,
+  "itemCapacity": 3,
+  "drillTime": 200,
+  "hasPower": false,
+  "powerConsumes": 1,
+  "drawMineItem": false,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [{"item":"copper","amount":6},{"item":"lead","amount":6},{"item":"graphite","amount":3}],
+  "category": "production",
+  "research": "copper_extractor"
+}

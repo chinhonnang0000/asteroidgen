@@ -1,0 +1,24 @@
+{
+  "name": "large lead-enhanced pneumetic Drill",
+  "description": "-",
+"health": 900,  
+"type": "Drill",
+  "size": 3,
+  "tier": 3,
+  "itemCapacity": 3,
+  "drillTime": 192,
+  "hasPower": false,
+  "powerConsumes": 1,
+  "drawMineItem": false,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [{"item":"copper","amount":60},{"item":"lead","amount":60},{"item":"graphite","amount":30}],
+  "category": "production",
+  "research": "lead_e_pndr_2"
+}

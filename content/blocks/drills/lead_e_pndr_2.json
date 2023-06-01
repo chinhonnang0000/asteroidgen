@@ -1,0 +1,24 @@
+{
+  "name": "medium lead-enhanced pneumetic Drill",
+  "description": "pneumetic drill enhanced with lead. twice as fast as standard pneumetic drills",
+"health": 360,  
+"type": "Drill",
+  "size": 2,
+  "tier": 3,
+  "itemCapacity": 3,
+  "drillTime": 196,
+  "hasPower": false,
+  "powerConsumes": 1,
+  "drawMineItem": false,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [{"item":"copper","amount":24},{"item":"lead","amount":24},{"item":"graphite","amount":12}],
+  "category": "production",
+  "research": "lead_e_pndr_1"
+}
