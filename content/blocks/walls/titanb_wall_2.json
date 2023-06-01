@@ -1,0 +1,12 @@
+{
+  "name": "medium titanberyl wall",
+  "description": "Small wall made of titanberyl. stronger than large thorium walls.",
+  "type": "Wall",
+  "health": 5600,
+  "size": 2,
+  "requirements": [{"item": "titanberyl","amount": 24}],
+  "category": "defense",
+  "research": {
+   "parent": "titanb_wall_1"
+  }
+}

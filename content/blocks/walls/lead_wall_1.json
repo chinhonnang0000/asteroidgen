@@ -1,0 +1,12 @@
+{
+  "name": "small lead wall",
+  "description": "Less durable than copper walls but useful where lead is abundant",
+  "type": "Wall",
+  "health": 200,
+  "size": 1,
+  "requirements": [{"item": "lead","amount": 6}],
+  "category": "defense",
+  "research": {
+   "parent": "asteroidgen_origin"
+  }
+}

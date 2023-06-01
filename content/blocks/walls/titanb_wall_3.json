@@ -1,0 +1,12 @@
+{
+  "name": "large titanberyl wall",
+  "description": "large wall made of titanberyl. stronger than huge thorium walls.",
+  "type": "Wall",
+  "health": 16200,
+  "size": 3,
+  "requirements": [{"item": "titanberyl","amount": 60}],
+  "category": "defense",
+  "research": {
+   "parent": "titanb_wall_2"
+  }
+}

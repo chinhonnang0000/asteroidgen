@@ -1,0 +1,12 @@
+{
+  "name": "large lead wall",
+  "description": "Less durable than huge copper walls but useful where lead is abundant",
+  "type": "Wall",
+  "health": 2000,
+  "size": 3,
+  "requirements": [{"item": "lead","amount": 54}],
+  "category": "defense",
+  "research": {
+   "parent": "lead_wall_2"
+  }
+}

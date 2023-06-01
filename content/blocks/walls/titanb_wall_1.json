@@ -1,0 +1,12 @@
+{
+  "name": "small titanberyl wall",
+  "description": "Small wall made of titanberyl. stronger than thorium walls.",
+  "type": "Wall",
+  "health": 1400,
+  "size": 1,
+  "requirements": [{"item": "titanberyl","amount": 6}],
+  "category": "defense",
+  "research": {
+   "parent": "titanberyl_smelter"
+  }
+}
