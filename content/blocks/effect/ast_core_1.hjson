@@ -1,0 +1,13 @@
+{
+alwaysUnlocked:true,
+"category": "effect",
+health:60
+isFirstTier:true
+itemCapacity: 250
+localizedName: "asteroidgen core 1: scout core",
+requirements: [{"item":"lead","amount":150}]
+research:asteroidgen_origin
+size:1
+type:CoreBlock
+unitType:c1
+}
