@@ -1,0 +1,24 @@
+{
+  "type": "BeamDrill",
+  "name": "medium copper lead Plasma Bore",
+  "description": "twice as efficeint as the medium lead plasma bore",
+"health": 400,  
+"size": 2,
+  "category": "production",
+  "research": "lc_pb_1",
+  "requirements": [{"item":"copper","amount":40},{"item":"lead","amount":40}],
+  "tier": 3,
+  "range": 3,
+  "drillTime": 495,
+  "fogRadius": 2,
+  
+  "consumes": {
+    "power": 0.7,
+    "liquid": {
+      "liquid": "hydrogen",
+      "amount": 0.0014,
+      "optional": true,
+      "booster": true
+    }
+  }
+} 

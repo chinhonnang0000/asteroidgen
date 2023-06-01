@@ -1,0 +1,24 @@
+{
+  "type": "BeamDrill",
+  "name": "extra-large copper lead Plasma Bore",
+  "description": "twice as efficeint as the extra-large lead plasma bore",
+"health": 2000,  
+"size": 4,
+  "category": "production",
+  "research": "lc_pb_3",
+  "requirements": [{"item":"copper","amount":200},{"item":"lead","amount":200}],
+  "tier": 3,
+  "range": 3,
+  "drillTime": 485,
+  "fogRadius": 2,
+  
+  "consumes": {
+    "power": 1.2,
+    "liquid": {
+      "liquid": "hydrogen",
+      "amount": 0.0014,
+      "optional": true,
+      "booster": true
+    }
+  }
+} 

@@ -1,0 +1,24 @@
+{
+  "name": "medium lead-ehnhaced mechanical Drill",
+  "description": "2x drilling speed of mechaincal drills. 25% more hp. ",
+"health": 200,  
+"type": "Drill",
+  "size": 2,
+  "tier": 2,
+  "itemCapacity": 75,
+  "drillTime": 300,
+  "hasPower": false,
+  "powerConsumes": 1,
+  "drawMineItem": false,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [{"item":"copper","amount":12},{"item":"lead","amount":24}],
+  "category": "production",
+  "research": "lead_e_drill_1"
+}

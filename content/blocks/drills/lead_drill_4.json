@@ -1,0 +1,24 @@
+{
+  "name": "extra-large lead Drill",
+  "description": "A large drill build from lead. Less efficient than mechanical drills. However, useful when copper is scarce.",
+"health": 360,  
+"type": "Drill",
+  "size": 4,
+  "tier": 2,
+  "itemCapacity": 50,
+  "drillTime": 970,
+  "hasPower": false,
+  "powerConsumes": 1,
+  "drawMineItem": false,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [{"item":"lead","amount":96}],
+  "category": "production",
+  "research": "lead_drill_3"
+}

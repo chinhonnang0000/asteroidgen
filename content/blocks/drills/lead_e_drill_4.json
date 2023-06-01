@@ -1,0 +1,24 @@
+{
+  "name": "extra-large lead-ehnhaced mechanical Drill",
+  "description": "Enhaced with lead to increase its performace.",
+"health": 1000,  
+"type": "Drill",
+  "size": 4,
+  "tier": 2,
+  "itemCapacity": 450,
+  "drillTime": 270,
+  "hasPower": false,
+  "powerConsumes": 1,
+  "drawMineItem": false,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [{"item":"copper","amount":54},{"item":"lead","amount":128}],
+  "category": "production",
+  "research": "lead_e_drill_3"
+}

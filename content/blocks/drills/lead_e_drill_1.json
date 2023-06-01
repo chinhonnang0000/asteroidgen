@@ -1,0 +1,24 @@
+{
+  "name": "small lead-ehnhaced mechanical Drill",
+  "description": "2x drilling speed of tiny mechaincal drills.",
+"health": 50,  
+"type": "Drill",
+  "size": 1,
+  "tier": 2,
+  "itemCapacity": 15,
+  "drillTime": 300,
+  "hasPower": false,
+  "powerConsumes": 1,
+  "drawMineItem": false,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [{"item":"copper","amount":3},{"item":"lead","amount":6}],
+  "category": "production",
+  "research": "copper_extractor"
+}

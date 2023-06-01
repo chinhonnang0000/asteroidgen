@@ -1,0 +1,24 @@
+{
+  "type": "BeamDrill",
+  "name": "extra-large lead Plasma Bore",
+  "description": "Less efficient and less durable than the ones in Erekir but uses abundant lead to build. Needed to progress in Asteroid Planet and other planets that allow players to launch to procedurally genrated maps.",
+"health": 800,  
+"size": 4,
+  "category": "production",
+  "research": "lead_pb_3",
+  "requirements": [{"item":"lead","amount":160}],
+  "tier": 3,
+  "range": 2,
+  "drillTime": 970,
+  "fogRadius": 2,
+  
+  "consumes": {
+    "power": 1.2,
+    "liquid": {
+      "liquid": "hydrogen",
+      "amount": 0.0014,
+      "optional": true,
+      "booster": true
+    }
+  }
+} 

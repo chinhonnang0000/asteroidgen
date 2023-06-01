@@ -1,0 +1,24 @@
+{
+  "name": "extra-lagre pneumetic lead Drill",
+  "description": "A tiny drill build from lead. Less efficient than mechanical drills. However, useful when copper is scarce. Capable of drilling titanium",
+"health": 600,  
+"type": "Drill",
+  "size": 4,
+  "tier": 3,
+  "itemCapacity": 60,
+  "drillTime": 776,
+  "hasPower": false,
+  "powerConsumes": 1,
+  "drawMineItem": false,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [{"item":"lead","amount":100},{"item":"graphite","amount":50}],
+  "category": "production",
+  "research": "lead_pndr_3"
+}
