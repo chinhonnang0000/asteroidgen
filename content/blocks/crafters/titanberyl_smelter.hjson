@@ -1,0 +1,29 @@
+"category":"crafting"
+
+"consumes":{"power":9
+"items":[
+{"item":"beryllium","amount":1},
+{"item":"titanium","amount":1}
+]}
+
+"craftTime": 120,
+"description":"Mining titanium and beryllium together",
+"displayName":"titanberyl smelter",
+"hasItems":true,  
+"hasPower":true,
+"health":4200,
+"itemCapacity": 120,
+"name":"titanberyl smelter",
+"outputItem":{"item":"titanberyl","amount":1},
+
+"requirements":[
+{"item":"beryllium","amount":50},
+{"item":"copper","amount":40},
+{"item":"lead","amount":120},
+{"item":"beryllium","amount":150},
+{"item":"titanium","amount":250},
+],
+
+"research":"lead_pb_1",
+"size":3
+"type":"GenericCrafter"
