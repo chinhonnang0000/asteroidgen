@@ -1,0 +1,13 @@
+{
+  "name": "lead Distributor",
+  "description": "Distributes input items to 7 output directions equally. slower than the regular distributor.",
+  "type": "Router",
+  "dumpTime": 1,
+  "speed": 0.02,
+  "health": 120,
+  "itemCapacity": 10,
+  "size": 2,
+  "requirements": [{"item": "lead", "amount": 8},{"item":"titanium",}]
+  "category": "distribution",
+  "research": "tl_router",
+}
