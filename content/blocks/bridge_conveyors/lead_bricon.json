@@ -1,0 +1,12 @@
+{
+  "type": "ItemBridge",
+  "name": "lead bridge conveyor"
+  "description": "Transports items over terrain or buildings. slower than the regular bridge conveyor.",
+  "health": 60,
+  "requirements": [{"item": "lead","amount": 12}],
+  "range": 2,
+  "transportTime": 4,
+  "hasPower": false,
+  "category": "distribution",
+  "research": "lead_distributor"
+}

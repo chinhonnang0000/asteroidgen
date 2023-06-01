@@ -1,0 +1,12 @@
+{
+  "type": "ItemBridge",
+  "name": "titanium lead bridge conveyor"
+  "description": "Transports items over terrain or buildings. slower than the regular bridge conveyor.",
+  "health": 480,
+  "requirements": [{"item": "lead","amount": 12},{"item":"titanium","amount":12}],
+  "range": 9,
+  "transportTime": 4,
+  "hasPower": false,
+  "category": "distribution",
+  "research": "tl_distributor"
+}
