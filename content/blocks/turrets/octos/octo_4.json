@@ -1,0 +1,51 @@
+{
+  "type": "ItemTurret",
+  "name": "titanium-lead enforced octo",
+  "description": "Eveready turret. combining 4 duos. They are now integrated to deal more damage and more efficient.",
+  "health": 5000,
+  "reload": 48,
+  "range": 396,
+  "size": 2,
+  "consumes": { "coolant": { "amount": 0.1 } },
+  "shoot": {
+    "type": "ShootAlternate",
+    "shots": 8,
+    "spread": 2,
+    "shotDelay": 5
+  },
+  "researchCostMultiplier": 0.1,
+  "inaccuracy": 2,
+  "targetAir": true,
+  "targetGround": true,
+  "ammoTypes": {
+    "copper": {
+      "speed": 6,
+      "ammoMultiplier": 1,
+      "hitSize": 8,
+      "type": "BasicBulletType",
+      "width": 8,
+      "damage": 96,
+      "lifetime": 50,
+      "height": 8,
+    },
+"graphite": 	{"ammoMultiplier":2,"damage":200,"height":8,"hitSize":8,"lifetime":50,"speed":8,"type":"BasicBulletType","width":8,},
+"lead":		{"ammoMultiplier":1, "damage":65,"height":8,"hitSize":7,"lifetime":50,"speed":8,"type":"BasicBulletType","width":8,},
+"silicon": 	{"ammoMultiplier":2, "damage":144,
+      "type": "BasicBulletType",
+      "height": 8,
+      "width": 8,
+      "speed": 6,
+      "lifetime": 50,
+      "hitSize": 8,
+      "homingPower": 0.9,
+      "homingRange": 120
+    }
+  },
+  "requirements": [{"item":"copper","amount":140}{"item": "lead","amount": 140}{"item": "titanberyl","amount": 140}],
+  "category": "turret",
+  "research":{
+objectives: [{type: "OnSector",preset: "2"}],
+parent:"octo_3"
+  },
+  "drawer": {"type": "DrawTurret"}
+}

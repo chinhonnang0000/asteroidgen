@@ -1,0 +1,51 @@
+{
+  "type": "ItemTurret",
+  "name": "lead enforced octo",
+  "description": "Eveready turret. combining 4 duos. They are now integrated to deal more damage and more efficient.",
+  "health": 1200,
+  "reload": 48,
+  "range": 233,
+  "size": 2,
+  "consumes": { "coolant": { "amount": 0.1 } },
+  "shoot": {
+    "type": "ShootAlternate",
+    "shots": 8,
+    "spread": 2,
+    "shotDelay": 5
+  },
+  "researchCostMultiplier": 0.1,
+  "inaccuracy": 2,
+  "targetAir": true,
+  "targetGround": true,
+  "ammoTypes": {
+    "copper": {
+      "speed": 4,
+      "ammoMultiplier": 1,
+      "hitSize": 8,
+      "type": "BasicBulletType",
+      "width": 8,
+      "damage": 29,
+      "lifetime": 50,
+      "height": 8,
+    },
+"graphite": 	{"ammoMultiplier":2,"damage":58,"height":8,"hitSize":8,"lifetime":50,"speed":4,"type":"BasicBulletType","width":8,},
+"lead":		{"ammoMultiplier":1, "damage":21,"height":8,"hitSize":7,"lifetime":50,"speed":4,"type":"BasicBulletType","width":8,},
+"silicon": 	{"ammoMultiplier":2, "damage":43,
+      "type": "BasicBulletType",
+      "height": 8,
+      "width": 8,
+      "speed": 4,
+      "lifetime": 50,
+      "hitSize": 8,
+      "homingPower": 0.9,
+      "homingRange": 120
+    }
+  },
+  "requirements": [{"item":"copper","amount":140}{"item": "lead","amount": 140}],
+  "category": "turret",
+  "research":{
+objectives: [{type: "OnSector",preset: "2"}],
+parent:"octo_1"
+  },
+  "drawer": {"type": "DrawTurret"}
+}

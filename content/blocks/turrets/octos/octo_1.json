@@ -1,0 +1,51 @@
+{
+  "type": "ItemTurret",
+  "name": "lead octo",
+  "description": "Everleady turret.",
+  "health": 400,
+  "reload": 48,
+  "range": 113,
+  "size": 2,
+  "consumes": { "coolant": { "amount": 0.1 } },
+  "shoot": {
+    "type": "ShootAlternate",
+    "shots": 8,
+    "spread": 2,
+    "shotDelay": 5
+  },
+  "researchCostMultiplier": 0.1,
+  "inaccuracy": 2,
+  "targetAir": true,
+  "targetGround": true,
+  "ammoTypes": {
+    "copper": {
+      "speed": 3,
+      "ammoMultiplier": 1,
+      "hitSize": 8,
+      "type": "BasicBulletType",
+      "width": 8,
+      "damage": 14,
+      "lifetime": 50,
+      "height": 8,
+    },
+"graphite": 	{"ammoMultiplier":2,"damage":28,"height":8,"hitSize":8,"lifetime":50,"speed":3,"type":"BasicBulletType","width":8,},
+"lead":		{"ammoMultiplier":1, "damage":10,"height":8,"hitSize":7,"lifetime":50,"speed":3,"type":"BasicBulletType","width":8,},
+"silicon": 	{"ammoMultiplier":2, "damage":18,
+      "type": "BasicBulletType",
+      "height": 8,
+      "width": 8,
+      "speed": 3,
+      "lifetime": 50,
+      "hitSize": 8,
+      "homingPower": 0.9,
+      "homingRange": 120
+    }
+  },
+  "requirements": [{"item": "lead","amount": 140}],
+  "category": "turret",
+  "research":{
+objectives: [{type: "OnSector",preset: "2"}],
+parent:"asteroidgen_origin"
+  },
+  "drawer": {"type": "DrawTurret"}
+}
