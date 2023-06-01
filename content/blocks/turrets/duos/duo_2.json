@@ -1,0 +1,49 @@
+{
+  "type": "ItemTurret",
+  "name": "lead-enhanced duo",
+  "description": "Lead is used to slightly increase hp, increase range, and significantly increase damage",
+  "health": 300,
+  "reload": 48,
+  "range": 165,
+  "size": 1,
+  "consumes": { 
+    "coolant": { 
+       "amount": 0.1 } 
+  },
+  "shoot": {
+    "type": "ShootAlternate",
+    "shots": 2,
+    "spread": 5,
+    "shotDelay": 15
+  },
+  "researchCostMultiplier": 0.1,
+  "inaccuracy": 3,
+  "targetAir": true,
+  "targetGround": true,
+  "ammoTypes": {
+"copper": {"speed": 5,"ammoMultiplier": 2,
+      "hitSize": 8,
+      "type": "BasicBulletType",
+      "width": 8,
+      "damage": 18,
+      "lifetime": 50,
+      "height": 8,
+    },
+"graphite": 	{"ammoMultiplier":4,"damage":36,"height":8,"hitSize":8,"lifetime":50,"speed":5,"type":"BasicBulletType","width":8},
+"lead":		{"ammoMultiplier":2,"damage":12,"height":8,"hitSize":7,"lifetime":50,"speed":5,"type":"BasicBulletType","width":8},
+"silicon": 	{"ammoMultiplier":3,"damage":30,
+      "type": "BasicBulletType",
+      "height": 8,
+      "width": 8,
+      "speed": 5,
+      "lifetime": 50,
+      "hitSize": 8,
+      "homingPower": 0.9,
+      "homingRange": 120
+    }
+  },
+  "requirements": [{"item": "copper","amount": 35},{"item": "lead","amount": 35}],
+  "category": "turret",
+  "research": "duo_1",
+  "drawer": {"type": "DrawTurret"}
+}

@@ -1,0 +1,48 @@
+{
+  "type": "ItemTurret",
+  "name": "lead duo",
+  "description": "Less tough and less damage than standard duos. Useful only when lead is abundant and copper is scarce.",
+  "health": 100,
+  "reload": 48,
+  "range": 90,
+  "size": 1,
+  "consumes": { "coolant": { "amount": 0.1 } },
+  "shoot": {
+    "type": "ShootAlternate",
+    "shots": 2,
+    "spread": 5,
+    "shotDelay": 15
+  },
+  "researchCostMultiplier": 0.1,
+  "inaccuracy": 3,
+  "targetAir": true,
+  "targetGround": true,
+  "ammoTypes": {
+    "copper": {
+      "speed": 3,
+      "ammoMultiplier": 2,
+      "hitSize": 8,
+      "type": "BasicBulletType",
+      "width": 8,
+      "damage": 7,
+      "lifetime": 50,
+      "height": 8,
+    },
+"graphite": 	{"ammoMultiplier":4,"damage":14,"height":8,"hitSize":8,"lifetime":50,"speed":3,"type":"BasicBulletType","width":8,},
+"lead":		{"ammoMultiplier":2, "damage":5,"height":8,"hitSize":7,"lifetime":50,"speed":3,"type":"BasicBulletType","width":8,},
+"silicon": 	{"ammoMultiplier":3, "damage":9,
+      "type": "BasicBulletType",
+      "height": 8,
+      "width": 8,
+      "speed": 3,
+      "lifetime": 50,
+      "hitSize": 8,
+      "homingPower": 0.9,
+      "homingRange": 120
+    }
+  },
+  "requirements": [{"item": "lead","amount": 35}],
+  "category": "turret",
+  "research": "asteroidgen_origin",
+  "drawer": {"type": "DrawTurret"}
+}
