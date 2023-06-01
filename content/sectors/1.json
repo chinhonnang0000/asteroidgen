@@ -1,0 +1,14 @@
+{
+  "research":"asteroidgen_origin",
+  "localizedName": "Sector One",
+  "description": "The initial launch sector for this mod. You can capture other sectors in this planet. By quiting or switching sectors, the waves on other sectors is set at 30. ",
+  "difficulty": 0,
+  "planet": "asteroidgen",
+  "captureWave": 10,
+  "sector": 1,
+  "isLastSector": false,
+  "alwaysUnlocked": true,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "addStartingItems": true,
+}

@@ -1,0 +1,17 @@
+{
+"research":{
+  parent:"3",
+  objectives:[{type: SectorComplete,preset:3}]
+}
+  "localizedName": "check cores",
+  "description": "Fotresses are here. Multiple cores can be built here."
+  "difficulty": 3,
+  "planet": "asteroidgen",
+  "captureWave": 9,
+  "sector": 4,
+  "isLastSector": false,
+  "alwaysUnlocked": false,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "addStartingItems": true,
+}

@@ -1,0 +1,17 @@
+{
+"research":{
+parent:1,
+objectives:[{type: SectorComplete,preset:1}]
+},
+  "localizedName": "Abondoned lead mine",
+  "description": "Octo is left behind. Expect a lot of planes here.",
+  "difficulty": 1,
+  "planet": "asteroidgen",
+  "captureWave": 9,
+  "sector": 2,
+  "isLastSector": false,
+  "alwaysUnlocked": false,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "addStartingItems": true,
+}
