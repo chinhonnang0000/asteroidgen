@@ -1,0 +1,13 @@
+{
+  "type": "SolarGenerator",
+  "name": "medium copper lead Solar Panel",
+  "description": "3x as efficient than medium lead solar panel. Recommended for ground zero on serpulo.",
+  "health": 480,
+  "size": 2,
+  "hasPower": true,
+  "hasLiquids": false,
+  "powerProduction": 0.15,
+  "requirements": [{"item":"copper","amount":50},{"item": "lead","amount": 100}],
+  "category": "power",
+  "research": "cl_sp_1"
+}

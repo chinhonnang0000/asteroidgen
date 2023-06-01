@@ -1,0 +1,13 @@
+{
+  "type": "SolarGenerator",
+  "name": "huge copper lead Solar Panel",
+  "description": "5x as efficient than huge lead solar panel. Recommended for ground zero on serpulo.",
+  "health": 4500,
+  "size": 5,
+  "hasPower": true,
+  "hasLiquids": false,
+  "powerProduction": 2.5,
+  "requirements": [{"item":"copper","amount":450},{"item": "lead","amount": 900}],
+  "category": "power",
+  "research": "cl_sp_4"
+}

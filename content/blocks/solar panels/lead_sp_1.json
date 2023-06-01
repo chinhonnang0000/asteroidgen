@@ -1,0 +1,13 @@
+{
+  "type": "SolarGenerator",
+  "name": "small lead Solar Panel",
+  "description": "Less efficient than other solar panels. But it is essential on Asteroid planet and many other planets that allows landing to adjacent fields",
+  "health": 40,
+  "size": 1,
+  "hasPower": true,
+  "hasLiquids": false,
+  "powerProduction": 0.01,
+  "requirements": [{"item": "lead","amount": 25}],
+  "category": "power",
+  "research": "asteroidgen_origin"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "SolarGenerator",
+  "name": "small titanberyl enforced Solar Panel",
+  "description": "titanium frame for stength. 4x more efficient than standard solar panels.",
+  "health": 500,
+  "size": 1,
+  "hasPower": true,
+  "hasLiquids": false,
+  "powerProduction": 0.6,
+  "requirements": [{"item": "lead","amount": 10},{"item": "silicon","amount": 15},{"item":"titanberyl","amount":10},{"item":"phase-fabric","amount":5}],
+  "category": "power",
+  "research": "titanberyl_smelter"
+}

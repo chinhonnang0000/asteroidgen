@@ -1,0 +1,14 @@
+{
+"buildCostMultiplier":0.25
+  "type": "SolarGenerator",
+  "name": "extra-large titanium enforced Solar Panel",
+  "description": "titanium frame for stength",
+  "health": 3000,
+  "size": 4,
+  "hasPower": true,
+  "hasLiquids": false,
+  "powerProduction": 15,
+  "requirements": [{"item": "lead","amount": 160},{"item": "silicon","amount": 1500},{"item":"titanium","amount":160}],
+  "category": "power",
+  "research": "titanium_sp_3"
+}

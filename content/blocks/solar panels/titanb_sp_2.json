@@ -1,0 +1,13 @@
+{
+  "type": "SolarGenerator",
+  "name": "medium titanberyl enforced Solar Panel",
+  "description": ".",
+  "health": 2000,
+  "size": 2,
+  "hasPower": true,
+  "hasLiquids": false,
+  "powerProduction": 6,
+  "requirements": [{"item": "lead","amount": 40},{"item": "silicon","amount": 120},{"item":"titanberyl","amount":40},{"item":"phase-fabric","amount":20}],
+  "category": "power",
+  "research": "titanb_sp_1"
+}

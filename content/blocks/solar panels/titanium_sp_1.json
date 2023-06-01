@@ -1,0 +1,13 @@
+{
+  "type": "SolarGenerator",
+  "name": "small titanium enforced Solar Panel",
+  "description": "titanium frame for stength. 50% more efficient than standard solar panels.",
+  "health": 150,
+  "size": 1,
+  "hasPower": true,
+  "hasLiquids": false,
+  "powerProduction": 0.15,
+  "requirements": [{"item": "lead","amount": 10},{"item": "silicon","amount": 15},{"item":"titanium","amount":10}],
+  "category": "power",
+  "research": "lead_pndr_1"
+}

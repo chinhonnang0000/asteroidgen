@@ -1,0 +1,14 @@
+{
+  "buildCostMultiplier": 0.8
+  "type": "SolarGenerator",
+  "name": "large lead Solar Panel",
+  "description": "Less efficient than other solar panels. But it is essential on Asteroid planet and many other planets that allows landing to adjacent fields",
+  "health": 400,
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": false,
+  "powerProduction": 0.15,
+  "requirements": [{"item": "lead","amount": 250}],
+  "category": "power",
+  "research": "lead_sp_2"
+}
