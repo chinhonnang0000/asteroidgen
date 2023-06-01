@@ -1,0 +1,11 @@
+{
+    alwaysUnlocked: true
+description: Asteroidgen is named after the default JSON planet generator naled AsteroidGenerator. In this planet copper is scarce in most areas. Lead is most abundant thus we have no choice but to use inferior lead systems.  
+name: asteroidgen research origin
+    research: {
+        root: true
+        name: asteroid planet
+        planet: asteroidgen
+    }
+    hiddenOnPlanets: []
+}
