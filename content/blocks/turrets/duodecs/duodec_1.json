@@ -1,0 +1,34 @@
+{
+  "type": "ItemTurret",
+  "name": "lead duodec",
+  "description": "Worst duodecs ever. Use only when copper is scarce.",
+  "health": 1000,
+  "reload": 48,
+  "range": 270,
+  "size": 3,
+  "consumes": { "coolant": { "amount": 0.1 } },
+  "shoot": {
+    "type": "ShootAlternate",
+    "shots": 20,
+    "spread": 1,
+    "shotDelay":5,
+  },
+  "researchCostMultiplier": 0.1,
+  "inaccuracy": 3,
+  "targetAir": true,
+  "targetGround": true,
+  "ammoTypes": {
+    "copper": 	{"ammoMultiplier":1,"damage":21,"height":9,"hitSize":9,"lifetime":50,"speed":9,"type":"BasicBulletType","width":8,},
+"graphite": 	{"ammoMultiplier":2,"damage":30,"height":9,"hitSize":9,"lifetime":50,"speed":9,"type":"BasicBulletType","width":8,},
+"lead":		{"ammoMultiplier":1,"damage":15,"height":9,"hitSize":9,"lifetime":50,"speed":9,"type":"BasicBulletType","width":8,},
+"silicon": 	{"ammoMultiplier":2,"damage":27,"height":9,"hitSize":9,"lifetime":50,"speed":3,"type":"BasicBulletType","width":8,
+      "homingPower": 0.9,"homingRange": 120},
+"titanium": 	{"ammoMultiplier":1,"damage":42,"height":9,"hitSize":9,"lifetime":50,"speed":9,"type":"BasicBulletType","width":8,}
+  },
+  "requirements": [{"item": "lead","amount": 350}],
+  "category": "turret",
+  "research":{parent:"asteroidgen_origin",
+   objectives: [{type: "OnSector",preset: "3"}],
+}
+  "drawer": {"type": "DrawTurret"}
+}

@@ -1,0 +1,34 @@
+{
+  "type": "ItemTurret",
+  "name": "titanium-enforced duodec",
+  "description": "enhanced multi-purpose defense.",
+  "health": 9000,
+  "reload": 48,
+  "range": 539,
+  "size": 3,
+  "consumes": { "coolant": { "amount": 0.1 } },
+  "shoot": {
+    "type": "ShootAlternate",
+    "shots": 20,
+    "spread": 1,
+    "shotDelay":5,
+  },
+  "researchCostMultiplier": 0.1,
+  "inaccuracy": 3,
+  "targetAir": true,
+  "targetGround": true,
+  "ammoTypes": {
+    "copper": 	{"ammoMultiplier":1,"damage":131,"height":9,"hitSize":9,"lifetime":50,"speed":9,"type":"BasicBulletType","width":8,},
+"graphite": 	{"ammoMultiplier":2,"damage":188,"height":9,"hitSize":9,"lifetime":50,"speed":9,"type":"BasicBulletType","width":8,},
+"lead":		{"ammoMultiplier":1,"damage": 94,"height":9,"hitSize":9,"lifetime":50,"speed":9,"type":"BasicBulletType","width":8,},
+"silicon": 	{"ammoMultiplier":2,"damage":169,"height":9,"hitSize":9,"lifetime":50,"speed":3,"type":"BasicBulletType","width":8,
+      "homingPower": 0.9,"homingRange": 120},
+"titanium": 	{"ammoMultiplier":1,"damage":261,"height":9,"hitSize":9,"lifetime":50,"speed":9,"type":"BasicBulletType","width":8,}
+  },
+  "requirements": [{"item": "copper","amount": 350},{"item": "lead","amount": 350},{"item": "titanium","amount": 350}],
+  "category": "turret",
+  "research":{parent:"duodec_2",
+   objectives: [{type: "OnSector",preset: "3"}],
+}
+  "drawer": {"type": "DrawTurret"}
+}
