@@ -5,7 +5,7 @@
 "type": "Drill",
   "size": 2,
   "tier": 3,
-  "itemCapacity": 3,
+  "itemCapacity": 150,
   "drillTime": 196,
   "hasPower": false,
   "powerConsumes": 1,
