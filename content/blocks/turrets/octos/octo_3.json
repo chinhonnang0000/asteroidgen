@@ -18,28 +18,11 @@
   "targetAir": true,
   "targetGround": true,
   "ammoTypes": {
-    "copper": {
-      "speed": 6,
-      "ammoMultiplier": 1,
-      "hitSize": 8,
-      "type": "BasicBulletType",
-      "width": 8,
-      "damage": 46,
-      "lifetime": 50,
-      "height": 8,
-    },
-"graphite": 	{"ammoMultiplier":2,"damage":92,"height":8,"hitSize":8,"lifetime":50,"speed":7,"type":"BasicBulletType","width":8,},
-"lead":		{"ammoMultiplier":1, "damage":31,"height":8,"hitSize":7,"lifetime":50,"speed":7,"type":"BasicBulletType","width":8,},
-"silicon": 	{"ammoMultiplier":2, "damage":69,
-      "type": "BasicBulletType",
-      "height": 8,
-      "width": 8,
-      "speed": 6,
-      "lifetime": 50,
-      "hitSize": 8,
-      "homingPower": 0.9,
-      "homingRange": 120
-    }
+  "copper": {"ammoMultiplier":1,"damage":46,"height":9,"hitSize":8,"lifetime":50,"speed":8,"type":"BasicBulletType","width":8},
+"graphite": {"ammoMultiplier":2,"damage":92,"height":9,"hitSize":8,"lifetime":50,"speed":8,"type":"BasicBulletType","width":8},
+"lead":		  {"ammoMultiplier":1,"damage":31,"height":9,"hitSize":7,"lifetime":50,"speed":8,"type":"BasicBulletType","width":8},
+"silicon": 	{"ammoMultiplier":2,"damage":69,"height":9,"hitSize":8,"lifetime":50,"speed":8,"type":"BasicBulletType","width":8,  
+      "homingPower": 0.9,"homingRange": 120}
   },
   "requirements": [{"item":"copper","amount":140}{"item": "lead","amount": 140}{"item": "titanium","amount": 140}],
   "category": "turret",
