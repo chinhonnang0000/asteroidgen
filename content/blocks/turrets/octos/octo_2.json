@@ -18,9 +18,9 @@
   "targetAir": true,
   "targetGround": true,
   "ammoTypes": {
-  "copper": {"ammoMultiplier":1,"damage":29,"height":8,"hitSize":8,"lifetime":50,"speed":5,"type":"BasicBulletType","width":8,},
-"graphite": {"ammoMultiplier":2,"damage":58,"height":8,"hitSize":8,"lifetime":50,"speed":5,"type":"BasicBulletType","width":8,},
-"lead":		  {"ammoMultiplier":1,"damage":21,"height":8,"hitSize":8,"lifetime":50,"speed":5,"type":"BasicBulletType","width":8,},
+  "copper": {"ammoMultiplier":1,"damage":29,"height":8,"hitSize":8,"lifetime":50,"speed":5,"type":"BasicBulletType","width":8},
+"graphite": {"ammoMultiplier":2,"damage":58,"height":8,"hitSize":8,"lifetime":50,"speed":5,"type":"BasicBulletType","width":8},
+"lead":		  {"ammoMultiplier":1,"damage":21,"height":8,"hitSize":8,"lifetime":50,"speed":5,"type":"BasicBulletType","width":8},
 "silicon":  {"ammoMultiplier":2,"damage":43,"height":8,"hitSize":8,"lifetime":50,"speed":5,"type":"BasicBulletType","width":8,
       "homingPower": 0.9,"homingRange": 120 }
   },
