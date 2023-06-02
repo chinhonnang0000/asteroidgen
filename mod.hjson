@@ -1,0 +1,8 @@
+author: Chin Hon Nang
+displayName: asteroid planet
+dependencies:[]
+description: Asteroid planets generated using asteroidGenerator. Comes with some techs to advance. Starts with underpowered lead-based structures. for lead is soft but is very abundant in asteroidGerator-generated fields.
+hidden:false
+name: asteroidplanet
+minGameVersion: 141
+version: build 0
