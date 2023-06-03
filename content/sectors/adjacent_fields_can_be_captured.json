@@ -1,0 +1,17 @@
+{
+"research":{
+parent:1,
+objectives:[{type: SectorComplete,preset:1}]
+},
+  "localizedName": "Abondoned lead mine",
+  "description": "Some instruction on how to capture some adjacent fields where techs provided by this mod is focused on.",
+  "difficulty": 0,
+  "planet": "asteroidgen",
+  "captureWave": 0,
+  "sector": 12,
+  "isLastSector": false,
+  "alwaysUnlocked": false,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "addStartingItems": true,
+}
