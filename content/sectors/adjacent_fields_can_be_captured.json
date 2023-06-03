@@ -3,7 +3,7 @@
 parent:1,
 objectives:[{type: SectorComplete,preset:1}]
 },
-  "localizedName": "Abondoned lead mine",
+  "localizedName": "Adjacent fields can be captured",
   "description": "Some instruction on how to capture some adjacent fields where techs provided by this mod is focused on.",
   "difficulty": 0,
   "planet": "asteroidgen",
