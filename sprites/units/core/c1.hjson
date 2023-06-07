@@ -1,0 +1,17 @@
+alwaysUnlocked: false,
+buildRange:20,
+buildSpeed:1,
+canAttack:true,
+contorller: BuilderAI,
+coreUnitDock:true,
+flying:true,
+health: 20,
+itemCapacity: 10,
+localisedName: "scout C1",
+mineFloor:true
+mineRange: 25
+mineTier: 1
+mineWalls:true
+speed: 1,
+type:flying,
+weapons:[{bullet:{damage:5,speed:3,lifetime:40},name:cl_gun,range:50,reload:100,top:false}],
