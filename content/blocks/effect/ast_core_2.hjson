@@ -1,0 +1,13 @@
+{
+alwaysUnlocked:false,
+"category": "effect",
+health:600
+isFirstTier:false
+itemCapacity: 1250
+localizedName: "asteroidgen core 2: initiate core",
+requirements: [{"item":"lead","amount":200},{"item":"titanium","amount":200}]
+research:ast_core_1
+size:2
+type:CoreBlock
+unitType:c2
+}
