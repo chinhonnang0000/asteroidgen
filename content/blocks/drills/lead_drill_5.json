@@ -1,0 +1,20 @@
+{
+  "name": "commander lead Drill",
+  "description": "The entry level commander lead drill. Adds to unit limits. ",
+"health": 600,  
+"type": "Drill",
+  "size": 4,
+  "tier": 2,
+  "itemCapacity": 50,
+  "drillTime": 960,
+  "hasPower": false,
+  "powerConsumes": 1,
+  "drawMineItem": false,
+  "consumes": {
+    "liquid": {"liquid": "water","amount": 0.02,"optional": true,"booster": true}
+  },
+  "requirements": [{"item":"lead","amount":150}],
+  "category": "production",
+  "research":{parent:"lead_drill_4", objectives:[{"type":"SectorComplete",preset:"3"}]}
+  "unitCapModifier": 1
+}
