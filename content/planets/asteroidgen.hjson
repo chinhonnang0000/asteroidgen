@@ -11,8 +11,8 @@ atmosphereRadIn: 0.05
 atmosphereRadOut: 0.5
 bloom: false
 camRadius: 0.4
-clearSectorOnLose: false,
-cloudMesh:{color:987987,divisions:6,planet:asteroidgen,radius:0.2,seed:23,speed:4,type:HexSkyMesh},
+clearSectorOnLose: false
+cloudMesh:{}
 defaultCore: core-shard
 drawOrbit: true
 
