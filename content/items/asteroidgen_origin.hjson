@@ -4,7 +4,7 @@ description: Asteroidgen is named after the default JSON planet generator naled 
 name: asteroidgen research origin
     research: {
         root: true
-        name: asteroid planet
+        name: asteroidgen research origin
         planet: asteroidgen
     }
     hiddenOnPlanets: []
