@@ -1,3 +1,4 @@
+{
 accessible: true
 allowLaunchLoadout: true
 allowLaunchSchematics: true
@@ -65,3 +66,4 @@ startSector: 0
 sectorSize: 4
 updateLighting: false
 visible: true
+}
