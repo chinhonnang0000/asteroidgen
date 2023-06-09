@@ -12,6 +12,7 @@ bloom: false
 camRadius: 0.4
 clearSectorOnLose: false
 defaultCore: core-shard
+description: "A test planets for field test so that the modder does not have to reset the game data to test some fields he creates.",
 drawOrbit: true
 
 generator:{
@@ -58,6 +59,11 @@ orbitRadius: 190
 orbitSpacing: 140
 parent: sun
 radius: 1.21
+research: {
+        root: true
+        name: asteroidgen test
+        planet: asteroidgen
+    }
 solarSystem: sun
 sectorSeed: 132134
 startSector: 0
