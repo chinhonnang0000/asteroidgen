@@ -1,1 +1,1 @@
-require("planets");
+require("pl");
