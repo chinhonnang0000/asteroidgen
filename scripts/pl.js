@@ -1,5 +1,4 @@
-Events.on(ContentInitEvent, e => 
-{
+Events.on(ContentInitEvent, e => {
     Vars.content.planet("asteroidgen-alter").generator = new ErekirPlanetGenerator(); //to see if the script being executed. 
 });
 /*
@@ -19,5 +18,5 @@ var replace_space_with_coreZone = extend(AsteroidGenerator,
         }
     }
 });
-*/
 function ast_sectorSize_changed(size){var b=extend(AsteroidGenerator,{getSectorSize(sector){return size}});}
+*/
