@@ -1,0 +1,56 @@
+accessible: true
+allowLaunchLoadout: true
+allowLaunchSchematics: true
+allowSectorInvasion: true
+allowWaves: true
+allowWaveSimulation: true
+alwaysUnlocked: true
+atmosphereColor: 688687
+atmosphereRadIn: 0.05
+atmosphereRadOut: 0.5
+bloom: false
+camRadius: 0.4
+clearSectorOnLose: false
+defaultCore: core-shard
+drawOrbit: true
+
+generator:{
+baseseed: 124
+berylChance:0.20
+carbonChance:0.20
+ferricChance:0.20
+iceChance:0.10
+seed:125
+type:SerpuloPlanetGenerator
+}
+
+hasAtmosphere: true
+hiddenItems:[]
+iconColor: 697989
+launchCandidates: []
+localizedName: alter
+
+mesh: {
+  type: NoiseMesh
+  seed: 69
+  divisions: 4
+  color1: 979797
+  color2: 080006
+  radius: 1.11
+  octaves: 4
+  persistence: 0.538
+  scale: 1
+  mag: 1.5
+}
+
+minZoom: 0.17
+orbitRadius: 220
+orbitSpacing: 140
+parent: sun
+radius: 1.21
+solarSystem: sun
+sectorSeed: 575
+startSector: 0
+sectorSize: 4
+updateLighting: false
+visible: true
