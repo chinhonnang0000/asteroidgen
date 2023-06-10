@@ -5,5 +5,5 @@ Events.on(ContentInitEvent, e => {
 var space_to_coreZone = extend(AsteroidGenerator,{generate()
 {
     var seed = state.rules.sector.planet.id;
-    var sx:int = width/2, sy = height/2;
+    var sx = width/2, sy = height/2;
 }}); 
