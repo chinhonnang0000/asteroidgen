@@ -1,3 +1,7 @@
+Events.on(ContentInitEvent, e => 
+{
+    Vars.content.planet("asteroidgen-alter").generator = replace_space_with_coreZone;
+});
 var replace_space_with_coreZone = extend(AsteroidGenerator,
 {
     generate()
