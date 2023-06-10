@@ -9,6 +9,7 @@ var replace_space_with_coreZone = extend(AsteroidGenerator,
         
         while(i < amount)
         {
+            var radius = rand.random(radMin, radMax); var ax = rand.random(radius, width - radius); var ay = rand.random(radius, height - radius);
             i = i+1;
         }
     }
