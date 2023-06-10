@@ -28,7 +28,7 @@ hasAtmosphere: true
 hiddenItems:[]
 iconColor: 697989
 launchCandidates: []
-localizedName: alter
+localizedName:"unplayable"
 
 mesh: {
   type: NoiseMesh
