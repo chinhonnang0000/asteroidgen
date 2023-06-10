@@ -7,5 +7,5 @@ var space_to_coreZone = extend(AsteroidGenerator,{generate()
     var seed = state.rules.sector.planet.id;
     var sx = width/2, sy = height/2;
     var rand = new Rand(seed);
-    var background = Blocks.empty.asFloor(); tiles.eachTile(t -> t.setFloor(background));
+    var background = Blocks.empty.asFloor(); //tiles.eachTile(t -> t.setFloor(background));
 }}); 
