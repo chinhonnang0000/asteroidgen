@@ -3,6 +3,16 @@ Events.on(ContentInitEvent, e => {
 });
 
 var space_to_coreZone = extend(AsteroidGenerator,{
+    asteroid(x,y,z)
+    {
+        var floor = (rand.chance(iceChance) ? Blocks.ice :
+            rand.chance(carbonChance) ? Blocks.carbonStone :
+            rand.chance(berylChance) ? Blocks.beryllicStone :
+            rand.chance(ferricChance) ? Blocks.ferricStone:Blocks.stone
+        ).asFloor();
+        
+    },
+    
     generate()
     {
         var seed = 1082; var width=500; var height=500;    
