@@ -13,7 +13,7 @@ var space_to_coreZone = extend(AsteroidGenerator,{
         var sx = 250, sy = 250;
         var rand = new Rand(seed);
         var background = Blocks.empty.asFloor(); 
-        tiles.eachTile(t -> t.setFloor(background));
+        tiles.eachTile();
         aste(sx, sy, rand.random(30, 50));// does not work
         var amount = rand.random(3, 99);
         while(i < amount)
