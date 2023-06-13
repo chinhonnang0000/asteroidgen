@@ -1,6 +1,6 @@
 {
   "name": "titanium Lead Router",
-  "description": "Distributes items to 3 output directions equally. Slower than the regular router. Useful in low-copper places",
+  "description": "Distributes items to 3 output directions equally. faster and stronger than the regular router. Useful in low-copper places",
   "type": "Router",
   "dumpTime": 1,
   "speed": 1,
