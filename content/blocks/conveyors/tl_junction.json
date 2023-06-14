@@ -2,7 +2,7 @@
   "name": "titanium lead Junction",
   "description": "superior to standard junctions. Useful where copper is scarce",
   "type": "Junction",
-  "speed": 800,
+  "speed": 1,
   "health": 240,
   "size": 1,
   "requirements": [{"item": "lead", "amount": 3},{"item":"titanium","amount":3}],
