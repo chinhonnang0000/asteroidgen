@@ -3,7 +3,7 @@
   "description": "Distributes items to 3 output directions equally. faster and stronger than the regular router. Useful in low-copper places",
   "type": "Router",
   "dumpTime": 1,
-  "speed": 1,
+  "speed": 10,
   "health": 240,
   "itemCapacity": 80,
   "size": 1,
