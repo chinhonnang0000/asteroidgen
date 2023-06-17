@@ -10,7 +10,7 @@
 "drawer":{}
 "hasItems":true,  
 "hasPower":true,
-"health":4200,
+"health":10000,
 "itemCapacity": 120,
 "name":"aeg_smelter",
 "outputItem":{"item":"aeg_alloy","amount":1},
