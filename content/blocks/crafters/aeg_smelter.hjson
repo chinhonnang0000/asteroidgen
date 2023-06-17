@@ -6,13 +6,13 @@
 
 "craftTime": 180,
 "description":"Produce a very strong alloy and uses a lot of energy",
-"displayName":"titanberyl smelter",
+"displayName":"aeg alloy smelter",
 "drawer":{}
 "hasItems":true,  
 "hasPower":true,
 "health":4200,
 "itemCapacity": 120,
-"name":"titanberyl smelter",
+"name":"aeg_smelter",
 "outputItem":{"item":"aeg_alloy","amount":1},
 
 "requirements":[
