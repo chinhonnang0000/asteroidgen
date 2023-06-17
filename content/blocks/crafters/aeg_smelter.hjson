@@ -1,0 +1,28 @@
+"category":"crafting"
+
+"consumes":{"power":19
+"items":[{"item":"beryllium","amount":1},{"item":"thorium","amount":1},{"item":"titanium","amount":1}]
+}
+
+"craftTime": 180,
+"description":"Produce a very strong alloy and uses a lot of energy",
+"displayName":"titanberyl smelter",
+"drawer":{}
+"hasItems":true,  
+"hasPower":true,
+"health":4200,
+"itemCapacity": 120,
+"name":"titanberyl smelter",
+"outputItem":{"item":"aeg_alloy","amount":1},
+
+"requirements":[
+{"item":"titanberyl","amount":250},
+{"item":"thorium","amount":240},
+{"item":"lead","amount":260},
+{"item":"silicon","amount":250},
+{"item":"titanium","amount":250},
+],
+
+"research":{"parent":"titanberyl_smelter",objectives: [{type: "OnSector","preset": "4"}]}
+"size":3
+"type":"GenericCrafter"
