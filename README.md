@@ -12,7 +12,7 @@ campaign
 - more overpowered techs as you progress throgh this mod.
 - No hidden items, Techs from other mods can be brought here as long as resources are available.
 - Launch to adjacent and non-user generated fields. They can be captured by :
-- - save and quit, abondaon, lose the battle or swapping fields.    
+- - save and quit, abondaon, lose the battle or swapping fields. Then the field will have 30 waves instead of infinite waves.    
 
 Work in progress, excluding bugfixes
 - AEGA (asteridgen endgame alloy) tier - conveyor, turrets and drills. They are expected to be highly overpowered.
