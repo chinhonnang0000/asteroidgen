@@ -4,7 +4,7 @@
   "description": "enhanced multi-purpose defense.",
   "health": 20000,
   "reload": 48,
-  "range": 539,
+  "range": 545,
   "size": 3,
   "consumes": { "coolant": { "amount": 0.1 } },
   "shoot": {
@@ -18,12 +18,12 @@
   "targetAir": true,
   "targetGround": true,
   "ammoTypes": {
-    "copper": 	{"ammoMultiplier":1,"damage":262,"height":9,"hitSize":9,"lifetime":50,"speed":9,"type":"BasicBulletType","width":8,},
-"graphite": 	{"ammoMultiplier":2,"damage":372,"height":9,"hitSize":9,"lifetime":50,"speed":9,"type":"BasicBulletType","width":8,},
-"lead":		{"ammoMultiplier":1,"damage":190,"height":9,"hitSize":9,"lifetime":50,"speed":9,"type":"BasicBulletType","width":8,},
-"silicon": 	{"ammoMultiplier":2,"damage":340,"height":9,"hitSize":9,"lifetime":50,"speed":3,"type":"BasicBulletType","width":8,
+    "copper": 	{"ammoMultiplier":1,"damage":262,"height":9,"hitSize":9,"lifetime":50,"speed":13,"type":"BasicBulletType","width":8,},
+"graphite": 	  {"ammoMultiplier":2,"damage":372,"height":9,"hitSize":9,"lifetime":50,"speed":13,"type":"BasicBulletType","width":8,},
+"lead":		      {"ammoMultiplier":1,"damage":190,"height":9,"hitSize":9,"lifetime":50,"speed":13,"type":"BasicBulletType","width":8,},
+"silicon": 	    {"ammoMultiplier":2,"damage":340,"height":9,"hitSize":9,"lifetime":50,"speed":13,"type":"BasicBulletType","width":8,
       "homingPower": 0.9,"homingRange": 120},
-"titanium": 	{"ammoMultiplier":1,"damage":522,"height":9,"hitSize":9,"lifetime":50,"speed":9,"type":"BasicBulletType","width":8,}
+"titanium": 	{"ammoMultiplier":1,"damage":522,"height":9,"hitSize":9,"lifetime":50,"speed":13,"type":"BasicBulletType","width":8,}
   },
   "requirements": [{"item": "copper","amount": 350},{"item": "lead","amount": 350},{"item": "titanberyl","amount": 350}],
   "category": "turret",
