@@ -22,13 +22,8 @@
   "consumes": {
     "power": 3,
   },
-  "requirements": [
-{"item": "lead","amount": 100},
-{"item": "copper","amount": 60},],
+  "requirements": [{"item": "lead","amount": 100},{"item": "copper","amount": 60}],
   "category": "production",
   "research": "copper_extractor",
-  "outputItem": {
-    "item": "copper",
-    "amount": 1
-  }
+  "outputItem": {"item": "coal","amount": 1}
 }
