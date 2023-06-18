@@ -1,7 +1,7 @@
 author: Chin Hon Nang
 displayName: asteroidgen
 dependencies:[]
-description: Asteroid planets generated using asteroidGenerator. Comes with some techs to advance. Starts with underpowered lead-based structures. for lead is soft but is very abundant in asteroidGerator-generated fields.
+description: Asteroidgen generated using AsteroidGenerator. Named after AsteroidGenerator. It has its own planet (and missions) and techtree"
 hidden:false
 name: asteroidgen
 minGameVersion: 141
