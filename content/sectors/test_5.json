@@ -1,6 +1,6 @@
 {
 "research":{parent:"test_1",objectives:[{type: SectorComplete,"preset":"test_1"}]}
-  "localizedName": "sector 5",
+  "localizedName": "sector 5 test",
   "description": "tons of antumbra."
   "difficulty": 7,
   "planet": "asteroidgen_test",
