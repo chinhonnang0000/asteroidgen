@@ -1,0 +1,12 @@
+{
+  "name": "large aega wall",
+  "description": "large wall made of aeg_alloy. stronger than large titanberyl walls.",
+  "type": "Wall",
+  "health": 40000,
+  "size": 3,
+  "requirements": [{"item": "aeg_alloy","amount": 60}],
+  "category": "defense",
+  "research": {
+   "parent": "aega_wall_2"
+  }
+}

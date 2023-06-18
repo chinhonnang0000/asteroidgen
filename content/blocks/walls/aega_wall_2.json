@@ -1,0 +1,12 @@
+{
+  "name": "medium aega wall",
+  "description": "Small wall made of aeg_alloy. stronger than titanberyl walls.",
+  "type": "Wall",
+  "health": 17500,
+  "size": 2,
+  "requirements": [{"item": "aeg_alloy","amount": 24}],
+  "category": "defense",
+  "research": {
+   "parent": "aega_wall_1"
+  }
+}

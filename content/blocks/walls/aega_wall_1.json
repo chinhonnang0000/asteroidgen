@@ -1,0 +1,12 @@
+{
+  "name": "small aega wall",
+  "description": "Small wall made of aeg_alloy. stronger than small titnberyl walls.",
+  "type": "Wall",
+  "health": 4200,
+  "size": 1,
+  "requirements": [{"item": "aeg_alloy","amount": 6}],
+  "category": "defense",
+  "research": {
+   "parent": "aeg_smelter"
+  }
+}
