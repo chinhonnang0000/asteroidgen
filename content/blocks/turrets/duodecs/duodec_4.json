@@ -14,7 +14,7 @@
     "shotDelay":5,
   },
   "researchCostMultiplier": 0.1,
-  "inaccuracy": 3,
+  "inaccuracy": 1,
   "targetAir": true,
   "targetGround": true,
   "ammoTypes": {
