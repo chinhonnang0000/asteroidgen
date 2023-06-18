@@ -6,7 +6,5 @@
   "size": 1,
   "requirements": [{"item": "aeg_alloy","amount": 6}],
   "category": "defense",
-  "research": {
-   "parent": "aeg_smelter"
-  }
+  "research": {"parent": "aeg_smelter"}
 }
