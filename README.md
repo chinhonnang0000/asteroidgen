@@ -1,13 +1,20 @@
-# asteroidgen
 
-About this mod: 
-A Mindusrty mod that provides techs for asteroidgen and other planets those use AsteroidGenerator as their planet generator. Named after AsteroidGenerator.
-techs to adapt in the asteroid generator planets where copper is scarce
-Expect subpar lead stuffs here. 
+about
+Mindustry mod named after AsteroiGenerator. 
+With this mod, some planets(not all) from other mods will be playable and capturable. as long as they are:
+- No hidden item
+- Allow to launch onto numbered sector(non-user generation). 
 
-This mod is far from complete. Still missing:
--tech unlock for field "drill data mines" where players have to fight a lot of zeniths. 
--mass drivers for other planets that uses AsteroidGenerator. 
+campaign
+- 1 main planet. 1 test planet. 
+- 5 main missions (excluding tests and sides). 
+- start with subpar lead tier techs.  
+- more overpowered techs as you progress throgh this mod.
+- No hidden items, Techs from other mods can be brought here as long as resources are available.  
 
-About AsteroidGenerator
-A default planet generator for Mindustry v7 planets. Cannot be changed away using hjson. To change away the planet generator, the javascript will be required. Otherwise, using java and CLASS files.   
+Work in progress, excluding bugfixes
+- AEGA (asteridgen endgame alloy) tier - conveyor, turrets and drills. They are expected to be highly overpowered.
+
+Proposed untouched (not started yet)
+- skilltree for erida (requires titanberyl or AEGA).
+- skilltree for Jason 2.0 - to cause the planet to be playable.  (lead => copper => titanium(silicon) => thorium )
