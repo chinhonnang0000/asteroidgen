@@ -3,7 +3,7 @@
   "description": "The entry level commander lead drill. Adds to unit limits. ",
 "health": 600,  
 "type": "Drill",
-  "size": 4,
+  "size": 5,
   "tier": 2,
   "itemCapacity": 50,
   "drillTime": 960,
