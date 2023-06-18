@@ -1,0 +1,17 @@
+{
+"research":{
+  parent:"3",
+  objectives:[{type: SectorComplete,preset:3}]
+}
+  "localizedName": "sector 5",
+  "description": "tons of antumbra."
+  "difficulty": 3,
+  "planet": "asteroidgen",
+  "captureWave": 12,
+  "sector": 5,
+  "isLastSector": false,
+  "alwaysUnlocked": false,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "addStartingItems": true,
+}
