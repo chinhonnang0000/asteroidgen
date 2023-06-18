@@ -10,7 +10,9 @@ campaign
 - 5 main missions (excluding tests and sides). 
 - start with subpar lead tier techs.  
 - more overpowered techs as you progress throgh this mod.
-- No hidden items, Techs from other mods can be brought here as long as resources are available.  
+- No hidden items, Techs from other mods can be brought here as long as resources are available.
+- Launch to adjacent and non-user generated fields. They can be captured by :
+- - save and quit, abondaon, lose the battle or swapping fields.    
 
 Work in progress, excluding bugfixes
 - AEGA (asteridgen endgame alloy) tier - conveyor, turrets and drills. They are expected to be highly overpowered.
