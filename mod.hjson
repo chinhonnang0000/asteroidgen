@@ -1,7 +1,7 @@
 author: Chin Hon Nang
 displayName: asteroidgen
 dependencies:[]
-description: Asteroidgen generated using AsteroidGenerator. Named after AsteroidGenerator. It has its own planet (and missions) and techtree.\n\n click repo for more details."
+description: "Asteroidgen generated using AsteroidGenerator. Named after AsteroidGenerator. It has its own planet (and missions) and techtree.\n\n click repo for more details."
 hidden:false
 name: asteroidgen
 minGameVersion: 141
