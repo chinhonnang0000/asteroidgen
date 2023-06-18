@@ -7,6 +7,6 @@
   "requirements": [{"item":"lead","amount":2},{"item": "titanium","amount": 2}],
   "category": "distribution",
   "speed": 0.16,
-  "displayedSpeed": 32,
+  "displayedSpeed": 8,
   "research": "lead_pb_1"
 }
