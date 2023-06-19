@@ -4,7 +4,7 @@
 "description":"stack conveyor made with titanberyl",
 "health":500,
 "itemCapacity":10,
-"requirements":{[{"item":"titanberyl","amount":1}]}
+"requirements":[{"item":"titanberyl","amount":1}]
 "research":"titanberyl_smelter",
 "speed":0.16,
 "type":"StackConveyor",
