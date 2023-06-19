@@ -1,8 +1,5 @@
 {
-"research":{
-  parent:"3",
-  objectives:[{type: SectorComplete,preset:5}]
-}
+"research":{"parent":"5","objectives":[{"type":"SectorComplete","preset":"5"}]},
   "localizedName": "sector 6",
   "description": "Not the last battle."
   "difficulty": 3,
