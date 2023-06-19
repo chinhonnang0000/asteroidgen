@@ -1,6 +1,6 @@
 {
   "type": "ItemTurret",
-  "name": "titanium-lead enforced octo",
+  "name": "titanberyl-lead enforced octo",
   "description": "Eveready turret. combining 4 duos. They are now integrated to deal more damage and more efficient.",
   "health": 5000,
   "reload": 48,
@@ -22,8 +22,7 @@
 "graphite": 	{"ammoMultiplier":2,"damage":200,"height":13,"hitSize":12,"lifetime":50,"speed":12,"type":"BasicBulletType","width":8,},
 "lead":		    {"ammoMultiplier":1, "damage":65,"height":13,"hitSize":12,"lifetime":50,"speed":12,"type":"BasicBulletType","width":8,},
 "silicon": 	  {"ammoMultiplier":2,"damage":144,"height":13,"hitSize":12,"lifetime":50,"speed":12,"type":"BasicBulletType","width":8,      
-      "homingPower": 0.9,
-      "homingRange": 120
+      "homingPower": 0.9,"homingRange": 120
     }
   },
   "requirements": [{"item":"copper","amount":140}{"item": "lead","amount": 140}{"item": "titanberyl","amount": 140}],
