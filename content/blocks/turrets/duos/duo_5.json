@@ -1,0 +1,34 @@
+{
+  "type": "ItemTurret",
+  "name": "AEGA lead enhanced duo",
+  "description": "duo made of AEGA alloy and lead",
+  "health": 5000,
+  "reload": 40,
+  "range": 359.4,
+  "size": 1,
+  "consumes": { 
+    "coolant": { 
+       "amount": 0.1 } 
+  },
+  "shoot": {
+    "type": "ShootAlternate",
+    "shots": 2,
+    "spread": 4,
+    "shotDelay": 15
+  },
+  "researchCostMultiplier": 0.1,
+  "inaccuracy": 2,
+  "targetAir": true,
+  "targetGround": true,
+  "ammoTypes": {
+"copper": 	{"ammoMultiplier":2,"damage":113,"height":15,"hitSize":15,"lifetime":69,"speed":14,"type":"BasicBulletType","width":8},
+"graphite": 	{"ammoMultiplier":4,"damage":226,"height":15,"hitSize":15,"lifetime":69,"speed":14,"type":"BasicBulletType","width":8},
+"lead":		{"ammoMultiplier":2,"damage": 75,"height":15,"hitSize":15,"lifetime":69,"speed":14,"type":"BasicBulletType","width":8},
+"silicon": 	{"ammoMultiplier":3,"damage":208,"height":15,"hitSize":15,"lifetime":73,"speed":14,"type":"BasicBulletType","width":8,
+      "homingPower": 1,"homingRange": 160}
+  },
+  "requirements": [{"item": "aeg_alloy","amount": 35},{"item": "copper","amount": 35},{"item": "lead","amount": 35}],
+  "category": "turret",
+  "research": "duo_4",
+  "drawer": {"type": "DrawTurret"}
+}
