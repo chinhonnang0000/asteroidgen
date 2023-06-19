@@ -1,0 +1,17 @@
+{
+"research":{
+  parent:"3",
+  objectives:[{type: SectorComplete,preset:5}]
+}
+  "localizedName": "sector 6",
+  "description": "Not the last battle."
+  "difficulty": 3,
+  "planet": "asteroidgen",
+  "captureWave": 16,
+  "sector": 6,
+  "isLastSector": false,
+  "alwaysUnlocked": false,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "addStartingItems": true,
+}
