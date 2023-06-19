@@ -6,7 +6,7 @@
 "itemCapacity":7,
   "requirements": [{"item":"lead","amount":2},{"item": "titanium","amount": 2}],
   "category": "distribution",
-  "speed": 0.16,
-  "displayedSpeed": 16,
+  "speed": 0.2,
+  "displayedSpeed": 20,
   "research": "lead_pb_1"
 }
