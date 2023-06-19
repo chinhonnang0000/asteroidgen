@@ -3,7 +3,7 @@
   "name": "titanb bridge conveyor"
   "description": "longer range than titanium-lead bridge conveyor",
   "health": 1200,
-  "requirements": [{"item": "titanb","amount": 12}],
+  "requirements": [{"item": "titanberyl","amount": 12}],
   "range": 14,
   "transportTime": 0.5,
   "hasPower": false,
