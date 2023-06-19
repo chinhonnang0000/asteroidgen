@@ -1,0 +1,11 @@
+{
+"category":"distribution",
+"displayName":"AEGA stack conveyor",
+"description":"stack conveyor made with AEGA",
+"health":1500,
+"itemCapacity":30,
+"requirements":{[{"item":"aeg_alloy","amount":1}]}
+"research":"aeg_smelter",
+"speed":0.34,
+"type":"StackConveyor",
+}

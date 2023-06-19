@@ -1,0 +1,11 @@
+{
+  "name": "AEGA Junction",
+  "description": "N.A",
+  "type": "Junction",
+  "speed": 8,
+  "health": 1000,
+  "size": 1,
+  "requirements": [{"item": "aeg_alloy", "amount": 3}],
+  "category": "distribution",
+  "research": "aega_st_conv",
+}
