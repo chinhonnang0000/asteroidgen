@@ -1,0 +1,34 @@
+{
+  "type": "ItemTurret",
+  "name": "AEGA enforced duodec",
+  "description": "currently the most overpowered turred in the mod unitl new turret type or next tier is added",
+  "health": 50000,
+  "reload": 48,
+  "range": 774,
+  "size": 3,
+  "consumes": { "coolant": { "amount": 0.1 } },
+  "shoot": {
+    "type": "ShootAlternate",
+    "shots": 20,
+    "spread": 1,
+    "shotDelay":5,
+  },
+  "researchCostMultiplier": 0.1,
+  "inaccuracy": 1,
+  "targetAir": true,
+  "targetGround": true,
+  "ammoTypes": {
+    "copper": 	{"ammoMultiplier":1,"damage": 547,"height":29,"hitSize":20,"lifetime":50,"speed":19,"type":"BasicBulletType","width":8,},
+"graphite": 	{"ammoMultiplier":2,"damage": 780,"height":29,"hitSize":20,"lifetime":50,"speed":19,"type":"BasicBulletType","width":8,},
+"lead":		{"ammoMultiplier":1,"damage": 484,"height":29,"hitSize":20,"lifetime":50,"speed":19,"type":"BasicBulletType","width":8,},
+"silicon": 	{"ammoMultiplier":2,"damage": 750,"height":29,"hitSize":20,"lifetime":50,"speed":23,"type":"BasicBulletType","width":8,
+      "homingPower": 0.9,"homingRange": 120},
+"titanium": 	{"ammoMultiplier":1,"damage":1100,"height":29,"hitSize":29,"lifetime":50,"speed":19,"type":"BasicBulletType","width":8,}
+  },
+  "requirements": [{"item": "copper","amount": 350},{"item": "lead","amount": 350},{"item": "aeg_alloy","amount": 350}],
+  "category": "turret",
+  "research":{parent:"duodec_4",
+   objectives: [{type: "OnSector",preset: "3"}],
+}
+  "drawer": {"type": "DrawTurret"}
+}
