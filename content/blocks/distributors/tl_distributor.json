@@ -4,8 +4,8 @@
   "type": "Router",
   "dumpTime": 1,
   "speed": 0.02,
-  "health": 120,
-  "itemCapacity": 10,
+  "health": 720,
+  "itemCapacity": 50,
   "size": 2,
   "requirements": [{"item": "lead", "amount": 8},{"item":"titanium","amount":8}]
   "category": "distribution",
