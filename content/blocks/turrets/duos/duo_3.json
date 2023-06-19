@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
-  "name": "beryllium-lead-enhanced duo",
-  "description": "Lead is used to slightly increase hp, increase range, and significantly increase damage. while beryllium increaseses more on hitpoints",
+  "name": "titanium-lead-enhanced duo",
+  "description": "Lead is used to slightly increase hp, increase range, and significantly increase damage. while titanium increaseses more on hitpoints",
   "health": 800,
   "reload": 48,
   "range": 220,
@@ -35,7 +35,7 @@
       "homingRange": 120
     }
   },
-  "requirements": [{"item": "beryllium","amount": 35},{"item": "copper","amount": 35},{"item": "lead","amount": 35}],
+  "requirements": [{"item": "titanium","amount": 35},{"item": "copper","amount": 35},{"item": "lead","amount": 35}],
   "category": "turret",
   "research": "duo_2",
   "drawer": {"type": "DrawTurret"}
