@@ -8,5 +8,5 @@
   "transportTime": 4,
   "hasPower": false,
   "category": "distribution",
-  "research": "titanb_distributor"
+  "research": "tl_distributor"
 }
