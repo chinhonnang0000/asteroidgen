@@ -7,7 +7,7 @@
   "health": 3000,
   "itemCapacity": 200,
   "size": 1,
-  "requirements": [{"item":"aeg-alloy","amount":4}]
+  "requirements": [{"item":"aeg_alloy","amount":4}]
   "category": "distribution",
   "research": "aega_junction",
 }
