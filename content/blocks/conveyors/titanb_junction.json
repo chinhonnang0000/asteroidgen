@@ -7,5 +7,5 @@
   "size": 1,
   "requirements": [{"item": "lead", "amount": 3}],
   "category": "distribution",
-  "research": "lead_conveyor",
+  "research": "titanb_st_conv",
 }
