@@ -1,6 +1,6 @@
 {
-  "name": "large titanberyl wall",
-  "description": "large wall made of titanberyl. stronger than huge thorium walls.",
+  "name": "extra-large titanberyl wall",
+  "description": "extra-large wall made of titanberyl. stronger than gigantic thorium walls.",
   "type": "Wall",
   "health": 32000,
   "size": 4,
