@@ -1,0 +1,13 @@
+{
+  "name": "titanberyl Distributor",
+  "description": "The actual item capcaity for all distributoirs is one. There is no use to change that.",
+  "type": "Router",
+  "dumpTime": 1,
+  "speed": 0.02,
+  "health": 6000,
+  "itemCapacity": 400,
+  "size": 2,
+  "requirements": [{"item": "aeg_alloy", "amount": 8}]
+  "category": "distribution",
+  "research": "aega_router",
+}
