@@ -1,0 +1,13 @@
+{
+  "name": "titanberyl router",
+  "description": "N/A",
+  "type": "Router",
+  "dumpTime": 1,
+  "speed": 30,
+  "health": 600,
+  "itemCapacity": 200,
+  "size": 1,
+  "requirements": [{"item":"titanberyl","amount":4}]
+  "category": "distribution",
+  "research": "titanb_junction",
+}
