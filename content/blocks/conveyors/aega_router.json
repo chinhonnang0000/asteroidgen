@@ -9,5 +9,5 @@
   "size": 1,
   "requirements": [{"item":"aeg-alloy","amount":4}]
   "category": "distribution",
-  "research": "titanb_junction",
+  "research": "aega_junction",
 }
