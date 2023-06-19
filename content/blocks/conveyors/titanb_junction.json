@@ -1,0 +1,11 @@
+{
+  "name": "titanberyl Junction",
+  "description": "stronger than many junctions",
+  "type": "Junction",
+  "speed": 0.6,
+  "health": 500,
+  "size": 1,
+  "requirements": [{"item": "lead", "amount": 3}],
+  "category": "distribution",
+  "research": "lead_conveyor",
+}
