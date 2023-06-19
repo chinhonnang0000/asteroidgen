@@ -15,7 +15,7 @@ campaign
 - - save and quit, abondaon, lose the battle or swapping fields. Then the field will have 30 waves instead of infinite waves.    
 
 Work in progress, excluding bugfixes
-- AEGA (asteridgen endgame alloy) tier - conveyor and drills. They are expected to be highly overpowered.
+- AEGA (asteridgen endgame alloy) tier - drills. They are expected to be highly overpowered.
 
 Proposed untouched (not started yet)
 - side missions 
