@@ -9,5 +9,5 @@
   "size": 2,
   "requirements": [{"item": "titanberyl", "amount": 8}]
   "category": "distribution",
-  "research": "tl_router",
+  "research": "titanb_router",
 }
