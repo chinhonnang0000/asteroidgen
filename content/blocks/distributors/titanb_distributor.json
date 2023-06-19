@@ -1,6 +1,6 @@
 {
   "name": "titanberyl Distributor",
-  "description": "The actual item capcaity for all distributoirs is one. There is no use to change that.",
+  "description": "The actual item capacity for all distributoirs is one. There is no use to change that.",
   "type": "Router",
   "dumpTime": 1,
   "speed": 0.02,
