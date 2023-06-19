@@ -1,6 +1,6 @@
 {
   "name": "titanberyl router",
-  "description": "N/A",
+  "description": "real item capacity is always 1 for all routers. There is no use to change itemCapacity",
   "type": "Router",
   "dumpTime": 1,
   "speed": 0.6,
