@@ -18,6 +18,7 @@ Work in progress, excluding bugfixes
 - AEGA (asteridgen endgame alloy) tier - drills. They are expected to be highly overpowered.
 
 Proposed untouched (not started yet)
+- mass drivers that need power. 
 - side missions 
 - skilltree for erida (requires titanberyl or AEGA).
 - skilltree for Jason 2.0 - to cause the planet to be playable.  (lead => copper => titanium(silicon) => thorium )
