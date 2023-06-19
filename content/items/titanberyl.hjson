@@ -1,5 +1,6 @@
 {
 alwaysUnlocked: false,
+color:6995a4,
 cost: 0.01,
 description: "Alloy mixed with titanium and berylium. Titanium is for toughness, beryillium is strength.", 
 name: titanberyl,
