@@ -2,7 +2,7 @@
   "type": "ItemBridge",
   "name": "titanb bridge conveyor"
   "description": "longer range than titanium-lead bridge conveyor",
-  "health": 1200,
+  "health": 2000,
   "requirements": [{"item": "titanberyl","amount": 12}],
   "range": 14,
   "transportTime": 0.5,
