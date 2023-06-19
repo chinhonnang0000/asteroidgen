@@ -6,6 +6,6 @@
 "itemCapacity":10,
 "requirements":[{"item":"titanberyl","amount":1}]
 "research":"titanberyl_smelter",
-"speed":0.16,
+"speed":0.2,
 "type":"StackConveyor",
 }
