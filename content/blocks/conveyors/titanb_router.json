@@ -3,7 +3,7 @@
   "description": "N/A",
   "type": "Router",
   "dumpTime": 1,
-  "speed": 30,
+  "speed": 0.6,
   "health": 600,
   "itemCapacity": 200,
   "size": 1,
