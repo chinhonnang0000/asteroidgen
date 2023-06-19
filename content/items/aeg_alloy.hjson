@@ -1,5 +1,6 @@
 {
 alwaysUnlocked: false,
+color: 9da3b7,
 cost: 0.01,
 description: "Asteroidgen enfgame alloy. Made with thorium, titanium, and beryllium", 
 name: aeg_alloy,
