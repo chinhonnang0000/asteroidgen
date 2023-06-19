@@ -1,0 +1,12 @@
+{
+  "type": "ItemBridge",
+  "name": "AEGA bridge conveyor"
+  "description": "longer range than titanberyl bridge conveyor",
+  "health": 6000,
+  "requirements": [{"item": "aeg_alloy","amount": 12}],
+  "range": 25,
+  "transportTime": 0.5,
+  "hasPower": false,
+  "category": "distribution",
+  "research": "lead_distributor"
+}
