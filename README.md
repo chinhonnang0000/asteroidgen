@@ -8,8 +8,11 @@ With this mod, some planets(not all) from other mods will be playable and captur
 campaign
 - 1 main planet. 1 test planet. 
 - 5 main missions (excluding tests and sides). 
-- start with subpar lead tier techs.  
-- more overpowered techs as you progress throgh this mod.
+- start with subpar lead tier techs.  and progress to subsequent tiers. - more overpowered techs as you progress throgh this mod.
+- - copper titanium 
+  - tibanberyl
+  - AEGA (work in progress)
+
 - No hidden items, Techs from other mods can be brought here as long as resources are available.
 - Launch to adjacent and non-user generated fields. They can be captured by :
 - - save and quit, abondaon, lose the battle or swapping fields. Then the field will have 30 waves instead of infinite waves.    
