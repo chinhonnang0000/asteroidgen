@@ -18,7 +18,7 @@
       "booster": true
     }
   },
-  "requirements": [{"item":"aeg_slloy","amount":60}],
+  "requirements": [{"item":"aeg_alloy","amount":60}],
   "category": "production",
   "research": "aega_drill_3"
 }
