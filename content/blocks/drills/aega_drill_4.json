@@ -1,0 +1,24 @@
+{
+  "name": "extra-large AEGA Drill",
+  "description": "An extra-large drill build from AEG Alloy. capable of mining tungsten and higher tiers",
+"health": 10000,  
+"type": "Drill",
+  "size": 4,
+  "tier": 7,
+  "itemCapacity": 1200,
+  "drillTime": 27,
+  "hasPower": false,
+  "powerConsumes": 1,
+  "drawMineItem": false,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [{"item":"aeg_slloy","amount":60}],
+  "category": "production",
+  "research": "aega_drill_3"
+}

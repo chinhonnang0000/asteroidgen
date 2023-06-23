@@ -1,0 +1,24 @@
+{
+  "name": "small AEGA Drill",
+  "description": "A tiny drill build from AEG alloy. capable of mining tungsten and higher tiers",
+"health": 500,  
+"type": "Drill",
+  "size": 1,
+  "tier": 7,
+  "itemCapacity": 60,
+  "drillTime": 30,
+  "hasPower": false,
+  "powerConsumes": 1,
+  "drawMineItem": false,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [{"item":"aeg_slloy","amount":3}],
+  "category": "production",
+  "research": "aeg_smelter"
+}
