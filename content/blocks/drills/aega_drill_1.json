@@ -18,7 +18,7 @@
       "booster": true
     }
   },
-  "requirements": [{"item":"aeg_slloy","amount":3}],
+  "requirements": [{"item":"aeg_alloy","amount":3}],
   "category": "production",
   "research": "aeg_smelter"
 }
