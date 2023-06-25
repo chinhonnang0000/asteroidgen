@@ -5,7 +5,7 @@
 {"item":"beryllium","amount":1},
 {"item":"titanium","amount":1}
 ]}
-
+"craftEffect":"smeltSmoke",
 "craftTime": 120,
 "description":"Mining titanium and beryllium together",
 "displayName":"titanberyl smelter",
