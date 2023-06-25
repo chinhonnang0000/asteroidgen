@@ -3,7 +3,7 @@
 "consumes":{"power":19
 "items":[{"item":"beryllium","amount":1},{"item":"thorium","amount":1},{"item":"titanium","amount":1}]
 }
-"craftEffect":"smeltSmoke",
+"craftEffect":"smeltsmoke",
 "craftTime": 180,
 "description":"Produce a very strong alloy and uses a lot of energy",
 "displayName":"aeg alloy smelter",
