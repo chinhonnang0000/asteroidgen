@@ -7,8 +7,9 @@
 ]}
 "craftEffect":"smeltsmoke",
 "craftTime": 120,
-"description":"Mining titanium and beryllium together",
+"description":"Mining titanium and beryllium together to form a very strong alloy",
 "displayName":"titanberyl smelter",
+"drawer":"DrawFlame",
 "hasItems":true,  
 "hasPower":true,
 "health":4200,
