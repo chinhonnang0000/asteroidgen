@@ -11,14 +11,14 @@ campaign
 - start with subpar lead tier techs.  and progress to subsequent tiers. - more overpowered techs as you progress throgh this mod.
 - - copper titanium 
   - tibanberyl
-  - AEGA (work in progress)
+  - AEGA . Asteroidgen endgame alloy. 
 
 - No hidden items, Techs from other mods can be brought here as long as resources are available.
 - Launch to adjacent and non-user generated fields. They can be captured by :
 - - save and quit, abondaon, lose the battle or swapping fields. Then the field will have 30 waves instead of infinite waves.    
 
 Work in progress, excluding bugfixes
-- AEGA (asteridgen endgame alloy) tier - drills. They are expected to be highly overpowered.
+- kilns, phase weavers, surge smelters, 
 
 Proposed untouched (not started yet)
 - mass drivers that need power. 
