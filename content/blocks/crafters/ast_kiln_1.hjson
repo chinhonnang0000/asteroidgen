@@ -13,4 +13,5 @@
 "requirements":[{"item":"lead","amount":30},{"item":"titanium","amount":30}],
 "research":"asteroidgen_origin",
 "size":2
+"type":"genericCrafter",
 }
