@@ -1,6 +1,7 @@
 {
 "category":"crafting"
 "craftEffect":"smeltsmoke",
+"craftTime":30, 
 "consumes":{"power":0.5,
 "items":{[{"item":lead,"amount":4},{"item":sand,"amount":4}]}
 }
@@ -12,4 +13,5 @@
 "requirements":[{"item":"lead","amount":40},{"item":"titanberyl","amount":40}],
 "research":"ast_kiln_1",
 "size":2
+"tyoe": "GenericCrafter",
 }
