@@ -9,6 +9,7 @@
 "displayNane":"titaberyl kiln",
 "health":1600,
 "itemCapacity":60,
+"name": "titanberyl kiln",
 "outputItem":{"item":"metaglass","amount":4},
 "requirements":[{"item":"lead","amount":40},{"item":"titanberyl","amount":40}],
 "research":"ast_kiln_1",
