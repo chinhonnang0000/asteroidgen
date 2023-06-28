@@ -1,0 +1,15 @@
+{
+"category":"crafting"
+"craftEffect":"smeltSmoke",
+"consumes":{"power":0.5,
+"items":{[{"item":lead,"amount":4},{"item":sand,"amount":4}]}
+}
+"description":"produces metaglass but without using copper",
+"displayNane":"titaberyl kiln",
+"health":1600,
+"item_capacity":60,
+"outputItem":{"item":"metaglass","amount":4},
+"requirements":[{"item":"lead","amount":40},{"item":"titanberyl","amount":40}],
+"research":"ast_kiln_1",
+"size":2
+}
