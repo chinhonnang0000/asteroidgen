@@ -9,6 +9,7 @@
 "displayNane":"AEGA kiln",
 "health":3600,
 "itemCapacity":160,
+"name": "AEGA kiln",
 "outputItem":{"item":"metaglass","amount":4},
 "requirements":[{"item":"lead","amount":50},{"item":"aeg_alloy","amount":50}],
 "research":"ast_kiln_2",
