@@ -8,7 +8,7 @@
 "description":"produces metaglass but without using copper",
 "displayNane":"AEGA kiln",
 "health":3600,
-"item_capacity":160,
+"itemCapacity":160,
 "outputItem":{"item":"metaglass","amount":4},
 "requirements":[{"item":"lead","amount":50},{"item":"aeg_alloy","amount":50}],
 "research":"ast_kiln_2",
