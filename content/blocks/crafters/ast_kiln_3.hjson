@@ -1,6 +1,6 @@
 {
 "category":"crafting"
-"craftEffect":"smeltSmoke",
+"craftEffect":"smeltsmoke",
 "consumes":{"power":0.5,
 "items":{[{"item":lead,"amount":14},{"item":sand,"amount":14}]}
 }
@@ -12,4 +12,5 @@
 "requirements":[{"item":"lead","amount":50},{"item":"aeg_alloy","amount":50}],
 "research":"ast_kiln_2",
 "size":2
+"tyoe": "GenericCrafter",
 }
