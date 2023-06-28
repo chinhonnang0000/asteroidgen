@@ -1,6 +1,6 @@
 {
 "category":"crafting"
-"craftEffect":"smeltSmoke",
+"craftEffect":"smeltsmoke",
 "consumes":{"power":0.5,
 "items":{[{"item":lead,"amount":4},{"item":sand,"amount":4}]}
 }
