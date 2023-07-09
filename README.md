@@ -15,7 +15,11 @@ campaign
 
 - No hidden items, Techs from other mods can be brought here as long as resources are available.
 - Launch to adjacent and non-user generated fields. They can be captured by :
-- - save and quit, abondaon, lose the battle or swapping fields. Then the field will have 30 waves instead of infinite waves.    
+- - save and quit,
+  - abondaon,
+  - lose the battle or swapping fields.
+  Then the field will have 30 waves instead of infinite waves.
+  or you can go above 30 waves then press save and quit.     
 
 Work in progress, excluding bugfixes
 - kilns, phase weavers, surge smelters, 
