@@ -22,7 +22,7 @@ campaign
   or you can go above 30 waves then press save and quit.     
 
 Work in progress, excluding bugfixes
-- kilns, phase weavers, surge smelters, 
+- phase weavers, surge smelters, 
 
 Proposed untouched (not started yet)
 - mass drivers that need power. 
