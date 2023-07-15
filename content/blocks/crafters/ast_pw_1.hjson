@@ -10,7 +10,7 @@
 "health":3600,
 "item_capacity":50,
 "name":"large phase weaver"
-"outputItem":{"item":"phaseFabric","amount":3},
+"outputItem":{"item":"phase-fabric","amount":3},
 "requirements":[{"item":"lead","amount":300},{"item":"silicon","amount":300},{"item":"thorium","amount":150}],
 "research":"asteroidgen_origin",
 "size":3,
