@@ -10,7 +10,7 @@
 "health":10000,
 "item_capacity":150,
 "name":"large titanberyl phase weaver"
-"outputItem":{"item":"phaseFarbrc","amount":5},
+"outputItem":{"item":"phase-fabric","amount":5},
 "requirements":[{"item":"lead","amount":300},{"item":"silicon","amount":300},{"item":"thorium","amount":150},{"item":"titanberyl","amount":300}],
 "research":{parent:"ast_pw_1", objectives:[{"type":"sectorComplete","preset":"pha"}]},
 "size":3,
