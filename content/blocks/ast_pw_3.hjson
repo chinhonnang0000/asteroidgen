@@ -1,0 +1,18 @@
+{
+"category":"crafting"
+"craftEffect":"smeltsmoke",
+"craftTime":120,
+"consumes":{"power":10,
+"items":[{"item":"thorium","amount":32},{"item":"sand","amount":80}]
+}
+"description":"produces phase fabric",
+"hasPower":true, 
+"health":25000,
+"item_capacity":350,
+"name":"AEGA phase weaver"
+"outputItem":{"item":"phase-fabric","amount":5},
+"requirements":[{"item":"lead","amount":300},{"item":"silicon","amount":300},{"item":"thorium","amount":150},{"item":"aeg_alloy","amount":300}],
+"research":{parent:"ast_pw_2", objectives:[{"type":"sectorComplete","preset":"pha"}]},
+"size":3,
+"type":"GenericCrafter"
+}
