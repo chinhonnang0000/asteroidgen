@@ -1,0 +1,17 @@
+{
+"research":{
+parent:2,
+objectives:[{type: SectorComplete,preset:2}]
+},
+  "localizedName": "Abondoned phase facility",
+  "description": "Phase tech and large phase weavers. Needed for next tier solar panels.",
+  "difficulty": 3,
+  "planet": "asteroidgen",
+  "captureWave": 21,
+  "sector": 22,
+  "isLastSector": false,
+  "alwaysUnlocked": false,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "addStartingItems": true,
+}
