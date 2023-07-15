@@ -10,7 +10,7 @@
 "health":25000,
 "item_capacity":350,
 "name":"AEGA phase weaver"
-"outputItem":{"item":"phase-fabric","amount":5},
+"outputItem":{"item":"phase-fabric","amount":15},
 "requirements":[{"item":"lead","amount":300},{"item":"silicon","amount":300},{"item":"thorium","amount":150},{"item":"aeg_alloy","amount":300}],
 "research":{parent:"ast_pw_2", objectives:[{"type":"sectorComplete","preset":"pha"}]},
 "size":3,
