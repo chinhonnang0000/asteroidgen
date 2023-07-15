@@ -8,7 +8,7 @@
 "description":"produces phase fabric",
 "hasPower":true, 
 "health":25000,
-"item_capacity":350,
+"itemCapacity":350,
 "name":"AEGA phase weaver"
 "outputItem":{"item":"phase-fabric","amount":15},
 "requirements":[{"item":"lead","amount":300},{"item":"silicon","amount":300},{"item":"thorium","amount":150},{"item":"aeg_alloy","amount":300}],
