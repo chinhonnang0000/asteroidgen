@@ -8,7 +8,7 @@
 "description":"produces phase fabric",
 "hasPower":true, 
 "health":3600,
-"item_capacity":50,
+"itemCapacity":50,
 "name":"large phase weaver"
 "outputItem":{"item":"phase-fabric","amount":3},
 "requirements":[{"item":"lead","amount":300},{"item":"silicon","amount":300},{"item":"thorium","amount":150}],
