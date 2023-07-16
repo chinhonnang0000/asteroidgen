@@ -14,4 +14,4 @@ mineTier: 3
 mineWalls:true
 speed: 9,
 type:flying,
-weapons:[{bullet:{damage:500,lifetime:50,speed:16},name:c2_gun,range:350,reload,10}],
+weapons:[{"bullet":{"damage":500,"lifetime":50,"speed":16},"name":"c3_gun","range":350,"reload",10}],
