@@ -1,0 +1,14 @@
+{
+alwaysUnlocked:false,
+"category": "effect",
+"description": "shard enforced with titanium which is abundundant in asteroidgen.",
+health:3000
+isFirstTier:false
+itemCapacity: 8000
+localizedName: "asteroidgen core 3: titanium shard",
+requirements:[{"item":"copper","amount":1000},{"item":"lead","amount":800},{"item":"titanium","amount":1200}],
+research:ast_core_2
+size:3
+type:CoreBlock
+unitType:c3
+}
