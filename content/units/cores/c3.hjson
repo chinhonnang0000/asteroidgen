@@ -1,0 +1,17 @@
+alwaysUnlocked: false,
+buildRange:500,
+buildSpeed:25,
+canAttack:true,
+contorller:BuilderAI,
+coreUnitDock:true,
+flying:true,
+health:500,
+itemCapacity: 250,
+localisedName: "scout C3",
+mineFloor:true
+mineRange: 225
+mineTier: 3
+mineWalls:true
+speed: 9,
+type:flying,
+weapons:[{bullet:{damage:500,lifetime:50,speed:16},name:c2_gun,range:350,reload,10}],
