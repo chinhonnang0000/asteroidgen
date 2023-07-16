@@ -10,6 +10,7 @@ itemCapacity: 250,
 localisedName: "scout C3",
 mineFloor:true
 mineRange: 225
+mineSpeed:16,
 mineTier: 3
 mineWalls:true
 speed: 9,
