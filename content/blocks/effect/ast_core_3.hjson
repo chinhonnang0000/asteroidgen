@@ -10,5 +10,6 @@ requirements:[{"item":"copper","amount":1000},{"item":"lead","amount":800},{"ite
 research:ast_core_2
 size:3
 type:CoreBlock
+unitCapModifier: 32
 unitType:c3
 }
