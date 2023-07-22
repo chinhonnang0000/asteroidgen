@@ -1,0 +1,19 @@
+{
+"category":"crafting"
+"craftEffect":"smeltsmoke",
+"craftTime":180,
+"consumes":{"power":8,
+"items":[{"item":"copper","amount":12},{"item":"lead","amount":16},{"item":"titanium","amount":8},{"item":"silicon","amount":12}]
+}
+"description":"produces surge alloy bypassing serpulo techtree",
+"hasPower":true, 
+"health":4500,
+"itemCapacity":50,
+"name":"titanium enforced surge smelter"
+"outputItem":{"item":"surge-alloy","amount":3},
+"requirements":[{"item":"lead","amount":300},{"item":"silicon","amount":300},{"item":"titanium","amount":300},
+{"item":"thorium","amount":250}],
+"research":{parent:"asteroidgen_origin", objectives:[{"type":"sectorComplete","preset":"surg"}]},
+"size":3,
+"type":"GenericCrafter"
+}
