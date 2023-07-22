@@ -21,11 +21,11 @@ campaign
   Then the field will have 30 waves instead of infinite waves.
   or you can go above 30 waves then press save and quit.     
 
-Work in progress, excluding bugfixes
-- phase weavers, surge smelters, 
+Work in progress, excluding bugfixes - removed from this list once completed. 
+- side missions
+- surge smelters, power nodes 
 
 Proposed untouched (not started yet)
 - mass drivers that need power. 
-- side missions 
-- skilltree for erida (requires titanberyl or AEGA).
+- skilltree for erida 
 - skilltree for Jason 2.0 - to cause the planet to be playable.  (lead => copper => titanium(silicon) => thorium )
