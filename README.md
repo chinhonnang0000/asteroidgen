@@ -23,7 +23,7 @@ campaign
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
-- surge smelters, power nodes 
+- turbine condensers power nodes 
 
 Proposed untouched (not started yet)
 - mass drivers that need power. 
