@@ -1,6 +1,6 @@
 {
 "research":{
-  parent:"3",
+  parent:"1",
   objectives:[{type: SectorComplete,"preset":"1"}]
 }
   "localizedName": "abondoned vents",
