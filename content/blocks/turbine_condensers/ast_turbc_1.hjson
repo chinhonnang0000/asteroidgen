@@ -14,6 +14,7 @@ localizedName:lead turbine condenser
 outputLiquid:water/0.004 
 powerProduction:0.5
 requirements:[{"item":"lead","amount":60}]
+research: asteroidgen_origin
 size:3
 type:ThermalGenerator
 
