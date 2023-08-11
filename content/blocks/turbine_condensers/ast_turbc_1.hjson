@@ -2,7 +2,7 @@ ambientSoiund:hum
 attribute:steam
 category:power
 displayEfficiency:true
-drawer:{"type":"drawMulti","drawers":[{"type":"drawDefault"},{"type":"DrawBlurSpin","suffix":"-rorator","speed":5.4,"blurThresh":0.01}]}
+
 generateEffect:turbinegenerate
 group:liquids
 hasLiquids:true  
