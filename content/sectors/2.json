@@ -1,11 +1,11 @@
 {
 "research":{
-parent:1,
-objectives:[{type: SectorComplete,preset:1}]
+parent:"turbc",
+objectives:[{type: SectorComplete,preset:"turbc"}]
 },
   "localizedName": "Abondoned lead mine",
   "description": "Octo is left behind. Expect a lot of planes here.",
-  "difficulty": 1,
+  "difficulty": 3,
   "planet": "asteroidgen",
   "captureWave": 9,
   "sector": 2,
