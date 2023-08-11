@@ -11,7 +11,7 @@ hasLiquids:true
 health:50
 liquoidCapacity:7
 localizedName:lead turbine condenser
-outputLiquid:water/0.01 
+outputLiquid:water/0.004 
 powerProduction:0.5
 requirements:[{"item":"lead","amount":60}]
 size:3
