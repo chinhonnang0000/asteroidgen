@@ -8,7 +8,7 @@ drawer:{"type":"drawMulti","drawers":[{"type":"drawDefault"},{"type":"DrawBlurSp
 generateEffect:turbinegenerate
 group:liquids
 hasLiquids:true  
-health:50
+health:500
 liquoidCapacity:7
 localizedName:lead turbine condenser
 outputLiquid:water/0.004 
