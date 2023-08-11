@@ -4,7 +4,7 @@ attribute:steam
 category:power
 description:"not as good as the original, but lead is soft and abundant"
 displayEfficiency:true
-drawer:{"type":"drawMulti","drawers":[{"type":"drawDefault"},{"type":"DrawBlurSpin","suffix":"-rotator","rotateSpeed":5.4,"blurThresh":0.01}]}
+drawer:{"type":"drawMulti","drawers":[{"type":"drawDefault"},{"type":"DrawBlurSpin","suffix":"-rotator","rotateSpeed":5.4}]}
 generateEffect:turbinegenerate
 group:liquids
 hasLiquids:true  
@@ -13,7 +13,7 @@ liquoidCapacity:7
 localizedName:lead turbine condenser
 outputLiquid:water/0.004 
 powerProduction:0.5
-requirements:[{"item":"lead","amount":60}]
+requirements:[{"item":"lead","amount":500}]
 research: asteroidgen_origin
 size:3
 type:ThermalGenerator
