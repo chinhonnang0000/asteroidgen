@@ -1,0 +1,17 @@
+{
+"research":{
+  parent:"3",
+  objectives:[{type: SectorComplete,"preset":"1"}]
+}
+  "localizedName": "abondoned vents",
+  "description": "some vent condenser related techs. "
+  "difficulty": 2,
+  "planet": "asteroidgen",
+  "captureWave": 7,
+  "sector": 13,
+  "isLastSector": false,
+  "alwaysUnlocked": false,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "addStartingItems": true,
+}
