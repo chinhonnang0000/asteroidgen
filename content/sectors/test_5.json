@@ -1,5 +1,5 @@
 {
-"research":{"parent":"test_1","objectives":[{type: SectorComplete,"preset":"test_2"}]}
+"research":{"parent":"test_2","objectives":[{type: SectorComplete,"preset":"test_2"}]}
   "localizedName": "sector 5 test",
   "description": "tons of antumbra."
   "difficulty": 9,
