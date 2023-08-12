@@ -1,5 +1,5 @@
 {
-  "research":{"parent":"test_1","objectives":[{"type":"SectorComplete","test_1"}]}
+  "research":{"parent":"test_1","objectives":[{"type":"SectorComplete","preset":"test_1"}]}
   "localizedName": "test_2",
   "description": "test_1",
   "difficulty": 2,
