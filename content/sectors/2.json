@@ -1,8 +1,5 @@
 {
-"research":{
-parent:"turbc",
-objectives:[{type: SectorComplete,preset:"turbc"}]
-},
+"research":{"parent":"turbc","objectives":[{"type":"SectorComplete","preset":"turbc"}]},
   "localizedName": "Abondoned lead mine",
   "description": "Octo is left behind. Expect a lot of planes here.",
   "difficulty": 3,
