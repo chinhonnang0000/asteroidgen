@@ -3,6 +3,7 @@ attribute:steam
 category:power
 displayEfficiency:true
 drawer:{"type":"drawMulti","drawers":[{"type":"drawDefault"},{"type":"DrawBlurSpin","suffix":"-rotator","rotateSpeed":5.4}]}
+fogRadius: 4 
 generateEffect:turbinegenerate
 group:liquids
 hasLiquids:true  
