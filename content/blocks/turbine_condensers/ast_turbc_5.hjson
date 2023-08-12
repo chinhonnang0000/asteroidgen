@@ -11,7 +11,7 @@ localizedName:titanberyl turbine condenser
 outputLiquid:water/0.05 
 powerProduction:16
 requirements:[{"item":"aeg_alloy","amount":90},{"item":"lead","amount":30},{"item":graphite,"amount":30}]
-research:{"parent":"ast_turbo_4",objectives:[{"type":SectorComplete,"preset":"turbc"}]}
+research:{"parent":"ast_turbc_4",objectives:[{"type":SectorComplete,"preset":"turbc"}]}
 size:3
 type:ThermalGenerator
 
