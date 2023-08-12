@@ -1,10 +1,10 @@
 {
-"research":{parent:"test_1",objectives:[{type: SectorComplete,"preset":"test_1"}]}
+"research":{"parent":"test_1","objectives":[{type: SectorComplete,"preset":"test_2"}]}
   "localizedName": "sector 5 test",
   "description": "tons of antumbra."
-  "difficulty": 7,
+  "difficulty": 9,
   "planet": "asteroidgen_test",
-  "captureWave": 12,
+  "captureWave": 17,
   "sector": 5,
   "isLastSector": false,
   "alwaysUnlocked": false,
