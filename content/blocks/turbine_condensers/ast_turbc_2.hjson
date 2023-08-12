@@ -1,0 +1,17 @@
+ambientSoiund:hum
+attribute:steam
+category:power
+displayEfficiency:true
+generateEffect:turbinegenerate
+group:liquids
+hasLiquids:true  
+health:500
+liquidCapacity:15
+localizedName:titanium-lead turbine condenser
+outputLiquid:water/0.008
+powerProduction:0.5
+requirements:[{"item":"titanium","amount":60},{"item":"lead","amount":30}]
+research:{"parent":"ast_turbo_1",objectives[{"type":SectorComplete,"preset":"turbc"}]}
+size:3
+type:ThermalGenerator
+
