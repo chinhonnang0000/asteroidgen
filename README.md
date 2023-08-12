@@ -26,7 +26,7 @@ Currnet bugs:
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
-- turbine condensers power nodes 
+- batteries
 
 Proposed untouched (not started yet)
 - Attacking units and war factories and refabs
