@@ -22,7 +22,6 @@ campaign
   or you can go above 30 waves then press save and quit.
 
 Currnet bugs: 
-sector "abondned vents" bring no enemies,
 our version of the vent condensers shows fine in dereclict but shows "oh ho" when player builds them. 
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
