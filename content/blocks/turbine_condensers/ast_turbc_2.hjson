@@ -11,7 +11,7 @@ localizedName:titanium-lead turbine condenser
 outputLiquid:water/0.008
 powerProduction:0.5
 requirements:[{"item":"titanium","amount":60},{"item":"lead","amount":30}]
-research:{"parent":"ast_turbo_1",objectives[{"type":SectorComplete,"preset":"turbc"}]}
+research:{"parent":"ast_turbo_1",objectives:[{"type":SectorComplete,"preset":"turbc"}]}
 size:3
 type:ThermalGenerator
 
