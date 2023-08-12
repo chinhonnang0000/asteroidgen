@@ -1,0 +1,10 @@
+category:power
+description:"power node made with lead" 
+health:15
+laserRange:5 
+localizedName:"lead node" 
+maxNodes:9
+requirements:[{"item":"lead","amount":4}]
+research:ast_pn_0
+type:PowerNode
+ 

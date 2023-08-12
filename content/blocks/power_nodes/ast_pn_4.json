@@ -1,0 +1,10 @@
+category:power
+description:"AEGA increases the strengh of the power node" 
+health:1360
+laserRange:18 
+localizedName:"AEGA power node" 
+maxNodes:13
+requirements:[{"item":"lead","amount":4},{"item":"aeg_alloy","amount":2}]
+research:ast_pn_3
+type:PowerNode
+ 

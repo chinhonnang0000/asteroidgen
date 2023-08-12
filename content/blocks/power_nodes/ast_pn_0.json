@@ -1,0 +1,10 @@
+category:power
+description:"The lowest tier of the power nodes. Great use against crawlers." 
+health:9
+laserRange:2 
+localizedName:"minimum lead node" 
+maxNodes:2 
+requirements:[{"item":"lead","amount":1}]
+research:ast_turbc_1
+type:PowerNode
+ 

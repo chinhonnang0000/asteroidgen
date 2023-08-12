@@ -1,0 +1,10 @@
+category:power
+description:"titanberyl increases the strengh of the power node" 
+health:360
+laserRange:13 
+localizedName:"titanberyl power node" 
+maxNodes:12
+requirements:[{"item":"lead","amount":4},{"item":"titanberyl","amount":2}]
+research:ast_pn_2
+type:PowerNode
+ 

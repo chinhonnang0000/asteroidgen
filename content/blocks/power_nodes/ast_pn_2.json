@@ -1,0 +1,10 @@
+category:power
+description:"titanium increases the strengh of the power node" 
+health:120
+laserRange:8 
+localizedName:"titanium power node" 
+maxNodes:11
+requirements:[{"item":"lead","amount":4},{"item":"titanium","amount":1}]
+research:ast_pn_1
+type:PowerNode
+ 
