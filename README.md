@@ -30,6 +30,7 @@ Work in progress, excluding bugfixes - removed from this list once completed.
 - turbine condensers power nodes 
 
 Proposed untouched (not started yet)
+- Attacking units and war factories and refabs
 - mass drivers that need power. 
 - skilltree for erida 
 - skilltree for Jason 2.0 - to cause the planet to be playable.  (lead => copper => titanium(silicon) => thorium )
