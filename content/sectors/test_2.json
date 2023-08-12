@@ -1,0 +1,14 @@
+{
+  "research":{"parent":"test_1",objectives:[{"type":sectorComplete,"test_1"}]}
+  "localizedName": "test_2",
+  "description": "test_1",
+  "difficulty": 2,
+  "planet": "asteroidgen_test",
+  "captureWave": 13,
+  "sector": 2,
+  "isLastSector": false,
+  "alwaysUnlocked": true,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "addStartingItems": true,
+}
