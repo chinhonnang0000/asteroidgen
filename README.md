@@ -22,7 +22,7 @@ campaign
   or you can go above 30 waves then press save and quit.
 
 Currnet bugs: 
-our version of the vent condensers shows fine in dereclict but shows "oh ho" when player builds them. 
+- more to be found and be fixed. 
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
