@@ -4,7 +4,7 @@ category:power
 description:"building battery titanium stronger and surdier than original"
 health:80
 localizedName: titanium battery
-requriements:[{"item":lead,"amount":4},{"item:titanium","amount":2}]
+requriements:[{"item":"lead","amount":4},{"item":"titanium","amount":2}]
 research: ast_bt_1
 size:1
 type:Battery
