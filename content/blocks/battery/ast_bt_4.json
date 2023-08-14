@@ -4,7 +4,7 @@ category:power
 description:"AEGA makes the battery very tough and silicon allows to store more power"
 health:600
 localizedName: small AEGA battery
-requriements:[{"item":"silicon","amount":1}{"item":lead,"amount":4},{"item:aeg_alloy","amount":2}]
+requriements:[{"item":"silicon","amount":1}{"item":lead,"amount":4},{"item":"aeg_alloy","amount":2}]
 research: ast_bt_2
 size:1
 type:Battery
