@@ -1,9 +1,7 @@
 author: chinhonnang0000
 displayName: asteroidgen
 dependencies:[]
-description: " alpha v 0.10
-Asteroidgen generated using AsteroidGenerator. Named after AsteroidGenerator. 
-It has its own planet (and missions) and techtree.\n\n click repo for more details."
+description: "probably the biggest mod with no stars"
 hidden:false
 name: asteroidgen
 minGameVersion: 141
