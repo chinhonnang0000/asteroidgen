@@ -24,9 +24,12 @@ campaign
 Currnet bugs: 
 - more to be found and be fixed. 
 
+Last thing completed
+batteries, power nodes and turbine condensers(not useful outisde of missions)
+
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
-- batteries
+- conduits 
 
 Proposed untouched (not started yet)
 - Attacking units and war factories and refabs
