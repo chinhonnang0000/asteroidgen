@@ -4,7 +4,7 @@ consumes:{powerBuffered: 4000}
 description:"building battery without using copper"
 health:15
 localizedName: lead battery
-requriements:[{"item":lead,"amount":4}]
+requirements:[{"item":lead,"amount":4}]
 research: ast_turbc_1
 size:1
 type:Battery
