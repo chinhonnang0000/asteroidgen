@@ -1,6 +1,7 @@
 {
   "name": "small lead-ehnhaced mechanical Drill",
   "description": "2x drilling speed of tiny mechaincal drills.",
+"drawMineItem": false,
 "health": 50,  
 "type": "Drill",
   "size": 1,
