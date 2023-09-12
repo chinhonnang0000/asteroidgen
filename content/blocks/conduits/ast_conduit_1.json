@@ -1,0 +1,6 @@
+health:50
+localizedName:"lead enforeced conduit"
+liquidCapacity:11
+requirements:[lead/1,metaglass/1]
+research:asteroidgen_research_origin
+Type:Conduit
