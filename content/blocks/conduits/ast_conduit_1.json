@@ -2,5 +2,5 @@ health:50
 localizedName:"lead enforced conduit"
 liquidCapacity:11
 requirements:[lead/1,metaglass/1]
-research:asteroidgen_research_origin
+research:asteroidgen_origin
 Type:Conduit
