@@ -1,0 +1,6 @@
+health:100
+localizedName:"titanium enforeced conduit"
+liquidCapacity:15
+requirements:[titanium/1,metaglass/1]
+research:ast_conduit_1
+Type:Conduit
