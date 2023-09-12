@@ -1,0 +1,6 @@
+health:200
+localizedName:"titanberyl enforeced conduit"
+liquidCapacity:25
+requirements:[titanberyl/1,metaglass/1]
+research:ast_conduit_2
+Type:Conduit
