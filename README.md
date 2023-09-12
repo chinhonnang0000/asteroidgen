@@ -25,11 +25,11 @@ Currnet bugs:
 - more to be found and be fixed. 
 
 Last thing completed
-batteries, power nodes and turbine condensers(not useful outisde of missions)
+conduits. comes with 4 tiers. 
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
-- conduits (lead and higher)
+- liquid routers and junctions
 - campaign map overhaul for drill data bases and later ones. 
 
 Proposed untouched (not started yet)
