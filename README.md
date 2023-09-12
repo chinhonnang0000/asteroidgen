@@ -29,10 +29,11 @@ batteries, power nodes and turbine condensers(not useful outisde of missions)
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
-- conduits 
+- conduits (lead and higher)
+- campaign map overhaul for drill data bases and later ones. 
 
 Proposed untouched (not started yet)
 - Attacking units and war factories and refabs
-- mass drivers that need power. 
+- mass drivers that need power. for unalted AsteroidGenerator. 
 - skilltree for erida 
-- skilltree for Jason 2.0 - to cause the planet to be playable.  (lead => copper => titanium(silicon) => thorium )
+- skilltree for Jason 2.0 - to cause the planet to be playable. 
