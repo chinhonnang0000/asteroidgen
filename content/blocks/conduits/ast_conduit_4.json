@@ -1,0 +1,6 @@
+health:500
+localizedName:"AEGA conduit"
+liquidCapacity:40
+requirements:[aeg_alloy/1,metaglass/1]
+research:ast_conduit_2
+Type:Conduit
