@@ -3,7 +3,9 @@ about
 Mindustry mod named after AsteroiGenerator. 
 With this mod, some planets(not all) from other mods will be playable and capturable. as long as they are:
 - No hidden item
-- Allow to launch onto numbered sector(non-user generation). 
+- Allow to launch onto numbered sector(non-user generation).
+test pictures
+https://github.com/chinhonnang0000/asteroidgen/blob/main/icon.png
 
 campaign
 - 1 main planet. 1 test planet. 
