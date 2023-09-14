@@ -1,6 +1,6 @@
 {
 "category":"distribution",
-"displayName":"AEGA stack conveyor",
+"localizedName":"AEGA stack conveyor",
 "description":"stack conveyor made with AEGA",
 "health":1500,
 "itemCapacity":30,
