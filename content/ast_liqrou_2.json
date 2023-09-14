@@ -1,0 +1,8 @@
+category:liquid 
+health:180
+liquidCapcacity:20
+localizedName: titanium lead enforced conduit
+requirements:[metaglass/2,graphile/4,titanium/1,lead/1]
+research:ast_liqrou_1 
+size:1
+type:LiquidRouter 

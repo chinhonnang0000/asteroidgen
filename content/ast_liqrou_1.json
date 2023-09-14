@@ -1,0 +1,8 @@
+category:liquid 
+health:80
+liquidCapcacity:12
+localizedName: Lead enforced conduit
+requirements:[metaglass/2,graphile/4,lead/1]
+research:ast_conduit_1 
+size:1
+type:LiquidRouter 
