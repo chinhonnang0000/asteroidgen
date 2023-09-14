@@ -1,6 +1,6 @@
 {
 "category":"distribution",
-"displayName":"titanberyl stack conveyor",
+"localizedName":"titanberyl stack conveyor",
 "description":"stack conveyor made with titanberyl",
 "health":500,
 "itemCapacity":10,
