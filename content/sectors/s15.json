@@ -1,0 +1,12 @@
+{
+  "research":{"parent":"adjacent_fields_can_be_captured","objectives":[{"type":"SectorComplete","preset":"adjacent_fields_can_be_captured"}]},
+  "localizedName": "Enemy builds",
+  "description": "Enamy base testing. No Erekir stuffs will be built here even if the enemy has Bastion but maybe in later versions of this game (made in v146)",
+  "difficulty": 5,
+  "planet": "asteroidgen",
+  "sector":15,
+  "isLastSector": false,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "addStartingItems": true,
+}
