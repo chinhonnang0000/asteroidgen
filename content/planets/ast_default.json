@@ -4,6 +4,7 @@ alwaysUnlocked:true
 allowLaunchLoadout:true
 allowLaunchSchamatics:true
 allowWaves:true
+allowWaveSimulation: true
 description: "work in progress especially the mass launcher"
 drawOrbit:true
 generator: SerpuloPlanetGenerator
