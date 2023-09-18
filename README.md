@@ -25,15 +25,15 @@ Currnet bugs:
 - more to be found and be fixed. 
 
 Last thing completed
-conduits. comes with 4 tiers. 
+liquid router and junctions. comes with 4 tiers. 
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
-- liquid routers and junctions
+- ast_defaulta
 - campaign map overhaul for drill data bases and later ones. 
 
 Proposed untouched (not started yet)
 - Attacking units and war factories and refabs
-- mass drivers that need power. for unalted AsteroidGenerator. 
+- mass drivers that need power. for unalted AsteroidGenerator.
 - skilltree for erida 
 - skilltree for Jason 2.0 - to cause the planet to be playable. 
