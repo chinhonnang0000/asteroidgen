@@ -7,7 +7,7 @@ drawOrbit:true
 generator: SerpuloPlanetGenerator
 hasAtmosphere:false
 hiddenItems:[]
-mesh:{type:SunMesh, colors:[123123,343032,880783]}
+mesh:{type:SunMesh, divisions:5, colors:[123123,343032,880783]}
 orbitRadius: 143
 parent: sun
 radius: 2
