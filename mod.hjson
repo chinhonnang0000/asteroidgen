@@ -4,5 +4,5 @@ dependencies:[]
 description: "that star will probably be revoked"
 hidden:false
 name: asteroidgen
-minGameVersion: 141
+minGameVersion: 146
 version: build 0
