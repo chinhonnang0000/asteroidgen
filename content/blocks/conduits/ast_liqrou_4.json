@@ -1,7 +1,7 @@
 category:liquid 
 health:800
 liquidCapcacity:40
-localizedName: AEGA enforced conduit
+localizedName: AEGA enforced liquid router
 requirements:[metaglass/2,graphite/4,aeg_alloy/2]
 research:ast_liqrou_3 
 size:1
