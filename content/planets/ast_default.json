@@ -1,8 +1,10 @@
-accessible:true
+{
+accessible:true,
 alwaysUnlocked:true 
 allowLaunchLoadout:true
 allowLaunchSchamatics:true
 allowWaves:true
+description: "work in progress especially the mass launcher"
 drawOrbit:true
 generator: SerpuloPlanetGenerator
 hasAtmosphere:false
@@ -14,3 +16,4 @@ radius: 2
 sectorSize: 4
 solarSystem: sun 
 updateLighting:false
+}
