@@ -1,0 +1,16 @@
+accessible:true
+alwaysUnlocked:true 
+allowLaunchLoadout:true
+allowLaunchSchamatics:true
+allowWaves:true
+drawOrbit:true
+generator: SerpuloPlanetGenerator
+hasAtmosphere:false
+hiddenItems:[]
+mesh:{type:SunMesh, colors[123123,343032,880783]}
+orbitRadius: 143
+parent: sun
+radius: 2
+sectorSize: 4
+solarSystem: sun 
+updateLighting:false
