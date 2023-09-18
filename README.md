@@ -2,7 +2,7 @@
 about
 Mindustry mod named after AsteroidGenerator. 
 With this mod, some planets(not all) from other mods will be playable and capturable. as long as they are:
-- Use serpuloPlanetGenerator on planet JSON files. 
+- Use SerpuloPlanetGenerator on planet JSON files. 
 - No hidden item
 - Allow to launch onto numbered sector(non-user generation).
 
