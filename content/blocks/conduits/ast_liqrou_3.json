@@ -1,7 +1,7 @@
 category:liquid 
 health:400
 liquidCapcacity:40
-localizedName: titanberyl enforced conduit
+localizedName: titanberyl enforced liquid router
 requirements:[metaglass/2,graphite/4,titanberyl/2]
 research:ast_liqrou_2 
 size:1
