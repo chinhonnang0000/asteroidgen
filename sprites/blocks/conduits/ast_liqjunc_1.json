@@ -1,9 +1,0 @@
-category:liquid 
-health:80
-liquidCapcacity:12
-localizedName: Lead enforced liquid junction 
-requirements:[metaglass/8,graphite/4,lead/2]
-research:ast_conduit_1 
-size:1
-solid:false
-type:LiquidJunction
