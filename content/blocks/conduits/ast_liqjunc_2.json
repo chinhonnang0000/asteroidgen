@@ -1,0 +1,9 @@
+category:liquid 
+health:120
+liquidCapcacity:15
+localizedName: titanium enforced liquid junction 
+requirements:[metaglass/8,graphite/4,titanium/2]
+research:ast_liqjunc_1
+size:1
+solid:false
+type:LiquidJunction
