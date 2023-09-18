@@ -1,9 +1,0 @@
-category:liquid 
-health:250
-liquidCapcacity:20
-localizedName: titanberyl enforced liquid junction 
-requirements:[metaglass/8,graphite/4,titanberyl/2]
-research:ast_liqjunc_2
-size:1
-solid:false
-type:LiquidJunction
