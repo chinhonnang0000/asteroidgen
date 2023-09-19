@@ -1,0 +1,17 @@
+{
+"research":{
+  parent:"turbc",
+  objectives:[{type: SectorComplete,"preset":"turbc"}]
+}
+  "localizedName": "trip wire trap",
+  "description": "Some Huge swarms of crawlers"
+  "difficulty": 3,
+  "planet": "asteroidgen",
+  "captureWave": 15,
+  "sector": 14,
+  "isLastSector": false,
+  "alwaysUnlocked": false,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "addStartingItems": true,
+}
