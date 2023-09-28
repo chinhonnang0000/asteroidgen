@@ -1,0 +1,10 @@
+category: units
+configurable: false 
+consumes:{"power":1} 
+health:575
+localizedName: "specialised dagger factory"
+plans:[{"unitType":"dagger","requirements":["lead/10","silicon/10"]},"time":810]
+requirements:["beryllium/50","lead/120","silicon/80"]
+research:asteroidgen_origin
+type:UnitFactory
+unitCapModifier: 30
