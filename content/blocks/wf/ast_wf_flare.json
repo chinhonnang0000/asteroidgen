@@ -3,7 +3,7 @@ configurable: false
 consumes:{"power":1} 
 health:575
 localizedName: "specialised flare factory"
-plans:[{"unitType":"flare","requirements":["silicon/15"]},"time":810]
+plans:[{"unitType":"flare","requirements":["silicon/15"],"time":810}]
 requirements:["beryllium/50","lead/120","silicon/80"]
 research:asteroidgen_origin
 type:UnitFactory
