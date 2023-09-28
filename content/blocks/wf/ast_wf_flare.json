@@ -6,5 +6,6 @@ localizedName: "specialised flare factory"
 plans:[{"unit":"flare","requirements":["silicon/15"],"time":810}]
 requirements:["beryllium/50","lead/120","silicon/80"]
 research:asteroidgen_origin
+size:3
 type:UnitFactory
 unitCapModifier: 30
