@@ -6,5 +6,6 @@ localizedName: "specialised mono factory"
 plans:[{"unit":"mono","requirements":["lead/15","silicon/30"],"time":1990}]
 requirements:["beryllium/50","lead/120","silicon/80"]
 research:ast_wf_flare
+size:3
 type:UnitFactory
 unitCapModifier: 30
