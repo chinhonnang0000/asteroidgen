@@ -13,6 +13,7 @@ mineFloor:true
 mineRange: 25
 mineTier: 1
 mineWalls:true
+payloadCapacity: 64
 speed: 1,
 type:flying,
 weapons:[{bullet:{damage:5,speed:3,lifetime:40},name:cl_gun,range:50,reload:100,top:false}],
