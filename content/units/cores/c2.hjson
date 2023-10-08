@@ -14,6 +14,7 @@ mineRange: 125
 mineSpeed: 4
 mineTier: 2
 mineWalls:true
+payloadCapacity: 256
 speed: 3,
 type:flying,
 weapons:[{bullet:{damage:50,lifetime:50,speed:6},name:c2_gun,range:150,reload:30}],
