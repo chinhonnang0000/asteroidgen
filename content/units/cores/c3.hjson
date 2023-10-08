@@ -17,5 +17,5 @@ mineWalls:true
 payloadCapacity: 640
 pickupUnits: true
 speed: 9,
-type:flying,
+type:ErekirUintType,
 weapons:[{"bullet":{"damage":500,"lifetime":50,"speed":16},"name":"c3_gun","range":350,"reload":10}],
