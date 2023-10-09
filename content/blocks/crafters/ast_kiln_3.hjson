@@ -7,6 +7,7 @@
 }
 "description":"produces metaglass but without using copper",
 "displayNane":"AEGA kiln",
+"drawer":{"type":"DrawMulti","drawers":[{"type":"DrawDefault"},{"type":"DrawFlame"}]}
 "health":3600,
 "itemCapacity":160,
 "name": "AEGA kiln",
