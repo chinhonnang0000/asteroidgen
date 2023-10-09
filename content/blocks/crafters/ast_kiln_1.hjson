@@ -7,6 +7,7 @@
 }
 "description":"produces metaglass but without using copper",
 "displayNane":"titanium enforced kiln",
+"drawer":{"type":"DrawMulti","drawers":[{"type":"DrawDefault"},{"type":"DrawFlame"}]}
 "health":600,
 "itemCapacity":30,
 "outputItem":{"item":"metaglass","amount":2},
