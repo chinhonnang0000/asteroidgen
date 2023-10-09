@@ -9,6 +9,7 @@
 "craftTime": 120,
 "description":"Mining titanium and beryllium together to form a very strong alloy",
 "displayName":"titanberyl smelter",
+"drawer":{"type":"DrawMulti","drawers":[{"type":"DrawDefault"},{"type":"DrawFlame"}]}
 "hasItems":true,  
 "hasPower":true,
 "health":4200,
