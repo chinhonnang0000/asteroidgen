@@ -7,6 +7,7 @@
 }
 "description":"produces metaglass but without using copper",
 "displayNane":"titaberyl kiln",
+"drawer":{"type":"DrawMulti","drawers":[{"type":"DrawDefault"},{"type":"DrawFlame"}]}
 "health":1600,
 "itemCapacity":60,
 "name": "titanberyl kiln",
