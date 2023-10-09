@@ -7,7 +7,7 @@
 "craftTime": 180,
 "description":"Produce a very strong alloy and uses a lot of energy",
 "displayName":"aeg alloy smelter",
-"drawer":{}
+"drawer":{"type":"DrawMulti","drawers":[{"type":"DrawDefault"},{"type":"DrawFlame"}]}
 "hasItems":true,  
 "hasPower":true,
 "health":10000,
