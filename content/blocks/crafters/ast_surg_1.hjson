@@ -6,6 +6,7 @@
 "items":[{"item":"copper","amount":12},{"item":"lead","amount":16},{"item":"titanium","amount":8},{"item":"silicon","amount":12}]
 }
 "description":"produces surge alloy bypassing serpulo techtree",
+"drawer":{"type":"DrawMulti","drawers":[{"type":"DrawDefault"},{"type":"DrawFlame"}]}
 "hasPower":true, 
 "health":4500,
 "itemCapacity":50,
