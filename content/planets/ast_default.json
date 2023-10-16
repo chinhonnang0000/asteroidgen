@@ -5,12 +5,14 @@ allowLaunchLoadout:true
 allowLaunchSchamatics:true
 allowWaves:true
 allowWaveSimulation: true
-description: "work in progress especially the mass launcher"
+description: ""
 drawOrbit:true
 generator: SerpuloPlanetGenerator
 hasAtmosphere:false
 hiddenItems:[]
-mesh:{type:SunMesh, divisions:5, colors:[123123,343032,880783,324432,ae4325,de4c41,998313,3ed34a]}
+iconColor: 978829
+localizedName: ast_default 
+mesh:{"type":"NoiseMesh","divisions":6,"color1":"988932","color2":"997939","colorOct":5,"colorPersistence":0.5,"octaves":3}
 orbitRadius: 143
 parent: sun
 radius: 2
