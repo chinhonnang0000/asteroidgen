@@ -2,7 +2,7 @@ category: distribution
 consumes: {"power":2}
 description: inferior to standard mass driver. But useful when in asteroids.  
 health: 320
-ltemCapacity: 40
+itemCapacity: 40
 localisedName: lead mass driver
 range: 200 
 requirements:[lead/600]
