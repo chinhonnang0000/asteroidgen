@@ -12,7 +12,7 @@ hasAtmosphere:false
 hiddenItems:[]
 iconColor: 978829
 localizedName: ast_default 
-mesh:{"type":"NoiseMesh","divisions":6,"color1":"988932","color2":"997939","colorOct":5,"colorPersistence":0.5,"octaves":3}
+mesh:{"type":"NoiseMesh","divisions":6,"color1":"988932","color2":"997939","colorOct":5,"colorPersistence":0.5,"octaves":3,"radius":1.9}
 orbitRadius: 143
 parent: sun
 radius: 2
