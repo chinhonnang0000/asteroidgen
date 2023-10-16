@@ -30,7 +30,7 @@ liquid router and junctions. comes with 4 tiers.
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
-- ast_defaulta
+- mass drivers for defaulta
 - campaign map overhaul for drill data bases and later ones. 
 
 Proposed untouched (not started yet)
