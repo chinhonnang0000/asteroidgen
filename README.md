@@ -30,11 +30,10 @@ liquid router and junctions. comes with 4 tiers.
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
-- mass drivers for defaulta
+- skilltree for Jason 2.0 - to cause the planet to be playable. 
 - campaign map overhaul for drill data bases and later ones. 
 
 Proposed untouched (not started yet)
-- Attacking units and war factories and refabs
-- mass drivers that need power. for unalted AsteroidGenerator.
+- Heavy Attacking units and war factories and refabs
 - skilltree for erida 
-- skilltree for Jason 2.0 - to cause the planet to be playable. 
+
