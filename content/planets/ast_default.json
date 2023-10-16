@@ -16,7 +16,7 @@ mesh:{"type":"NoiseMesh","divisions":6,"color1":"988932","color2":"997939","colo
 orbitRadius: 143
 parent: sun
 radius: 2
-research: {"root":true,"name":"ast_default - asteroidgen for Jason 2.0"}
+research: {"root":true,"planet":"ast_default","name":"ast_default - asteroidgen for Jason 2.0"}
 sectorSize: 4
 solarSystem: sun 
 updateLighting:false
