@@ -1,0 +1,11 @@
+category: distribution
+consumes: {"power":2}
+description: larger and costluer than standard mass driver. But useful when in asteroids.  
+health: 3500
+itemCapacity: 450
+localisedName: titanium mass driver
+range: 700 
+requirements:[siicon/300,titanberyl/600]
+research:{"parent":"titanb_bricon"}
+size: 4
+type: MassDriver
