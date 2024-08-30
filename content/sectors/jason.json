@@ -1,0 +1,14 @@
+{
+research:{"parent":"ast_defaulta","objectives":[{type: SectorComplete,"preset":"1"}]}
+  "localizedName": "astroidgen for Jason 2.0",
+  "description": "A place for Jason 2.0 Supplementary",
+  "difficulty": 1,
+  "planet": "ast_default",
+  "captureWave": 5,
+  "sector": 343,
+  "isLastSector": false,
+  "alwaysUnlocked": true,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": false,
+  "addStartingItems": true,
+}
