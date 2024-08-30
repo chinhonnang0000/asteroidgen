@@ -7,7 +7,7 @@
   "captureWave": 5,
   "sector": 343,
   "isLastSector": false,
-  "alwaysUnlocked": true,
+  "alwaysUnlocked": false,
   "allowLaunchLoadout": true,
   "allowLaunchSchematics": false,
   "addStartingItems": true,
