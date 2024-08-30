@@ -1,8 +1,8 @@
 {
-accessible:true,
+"accessible":true,
 alwaysUnlocked:true 
 allowLaunchLoadout:true
-allowLaunchSchamatics:true
+allowLaunchSchamatics:false
 allowWaves:true
 allowWaveSimulation: true
 description: ""
