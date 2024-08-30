@@ -1,6 +1,6 @@
 category: distribution
 consumes: {"power":2}
-description: larger and costluer than standard mass driver. But useful when in asteroids.  
+"description":"larger and costlier than standard mass driver. But useful when in asteroids.",  
 health: 3500
 itemCapacity: 450
 localisedName: titanium mass driver
