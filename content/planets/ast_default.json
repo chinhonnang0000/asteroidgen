@@ -1,16 +1,17 @@
 {
 "accessible":true,
-alwaysUnlocked:true 
-allowLaunchLoadout:true
+"alwaysUnlocked":true 
+"allowLaunchLoadout":true
 allowLaunchSchamatics:false
 allowWaves:true
 allowWaveSimulation: true
-description: ""
+description: "A planet to gather resources adn tech to make jason 2.0 playable"
 drawOrbit:true
 generator: SerpuloPlanetGenerator
 hasAtmosphere:false
 hiddenItems:[]
-iconColor: 978829
+iconColor: 978829 ,
+"itemWhitelist": [copper, lead, beryllium, graphite, titanium],
 localizedName: ast_default 
 mesh:{"type":"NoiseMesh","divisions":6,"color1":"988932","color2":"997939","colorOct":5,"colorPersistence":0.5,"octaves":3,"radius":1.9}
 orbitRadius: 143
