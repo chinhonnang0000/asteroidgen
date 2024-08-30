@@ -1,6 +1,6 @@
 category: distribution
 consumes: {"power":2},
-"description": inferior to standard mass driver. But useful when in asteroids where copper is scarce.  
+"description":"inferior to standard mass driver. But useful when in asteroids where copper is scarce",  
 health: 320
 itemCapacity: 40
 localisedName: lead mass driver
