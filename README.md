@@ -26,7 +26,7 @@ Currnet bugs:
 - more to be found and be fixed. 
 
 Last thing completed
-drill data bases and sector 5 remake. 
+some description changes
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
