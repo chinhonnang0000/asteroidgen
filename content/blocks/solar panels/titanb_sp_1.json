@@ -1,7 +1,7 @@
 {
   "type": "SolarGenerator",
   "name": "small titanberyl enforced Solar Panel",
-  "description": "titanium frame for stength. 4x more efficient than standard solar panels.",
+  "description": "titanberyl frame for stength. 4x more efficient than standard solar panels.",
   "health": 500,
   "size": 1,
   "hasPower": true,
