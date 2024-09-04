@@ -30,7 +30,7 @@ some description changes
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
-- skilltree and missions for Jason 2.0 (themelight) - to cause the planet to be playable. The skill tree wont be big, beccause the sectors there are not capturable
+- skilltree and missions for Jason 2.0 (themelight) - to cause the planet to be playable. The fields are capturable 
 
 Proposed untouched (not started yet)
 - Heavy Attacking units and war factories and refabs
