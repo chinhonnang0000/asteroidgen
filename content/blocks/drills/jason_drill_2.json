@@ -1,0 +1,21 @@
+{
+  "name": "lead Drill for Jason 2.0 - medium",
+  "description": "Capable of mining titanium but it undergoes wear and tear thus consumes lead",
+"health": 250,  
+"type": "Drill",
+  "size": 2,
+  "tier": 3,
+  "itemCapacity": 20,
+  "drillTime": 800,
+  "hasPower": false,
+  "drawMineItem": false,
+  "consumes": {
+    "liquid": {"liquid": "water","amount": 0.02,"optional": true,"booster": true},
+    "items":[lead/3],
+},
+  "requirements": [{"item":"lead","amount":50}],
+  "category": "production",
+  "research":{
+"parent":"jason_drill_1","objectives":[{"type":"OnSector","preset":"jason"}]
+}
+}
