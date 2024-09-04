@@ -26,14 +26,13 @@ Currnet bugs:
 - more to be found and be fixed. 
 
 Last thing completed
-liquid router and junctions. comes with 4 tiers. 
+drill data bases and sector 5 remake. 
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
-- skilltree and missions for Jason 2.0 - to cause the planet to be playable. 
-- campaign map overhaul for drill data bases and later ones. 
+- skilltree and missions for Jason 2.0 (themelight) - to cause the planet to be playable. The skill tree wont be big, beccause the sectors there are not capturable
 
 Proposed untouched (not started yet)
 - Heavy Attacking units and war factories and refabs
-- skilltree for erida 
+- skilltree for erida, Project Decay, 
 
