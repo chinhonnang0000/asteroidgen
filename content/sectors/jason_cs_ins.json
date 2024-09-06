@@ -1,5 +1,5 @@
 {
-research:{"parent":"ast_defaulta","objectives":[{type: SectorComplete,"preset":"jason"}]}
+"research":{"parent":"ast_defaulta","objectives":[{"type":"SectorComplete","preset":"jason"}]}
   "localizedName": "astroidgen for Jason 2.0",
   "description": "A place for Jason 2.0 Supplementary",
   "difficulty": 1,
