@@ -1,6 +1,6 @@
 {
   "name": "lead Drill for Jason 2.0 - extra large",
-  "description": "Capable of mining titanium but it undergoes wear and tear thus consumes lead",
+  "description": "Capable of mining titanium but it undergoes wear and tear thus consumes lead. Manual extraction is required.",
 "health": 1500,  
 "type": "Drill",
   "size": 4,
