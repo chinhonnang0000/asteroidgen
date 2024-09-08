@@ -1,0 +1,15 @@
+{
+"attribute":"sand"
+"category":"production"
+"description":"cliff crusher made of lead. Inefficient but useful when all others are scarce"
+"hasItems":true,
+"hasPower":true,
+"health":40,
+"itemCapacity":3,
+"name":"small lead cliff crusher",
+"output":"sand",
+"requirements":[lead/40],
+"reserch":"asteroidgen_origin",
+"size":1,
+"type":"WallCrafter",
+}
