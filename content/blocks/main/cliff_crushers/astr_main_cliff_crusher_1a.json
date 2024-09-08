@@ -9,7 +9,7 @@
 "name":"small lead cliff crusher",
 "output":"sand",
 "requirements":[lead/40],
-"reserch":"asteroidgen_origin",
+"research":"asteroidgen_origin",
 "size":1,
 "type":"WallCrafter",
 }
