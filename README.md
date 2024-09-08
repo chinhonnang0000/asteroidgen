@@ -7,7 +7,7 @@ With this mod, some planets(not all) from other mods will be playable and captur
 - Allow to launch onto numbered sector(non-user generation).
 
 campaign
-- 1 main planet. 1 test planet. 
+- 1 main planet. 1 test planet, 1 supplementary planet
 - 5 main missions (excluding tests and sides). 
 - start with subpar lead tier techs.  and progress to subsequent tiers. - more overpowered techs as you progress throgh this mod.
 - - copper titanium 
