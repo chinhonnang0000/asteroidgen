@@ -1,6 +1,7 @@
 {
 "category": "production",
 "consumes":{"power":1}
+"craftEffect":"smeltSmoke",
 "craftTime":60,
 "description":"extracts graphite from ground",
 "hasItem":true,
