@@ -26,7 +26,7 @@ Currnet bugs:
 - more to be found and be fixed. 
 
 Last thing completed
-some description changes
+jason - graphite extractor
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
