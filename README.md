@@ -30,7 +30,8 @@ some description changes
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
-- skilltree and missions for Jason 2.0 (themelight) - to cause the planet to be playable. The fields are capturable 
+- skilltree and missions for Jason 2.0 (themelight) - to cause the planet to be playable. The fields are capturable
+- cliff crushers 
 
 Proposed untouched (not started yet)
 - Heavy Attacking units and war factories and refabs
