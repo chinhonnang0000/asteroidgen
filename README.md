@@ -1,6 +1,7 @@
 
-about
-Mindustry mod named after AsteroidGenerator. 
+about this Mindustry mod:
+
+named after AsteroidGenerator. 
 With this mod, some planets(not all) from other mods will be playable and capturable. as long as they are:
 - Use SerpuloPlanetGenerator on planet JSON files. 
 - No hidden item
