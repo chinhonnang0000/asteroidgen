@@ -1,0 +1,16 @@
+{
+"attribute":"sand"
+"category":"production",
+"description":"cliff crusher made of lead. Inefficient but useful when all others are scarce"
+"drillTime":400
+"hasItems":true,
+"hasPower":true,
+"health":1000,
+"itemCapacity":125,
+"name":"extra-large lead cliff crusher",
+"output":"sand",
+"requirements":[lead/700],
+"research":"astr_main_cliff_crusher_1c",
+"size":4,
+"type":"WallCrafter",
+}
