@@ -1,8 +1,8 @@
 {
 "attribute":"sand"
 "category":"production"
-"craftTime":1000,
-"description":"cliff crusher made of lead. Inefficient but useful when all others are scarce"
+"description":"cliff crusher made of lead. Inefficient but useful when all others are scarce",
+"drillTime":600,
 "hasItems":true,
 "hasPower":true,
 "health":40,
