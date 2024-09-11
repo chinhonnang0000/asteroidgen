@@ -26,8 +26,7 @@ campaign
 Currnet bugs: 
 - more to be found and be fixed. 
 
-Last thing completed
-main - cliff crushers tier 2
+Last thing completed ::: main - cliff crushers tier 2
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
