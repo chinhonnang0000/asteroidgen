@@ -1,0 +1,17 @@
+{
+"armor":10,
+"attribute":"sand"
+"category":"production"
+"description":"on par with standard cliff crusher in Erekir but does not need power",
+"drillTime":100
+"hasItems":true,
+"hasPower":false,
+"health":2000,
+"itemCapacity":50,
+"name":"medium titanium-lead cliff crusher",
+"output":"sand",
+"requirements":[lead/160,titanium/160],
+"research":"astr_main_cliff_crusher_2a",
+"size":2,
+"type":"WallCrafter",
+}
