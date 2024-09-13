@@ -1,0 +1,17 @@
+{
+"armor":15,
+"attribute":"sand"
+"category":"production"
+"description":"supercedes standard cliff crusher in Erekir and does not need power",
+"drillTime":50
+"hasItems":true,
+"hasPower":false,
+"health":1200,
+"itemCapacity":30,
+"name":"small titanberyl-lead cliff crusher",
+"output":"sand",
+"requirements":[lead/40,titanberyl/40],
+"research":"titanberyl_smelter",
+"size":1,
+"type":"WallCrafter",
+}
