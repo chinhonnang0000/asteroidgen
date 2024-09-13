@@ -11,7 +11,7 @@
 "name":"extra-large titanberyl-lead cliff crusher",
 "output":"sand",
 "requirements":[lead/700,titanberyl/700],
-"research":"ast_main_cliff_crusher_3c",
+"research":"astr_main_cliff_crusher_3c",
 "size":4,
 "type":"WallCrafter",
 }
