@@ -26,12 +26,12 @@ campaign
 Currnet bugs: 
 - more to be found and be fixed. 
 
-Last thing completed ::: main - cliff crushers tier 2
+Last thing completed ::: main - cliff crushers tier 3
 
 Work in progress, excluding bugfixes - removed from this list once completed. 
 - side missions
 - skilltree and missions for Jason 2.0 (themelight) - to cause the planet to be playable. The fields are capturable
-- cliff crushers tier 3 & 4
+- cliff crushers tier 4
 
 Proposed untouched (not started yet)
 - Heavy Attacking units and war factories and refabs
