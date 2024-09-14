@@ -34,6 +34,7 @@ Work in progress, excluding bugfixes - removed from this list once completed.
 - cliff crushers tier 4
 
 Proposed untouched (not started yet)
-- Heavy Attacking units and war factories and refabs
-- skilltree for erida, Project Decay, 
+- Heavy Attacking units and war factories and refabs (proposed at mission 7)
+- skilltree for erida, Project Decay,
+- Sector 6 remake, mission 7  
 
