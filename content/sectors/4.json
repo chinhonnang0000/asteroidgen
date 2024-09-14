@@ -1,13 +1,13 @@
 {
 "research":{
-  parent:"3",
+  "parent":"3",
   objectives:[{type: SectorComplete,preset:3}]
 }
-  "localizedName": "check cores",
-  "description": "Fotresses are here. Multiple cores can be built here."
-  "difficulty": 3,
+  "localizedName": "AEGA abondoned facility",
+  "description": "."
+  "difficulty": 6,
   "planet": "asteroidgen",
-  "captureWave": 9,
+  "captureWave": 25,
   "sector": 4,
   "isLastSector": false,
   "alwaysUnlocked": false,
