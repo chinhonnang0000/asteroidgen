@@ -1,0 +1,17 @@
+{
+"armor":100,
+"attribute":"sand"
+"category":"production"
+"description":"far supercedes standard cliff crusher in Erekir and does not need power",
+"drillTime":25
+"hasItems":true,
+"hasPower":false,
+"health":12500,
+"itemCapacity":500,
+"name":"medium AEGA-lead cliff crusher",
+"output":"sand",
+"requirements":[lead/160,aeg_alloy/160],
+"research":"astr_main_cliff_crusher_4a",
+"size":2,
+"type":"WallCrafter",
+}
