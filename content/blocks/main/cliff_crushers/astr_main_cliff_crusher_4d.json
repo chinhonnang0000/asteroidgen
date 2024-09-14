@@ -11,7 +11,7 @@
 "name":"extra-large AEGA-lead cliff crusher",
 "output":"sand",
 "requirements":[lead/800,aeg_alloy/800],
-"research":"astr_main_cliff_crusher_4b\c",
+"research":"astr_main_cliff_crusher_4c",
 "size":4,
 "type":"WallCrafter",
 }
