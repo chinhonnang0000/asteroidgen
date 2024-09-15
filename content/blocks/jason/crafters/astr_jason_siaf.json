@@ -2,6 +2,7 @@
 "ambientSound":"smelter",
 "ambientSoundVolume":0.12,
 "armor":5,
+"category":"crafting",
 "consumes":{
  "power":5,
  "items":[graphite/1,sand/3]
