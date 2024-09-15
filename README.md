@@ -26,10 +26,9 @@ campaign
 Currnet bugs: 
 - more to be found and be fixed. 
 
-Last thing completed ::: main - cliff crushers tier 4
+Last thing completed ::: jason - silicon arc smelter 
 
 Work in progress, excluding bugfixes - removed from this list once completed or cancelled 
-- jason - silicone arc smelter
 - jason - thorium extractor
 - jason - titanium lead solar panels (less effective than standard solar panels because silicon is not allowed)
 
