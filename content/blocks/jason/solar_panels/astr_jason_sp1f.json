@@ -6,7 +6,7 @@
 "localizedName":"gigantic titanium lead solar panels"
 "powerProduction":9,
 "requirements":[lead/1500,titanium/1500],
-"reseearch":"astr_jason_sp1e",
+"research":"astr_jason_sp1e",
 "size":6,
 "type":"SolarGenerator"
 }
