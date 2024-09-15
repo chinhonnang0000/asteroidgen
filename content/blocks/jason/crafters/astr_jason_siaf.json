@@ -9,6 +9,7 @@
 }
 "craftTime":60,
 "description":"You will need silicon to launch Core:Nucleus to adjacent sectors in Jason 2.0 in Orbiting Themelight in JSON Solar System Eample."
+"drawer":{"type":"DrawMulti","drawers":[{"type":"DrawRegion","suffix":"-bottom"},{"type":"DrawArcSmelt"},{"type","DrawDefault"}]}
 "hasPower":true,
 "health":400,
 "itemCapacity":25,
