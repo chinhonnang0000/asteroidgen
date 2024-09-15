@@ -11,8 +11,8 @@
 "name":"thorium extractor",
 "outputItem": {"item": "thorium","amount": 1}
 "requirements":[
-{"item":"copper":"amount":50},
-{"item":"graphite":"amount":100}
+{"item":"copper","amount":50},
+{"item":"graphite","amount":100}
 {"item":"lead","amount":100},
 {"item":"titanium","amount":200},
 ],
