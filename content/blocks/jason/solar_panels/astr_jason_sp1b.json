@@ -6,7 +6,7 @@
 "localizedName":"medium titanium lead solar panels"
 "powerProduction":0.25,
 "requirements":[lead/100,titanium/100],
-"reseearch":"astr_jason_sp1a",
+"research":"astr_jason_sp1a",
 "size":2,
 "type":"SolarGenerator"
 }
