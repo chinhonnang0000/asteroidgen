@@ -16,7 +16,7 @@
 {"item":"lead","amount":100},
 {"item":"titanium","amount":200},
 ],
-"research":"ast_jason_ge",
+"research":"astr_jason_ge",
 "size":3,
 "type":"GenericCrafter",
 }
