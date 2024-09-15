@@ -6,7 +6,7 @@
 "localizedName":"small titanium lead solar panels"
 "powerProduction":0.05,
 "requirements":[lead/25,titanium/25],
-"reseearch":"ast_default",
+"research":"ast_default",
 "size":1,
 "type":"SolarGenerator"
 }
