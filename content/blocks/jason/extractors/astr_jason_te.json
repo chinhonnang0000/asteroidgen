@@ -1,0 +1,22 @@
+{
+"category": "production",
+"consumes":{"power":10}
+"craftEffect":"smeltsmoke",
+"craftTime":60,
+"description":"extracts thorium from ground",
+"hasItem":true,
+"hasPower":true,
+"health":1200,
+"itemCapacity":"20",
+"name":"thorium extractor",
+"outputItem": {"item": "thorium","amount": 1}
+"requirements":[
+{"item":"copper":"amount":50},
+{"item":"graphite":"amount":100}
+{"item":"lead","amount":100},
+{"item":"titanium","amount":200},
+],
+"research":"ast_jason_ge",
+"size":3,
+"type":"GenericCrafter",
+}
