@@ -1,0 +1,20 @@
+{
+"ambientSound":"smelter",
+"ambientSoundVolume":0.12,
+"armor":5,
+"consumes":{
+ "power":5,
+ "items":[graphite/1,sand/3]
+}
+"craftTime":60,
+"description":"You will need silicon to launch Core:Nucleus to adjacent sectors in Jason 2.0 in Orbiting Themelight in JSON Solar System Eample."
+"hasPower":true,
+"health":400,
+"itemCapacity":25,
+"localizedName":"astr_jason - silicon arc furnace",
+"outputItem":{"item":"silicon","amount":3},
+"requirements":[titanium/70,graphite/80]
+"research":"astr_jason_ge",
+"size":3,
+"type":"GenericCrafter",
+}
