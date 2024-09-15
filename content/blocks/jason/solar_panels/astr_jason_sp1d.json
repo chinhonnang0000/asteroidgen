@@ -1,0 +1,12 @@
+{
+"armor":4,
+"category":"power",
+"descrition":"less effective than standard solar panels but useful where silicon is not allowed"
+"health":6000,
+"localizedName":"extra-large titanium lead solar panels"
+"powerProduction":1.3,
+"requirements":[lead/450,titanium/450],
+"reseearch":"astr_jason_sp1c",
+"size":4,
+"type":"SolarGenerator"
+}

@@ -1,0 +1,12 @@
+{
+"armor":1,
+"category":"power",
+"descrition":"less effective than standard solar panels but useful where silicon is not allowed"
+"health":300,
+"localizedName":"small titanium lead solar panels"
+"powerProduction":0.05,
+"requirements":[lead/25,titanium/25],
+"reseearch":"ast_default",
+"size":1,
+"type":"SolarGenerator"
+}
