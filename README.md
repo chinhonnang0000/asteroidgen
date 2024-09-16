@@ -29,9 +29,11 @@ Currnet bugs:
 Last thing completed ::: jason - titanium solar panels
 
 Work in progress, excluding bugfixes - removed from this list once completed or cancelled 
+sector 6 (mission 6) remake - phase glass - AEGA solar panels - 1 series of turrets more overpowered than duodecs.
+mission 7 - Heavy attacking units and the first enemiies that is not made by Anuke. 
 
 Proposed untouched (not started yet)
-- Heavy Attacking units and war factories and refabs (proposed at mission 7)
-- skilltree for erida, Project Decay,
-- Sector 6 remake, mission 7  
+- skilltree for erida,
 
+Shelved or cancelled 
+- skill tree for project Decay. - The mod is gone from github and browser. Full inclusion will be added to intermod https://github.com/chinhonnang0000/intermod 
