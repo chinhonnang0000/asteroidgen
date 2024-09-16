@@ -37,4 +37,4 @@ Proposed untouched (not started yet)
 - skilltree for erida,
 
 Shelved or cancelled 
-- skill tree for project Decay. - The mod is gone from github and browser. Full inclusion will be added to intermod https://github.com/chinhonnang0000/intermod 
+- skill tree for project Decay. - The mod is gone from github and browser. Full inclusion will be included together with xsi, hyperspace, exhiber. package 0.  
