@@ -29,8 +29,9 @@ Currnet bugs:
 Last thing completed ::: jason - titanium solar panels
 
 Work in progress, excluding bugfixes - removed from this list once completed or cancelled 
-sector 6 (mission 6) remake - phase glass - AEGA solar panels - 1 series of turrets more overpowered than duodecs.
-mission 7 - Heavy attacking units and the first enemiies that is not made by Anuke. 
+- better plasma bores 
+- sector 6 (mission 6) remake - phase glass - AEGA solar panels - 1 series of turrets more overpowered than duodecs.
+- mission 7 - Heavy attacking units and the first enemiies that is not made by Anuke. 
 
 Proposed untouched (not started yet)
 - skilltree for erida,
