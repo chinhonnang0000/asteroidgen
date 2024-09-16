@@ -1,6 +1,6 @@
 
 about this Mindustry mod:
-
+![icon](https://github.com/chinhonnang0000/asteroidgen/blob/main/images/copper_is_scarce.png)
 named after AsteroidGenerator. 
 With this mod, some planets(not all) from other mods will be playable and capturable. as long as they are:
 - Use SerpuloPlanetGenerator on planet JSON files. 
