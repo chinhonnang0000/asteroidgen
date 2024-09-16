@@ -26,10 +26,9 @@ campaign
 Currnet bugs: 
 - more to be found and be fixed. 
 
-Last thing completed ::: jason - thorium extractor
+Last thing completed ::: jason - titanium solar panels
 
 Work in progress, excluding bugfixes - removed from this list once completed or cancelled 
-- jason - titanium lead solar panels (less effective than standard solar panels because silicon is not allowed)
 
 Proposed untouched (not started yet)
 - Heavy Attacking units and war factories and refabs (proposed at mission 7)
