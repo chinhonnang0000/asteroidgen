@@ -1,0 +1,26 @@
+{
+  "type": "BeamDrill",
+  "name": "medium titanium lead Plasma Bore",
+"itemCapacity": 30,
+"health": 650,
+  "description": "Both lead and titanium are very abundant in most asteroid sectors in many mods"
+"armor":5,
+"size": 2,
+  "category": "production",
+  "research": "ast_pb2a",
+  "requirements": [{"item":"lead","amount":60},{"item":"lead","amount":40}],
+  "tier": 4,
+  "range": 3,
+  "drillTime": 110,
+  "fogRadius": 8,
+  
+  "consumes": {
+    "power": 0.2,
+    "liquid": {
+      "liquid": "hydrogen",
+      "amount": 0.0014,
+      "optional": true,
+      "booster": true
+    }
+  }
+} 
