@@ -8,7 +8,7 @@
 "size": 2,
   "category": "production",
   "research": "ast_pb2a",
-  "requirements": [{"item":"lead","amount":60},{"item":"lead","amount":40}],
+  "requirements": [{"item":"lead","amount":60},{"item":"titanium","amount":40}],
   "tier": 4,
   "range": 3,
   "drillTime": 110,
