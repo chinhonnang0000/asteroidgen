@@ -1,6 +1,6 @@
 {
 "research":{"parent":"turbc","objectives":[{"type":"SectorComplete","preset":"turbc"}]},
-  "localizedName": "ast_main mission 3: Abondoned lead mine",
+  "localizedName": "astr_main mission 3: Abondoned lead mine",
   "description": "Octo is left behind. Expect a lot of planes here.",
   "difficulty": 3,
   "planet": "asteroidgen",
