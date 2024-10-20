@@ -1,6 +1,6 @@
 {
   "research":"asteroidgen_origin",
-  "localizedName": "ast_main mission 1: intriduction",
+  "localizedName": "astr_main mission 1: intriduction",
   "description": "The initial launch sector for this mod. You can capture other sectors in this planet. By quiting or switching sectors, the waves on other sectors is set at 30. ",
   "difficulty": 1,
   "planet": "asteroidgen",
