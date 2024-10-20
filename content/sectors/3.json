@@ -3,7 +3,7 @@
   "parent":"2",
   "objectives":[{"type": "SectorComplete","preset":2}]
 }
-  "localizedName": "ast_main mission 4: drill data bases",
+  "localizedName": "astr_main mission 4: drill data bases",
   "description": "5x5 drills are here. gives additional max units each.",
   "difficulty": 2,
   "planet": "asteroidgen",
