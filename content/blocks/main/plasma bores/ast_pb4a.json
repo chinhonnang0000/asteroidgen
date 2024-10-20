@@ -1,0 +1,26 @@
+{
+  "type": "BeamDrill",
+  "name": "small AEGA Plasma Bore",
+"itemCapacity": 80,
+"health": 2000,
+  "description": "-"
+"armor":30,
+"size": 1,
+  "category": "production",
+  "research": "aeg_smelter",
+  "requirements": [{"item":"graphite","amount":2},{"item":"metaglass","amount":3},{"item":"lead","amount":15},{"item":"aeg_alloy","amount":15}],
+  "tier": 7,
+  "range": 6,
+  "drillTime": 20,
+  "fogRadius": 5,
+  
+  "consumes": {
+    "power": 0.15,
+    "liquid": {
+      "liquid": "hydrogen",
+      "amount": 0.0014,
+      "optional": true,
+      "booster": true
+    }
+  }
+} 

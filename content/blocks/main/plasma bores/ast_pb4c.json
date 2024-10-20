@@ -1,0 +1,26 @@
+{
+  "type": "BeamDrill",
+  "name": "large AEGA Plasma Bore",
+"itemCapacity": 500,
+"health": 30000,
+  "description": "-"
+"armor": 300,
+"size": 3,
+  "category": "production",
+  "research": "astr_pb4b",
+  "requirements": [{"item":"graphite","amount":6},{"item":"metaglass","amount":10},{"item":"lead","amount":135},{"item":"aeg_alloy","amount":135}],
+  "tier": 7,
+  "range": 6,
+  "drillTime": 20,
+  "fogRadius": 7,
+  
+  "consumes": {
+    "power": 0.25,
+    "liquid": {
+      "liquid": "hydrogen",
+      "amount": 0.0014,
+      "optional": true,
+      "booster": true
+    }
+  }
+} 
