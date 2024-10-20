@@ -1,0 +1,26 @@
+{
+  "type": "BeamDrill",
+  "name": "extra large titanberyl Plasma Bore",
+"itemCapacity": 300,
+"health": 18000,
+  "description": "-"
+"armor":100,
+"size": 4,
+  "category": "production",
+  "research": "ast_pb3c",
+  "requirements": [{"item":"graphite","amount":20},{"item":"lead","amount":240},{"item":"titanberyl","amount":240}],
+  "tier": 5,
+  "range": 5,
+  "drillTime": 40,
+  "fogRadius": 10,
+  
+  "consumes": {
+    "power": 0.3,
+    "liquid": {
+      "liquid": "hydrogen",
+      "amount": 0.0014,
+      "optional": true,
+      "booster": true
+    }
+  }
+} 

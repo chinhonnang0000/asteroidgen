@@ -1,0 +1,26 @@
+{
+  "type": "BeamDrill",
+  "name": "small titanberyl Plasma Bore",
+"itemCapacity": 30,
+"health": 600,
+  "description": "-"
+"armor":10,
+"size": 1,
+  "category": "production",
+  "research": "titanberyl_smelter",
+  "requirements": [{"item":"graphite","amount":2},{"item":"lead","amount":15},{"item":"titanberyl","amount":15}],
+  "tier": 5,
+  "range": 5,
+  "drillTime": 50,
+  "fogRadius": 5,
+  
+  "consumes": {
+    "power": 0.15,
+    "liquid": {
+      "liquid": "hydrogen",
+      "amount": 0.0014,
+      "optional": true,
+      "booster": true
+    }
+  }
+} 
