@@ -7,7 +7,7 @@
 "armor": 100,
 "size": 2,
   "category": "production",
-  "research": "astr_pb4a",
+  "research": "ast_pb4a",
   "requirements": [{"item":"graphite","amount":4},{"item":"metaglass","amount":7},{"item":"lead","amount":60},{"item":"aeg_alloy","amount":60}],
   "tier": 7,
   "range": 6,
