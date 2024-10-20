@@ -1,6 +1,6 @@
 {
 "research":{"parent":"3","objectives":[{"type": "SectorComplete","preset":"3"}]}
-  "localizedName": "ast_main mission 5: sector 5",
+  "localizedName": "astr_main mission 5: sector 5",
   "description": "tons of antumbra."
   "difficulty": 7,
   "planet": "asteroidgen",
