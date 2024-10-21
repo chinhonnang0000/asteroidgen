@@ -3,7 +3,7 @@
   "parent":"1",
   "objectives":[{"type": "SectorComplete","preset":"1"}]
 }
-  "localizedName": "ast_main mission 2: abondoned vents",
+  "localizedName": "astr_main mission 2: abondoned vents",
   "description": "some vent condenser related techs. "
   "difficulty": 2,
   "planet": "asteroidgen",
