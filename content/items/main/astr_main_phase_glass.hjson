@@ -2,7 +2,7 @@
 alwaysUnlocked: false,
 cost: 0.01,
 description: "Phase glass - readily be made into phase fabric and much stronger than meta glass", 
-name: astr_main_phase_glass,
+name: phase glass,
 hardness: 0.01,
 research: "titanberyl",
 hiddenOnPlanets: []
