@@ -1,0 +1,24 @@
+{
+  "name": "small beryllium Drill",
+  "description": "A tiny drill build from beryllium. Capable of mining thorium",
+"health": 100,  
+"type": "Drill",
+  "size": 1,
+  "tier": 4,
+  "itemCapacity": 4,
+  "drillTime": 80,
+  "hasPower": false,
+  "powerConsumes": 1,
+  "drawMineItem": false,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [{"item":"berylium","amount":6}],
+  "category": "production",
+  "research": {"parent":"asteroidgen_origin","objectives":[{"type":"OnSector","preset":"adjacent_fields_can_be_captured"}]}
+}
