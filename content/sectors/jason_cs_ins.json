@@ -1,7 +1,7 @@
 {
 "research":{"parent":"jason","objectives":[{"type":"SectorComplete","preset":"jason"}]}
   "localizedName": "land to anoither sector in Jason 2.0",
-  "description": "Oince you are able to land in this sector, you cann conquer the entire the entire planet.",
+  "description": "Once you are able to land in this sector, you can conquer the entire the entire planet.",
   "difficulty": 0,
   "planet": "ast_default",
   "sector": 143,
