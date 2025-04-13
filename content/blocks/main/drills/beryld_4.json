@@ -19,7 +19,7 @@
       "booster": true
     }
   },
-  "requirements": [{"item":"berylium","amount":100}],
+  "requirements": [{"item":"beryllium","amount":100}],
   "category": "production",
   "research": {"parent":"beryld_3"}
 }
