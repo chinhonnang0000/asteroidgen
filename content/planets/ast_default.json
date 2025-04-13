@@ -5,7 +5,7 @@
 allowLaunchSchamatics:false
 allowWaves:true
 allowWaveSimulation: true
-description: "A planet to gather resources adn tech to make jason 2.0 playable"
+description: "A planet to gather resources and tech to make jason 2.0 playable"
 "defaultCore":"core-nucleus"
 drawOrbit:true
 generator: SerpuloPlanetGenerator
