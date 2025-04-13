@@ -1,0 +1,25 @@
+{
+"armor":4,
+  "name": "extra-large beryllium Drill",
+  "description": "A very large drill build from beryllium. Capable of mining thorium",
+"health": 2000,  
+"type": "Drill",
+  "size": 4,
+  "tier": 4,
+  "itemCapacity": 4,
+  "drillTime": 68,
+  "hasPower": false,
+  "powerConsumes": 1,
+  "drawMineItem": false,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.02,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [{"item":"berylium","amount":100}],
+  "category": "production",
+  "research": {"parent":"beryld_3"}
+}
