@@ -1,8 +1,8 @@
 {
 "research":{"parent":"jason","objectives":[{"type":"SectorComplete","preset":"jason"}]}
-  "localizedName": "astroidgen for Jason 2.0",
-  "description": "A place for Jason 2.0 Supplementary",
-  "difficulty": 1,
+  "localizedName": "land to anoither sector in Jason 2.0",
+  "description": "Oince you are able to land in this sector, you cann conquer the entire the entire planet.",
+  "difficulty": 0,
   "planet": "ast_default",
   "sector": 143,
   "isLastSector": false,
