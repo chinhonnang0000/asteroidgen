@@ -26,7 +26,7 @@ campaign
 Currnet bugs: 
 - more to be found and be fixed. 
 
-Last thing completed ::: main - better plsma bores. 
+Last thing completed ::: main - beryllium drills which works the same as drills in serpulo. 
 
 Work in progress, excluding bugfixes - removed from this list once completed or cancelled 
 - sector 6 (mission 6) remake - phase glass - AEGA solar panels - 1 series of turrets more overpowered than duodecs.
