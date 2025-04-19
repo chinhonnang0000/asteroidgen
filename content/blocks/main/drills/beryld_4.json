@@ -10,7 +10,6 @@
   "drillTime": 68,
   "hasPower": false,
   "powerConsumes": 1,
-  "drawMineItem": false,
   "consumes": {
     "liquid": {
       "liquid": "water",
