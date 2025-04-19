@@ -8,7 +8,6 @@
   "itemCapacity": 20,
   "drillTime": 800,
   "hasPower": false,
-  "drawMineItem": false,
   "consumes": {
     "liquid": {"liquid": "water","amount": 0.02,"optional": true,"booster": true},
     "items":[lead/3],
