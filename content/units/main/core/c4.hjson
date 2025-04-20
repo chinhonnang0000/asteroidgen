@@ -1,0 +1,18 @@
+alwaysUnlocked: false,
+buildRange:1000,
+buildSpeed:125,
+canAttack:true,
+contorller:BuilderAI,
+coreUnitDock:true,
+defaultController: BuilderAI,
+flying:true,
+health:10000,
+itemCapacity: 250,
+localisedName: "scout C4",
+mineFloor:true
+mineRange: 450
+mineTier: 4
+mineWalls:true
+speed: 9,
+type:flying,
+weapons:[{bullet:{damage:2500,lifetime:50,speed:16},name:c2_gun,range:350,reload,5}],
