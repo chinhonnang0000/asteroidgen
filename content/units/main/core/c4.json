@@ -1,3 +1,4 @@
+{
 alwaysUnlocked: false,
 buildRange:1000,
 buildSpeed:125,
@@ -16,3 +17,4 @@ mineWalls:true
 speed: 9,
 type:flying,
 weapons:[{bullet:{damage:2500,lifetime:50,speed:16},name:c2_gun,range:350,reload,5}],
+}
