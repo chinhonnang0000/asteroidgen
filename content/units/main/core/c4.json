@@ -16,6 +16,6 @@ mineRange: 450
 mineTier: 4
 mineWalls:true
 speed: 9,
-type:flying,
-weapons:[{bullet:{damage:2500,lifetime:50,speed:16},name:c2_gun,range:350,reload,5}],
+"type":"flying",
+"weapons":[{"bullet":{"damage":2500,"lifetime":60,speed:16},"name":"c4_gun","range":360,"reload":5}],
 }
