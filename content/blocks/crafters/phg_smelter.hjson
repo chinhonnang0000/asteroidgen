@@ -1,0 +1,29 @@
+"category":"crafting"
+
+"consumes":{"power":9
+"items":[
+{"item":"sand","amount":100},
+{"item":"thorium","amount":40}
+]}
+
+"craftTime": 120,
+"description":"makes phase glasses uses for many afvanced stuffs",
+"drawer":{"type":"DrawMulti","drawers":[{"type":"DrawDefault"},{"type":"DrawFlame"}]},
+"hasItems":true,  
+"hasPower":true,
+"health":4200,
+"itemCapacity": 120,
+"name":"phase glass smelter",
+"outputItem":{"item":"astr_main_phase_glass","amount":50},
+
+"requirements":[
+{"item":"thorium","amount":500},
+{"item":"copper","amount":40},
+{"item":"lead","amount":120},
+{"item":"silicon","amount":150},
+{"item":"titanium","amount":250},
+],
+
+"research":{"parent":"ast_pw_1"},
+"size":3
+"type":"GenericCrafter"
