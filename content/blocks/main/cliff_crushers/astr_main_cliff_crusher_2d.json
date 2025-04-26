@@ -8,7 +8,7 @@
 "hasPower":false,
 "health":15000,
 "itemCapacity":300,
-"name":"medium titanium-lead cliff crusher",
+"name":"extra-large titanium-lead cliff crusher",
 "output":"sand",
 "requirements":[lead/800,titanium/800],
 "research":"astr_main_cliff_crusher_2c",
