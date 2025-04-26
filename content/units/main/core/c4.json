@@ -19,5 +19,5 @@ speed: 15,
 "type":"flying",
 "weapons":[
   {"bullet":{"damage":2500,"length":32,"lifetime":60,speed:16},"name":"c4_gun","range":360,"reload":5}],
-  {"bullet":{"damage":2500,"length":32,"lifetime":60,speed:16},"name":"c4_gun","range":360,"reload":5}],
+  {"bullet":{"damage":2500,"length":32,"lifetime":60,speed:16},"name":"c4_gun","range":360,"reload":5}]
 }
