@@ -2,10 +2,12 @@
 "category":"crafting"
 "craftEffect":"smeltsmoke",
 "craftTime":120,
-"consumes":{"power":10,
+"consumes":{
+"power":10,
 "items":[{"item":"thorium","amount":10},{"item":"sand","amount":25}]
 }
 "description":"produces phase fabric",
+"draw":{"type":"drawMulti","drawers":[{"type":"DrawDefault"},{"type":"DrawWeave"}]}
 "hasPower":true, 
 "health":3600,
 "itemCapacity":50,
