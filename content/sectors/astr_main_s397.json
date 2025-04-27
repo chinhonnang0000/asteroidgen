@@ -1,7 +1,7 @@
 {
 "research":{
-parent:pha,
-objectives:[{"type":"SectorComplete","preset":"pha"}]
+"parent":"pha",
+"objectives":[{"type":"SectorComplete","preset":"pha"}]
 },
   "localizedName": "Sector 397",
   "description": "Phase glass techs and smelters. Do not be fooled by the first 30 waves",
