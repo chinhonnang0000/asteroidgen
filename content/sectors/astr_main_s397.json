@@ -1,0 +1,17 @@
+{
+"research":{
+parent:pha,
+objectives:[{type: SectorComplete,preset:pha}]
+},
+  "localizedName": "Sector 397",
+  "description": "Phase glass techs and smelters. Do not be fooled by the first 30 waves",
+  "difficulty": 6,
+  "planet": "asteroidgen",
+  "captureWave": 42,
+  "sector": 397,
+  "isLastSector": false,
+  "alwaysUnlocked": false,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "addStartingItems": true,
+}
