@@ -26,11 +26,11 @@ campaign
 Currnet bugs: 
 - more to be found and be fixed. 
 
-Last thing completed ::: main - core tier 4
+Last thing completed ::: main - phase glass (currently useless) & sector 397
 
 Work in progress, excluding bugfixes - removed from this list once completed or cancelled 
-- sector 6 (mission 6) remake - phase glass - AEGA solar panels - 1 series of turrets more overpowered than duodecs.
-- mission 7 - Heavy attacking units and the first enemiies that is not made by Anuke. 
+- sector 6 (mission 6) remake - phase glass walls, conduits, 3rd tier serpulo units phase version - AEGA solar panels - 1 series of turrets more overpowered than duodecs.
+- mission 7 - Heavy attacking units and enemiies that is not made by Anuke. 
 
 Proposed untouched (not started yet)
 - skilltree for erida,
