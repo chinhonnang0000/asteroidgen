@@ -24,6 +24,6 @@
 {"item":"titanium","amount":250},
 ],
 
-"research":{"parent":"ast_pw_1"},
+"research":{"parent":"ast_pw_1","objectives":["type":"ScetorComplete","preset":"astr_main_s397"]},
 "size":3
 "type":"GenericCrafter"
