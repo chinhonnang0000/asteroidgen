@@ -16,7 +16,7 @@
 "localizedName":"astr_jason - silicon arc furnace",
 "outputItem":{"item":"silicon","amount":4},
 "requirements":[beryllium/70,graphite/80,lead/90]
-"research":{"parent":"asteroidgen_research_origin","objectives":[{"type":"SectorComplete","preset":"astr_main_s281"}]}
+"research":{"parent":"asteroidgen_origin","objectives":[{"type":"SectorComplete","preset":"astr_main_s281"}]}
 "size":3,
 "type":"GenericCrafter",
 }
