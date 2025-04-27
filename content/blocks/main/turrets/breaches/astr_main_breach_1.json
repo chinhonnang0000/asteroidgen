@@ -42,11 +42,12 @@ shootEffect:{"type":"MultiEffect",effects:[shootBigColor,colorSparkBig]},"smokeE
 }
 }
 armor:6,
-shootEffect:{"type":"MultiEffect",effects:[shootBigColor,colorSparkBig]},"smokeEffect":"shootBigSmoke"
+"catebory":"turret"
 health:600,
 range:210,
 reload:30,
 "research":"astr_main_siaf",
+"requirements":[beryllium/150,silicon/150,graphite/125,lead/175],
 rotateSpeed:2,
 size:3,
 type:ItemTurret,
