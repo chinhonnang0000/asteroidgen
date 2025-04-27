@@ -7,7 +7,7 @@
 "items":[{"item":"thorium","amount":10},{"item":"sand","amount":25}]
 }
 "description":"produces phase fabric",
-"draw":{"type":"drawMulti","drawers":[{"type":"DrawDefault"},{"type":"DrawWeave"}]}
+"draw":{"type":"drawMulti","drawers":[{"type":"DrawDefault"},{"type":"DrawWeave","suffix":"-weave"}]}
 "hasPower":true, 
 "health":3600,
 "itemCapacity":50,
