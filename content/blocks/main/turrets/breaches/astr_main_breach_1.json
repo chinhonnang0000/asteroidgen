@@ -42,7 +42,7 @@ shootEffect:{"type":"MultiEffect",effects:[shootBigColor,colorSparkBig]},"smokeE
 }
 }
 armor:6,
-"catebory":"turret"
+"category":"turret"
 health:600,
 range:210,
 reload:30,
