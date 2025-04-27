@@ -1,11 +1,11 @@
 {
 "research":{
-parent:pha,
-objectives:[{type: SectorComplete,preset:1}]
+"parent":"1",
+objectives:[{"type": "SectorComplete","preset":"1"}]
 },
   "localizedName": "astr_main mission 1: silicon fields",
   "description": "silione fields destroyed by crux",
-  "difficulty": 6,
+  "difficulty": 1,
   "planet": "asteroidgen",
   "captureWave": 8,
   "sector": 281,
