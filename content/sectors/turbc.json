@@ -1,6 +1,6 @@
 {
 "research":{
-  "parent":"1",
+  "parent":"astr_main_s281",
   "objectives":[{"type": "SectorComplete","preset":"astr_main_s281"}]
 }
   "localizedName": "astr_main mission 2: abondoned vents",
