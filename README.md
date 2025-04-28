@@ -29,11 +29,11 @@ Currnet bugs:
 Last thing completed ::: main - sector 281 as intermidiate between the first mission and vents. As the difficuly curve rose too quickly. and silicon smelters. 
 
 Work in progress, excluding bugfixes - removed from this list once completed or cancelled 
+- better breaches, tier 1 alternative stell production. 
 - sector 6 (mission 6) remake - phase glass walls, conduits, 3rd tier serpulo units phase version - AEGA solar panels - 1 series of turrets more overpowered than duodecs.
 - mission 7 - Heavy attacking units and enemiies that is not made by Anuke. 
 
 Proposed untouched (not started yet)
 - skilltree for erida,
-
+- Full inclusion of Project Decay + Tantria and its surrounding planets. 
 Shelved or cancelled 
-- skill tree for project Decay. - The mod is gone from github and browser. Full inclusion will be included together with xsi, hyperspace, exhiber. package 0.  
