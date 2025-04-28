@@ -1,9 +1,0 @@
-author: chinhonnang0000
-displayName: asteroidgen
-dependencies:[]
-description: "Certainly the biggest mod in its number of stars. Named after AsteroidGenerator /n/n it is recommended that you install some other mods that has JSON planets."
-hidden:false
-name: asteroidgen
-minGameVersion: 146
-version: build 0
-repo: "chinhonnang0000/asteroidgen"
