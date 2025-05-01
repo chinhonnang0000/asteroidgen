@@ -4,8 +4,8 @@ configurable: false
 consumes:{"power":1.5}
 "description":"inferior to standard flare factory but very useful in [#0088ff]AQUARION [#white]and [#aaaaaa]Project Decay where no copper or beryllium is allowed" 
 health:200
-localizedName: "lead flare factory"
-plans:[{"unitType":"flare","requirements":["silicon/15"]},"time":1200]
+localizedName: "lead flare factory",
+"plans":[{"unitType":"flare","requirements":["silicon/15"]},"time":1200],
 requirements:["lead/190","silicon/80"]
 "research":"astr_main_siaf"
 type:UnitFactory
