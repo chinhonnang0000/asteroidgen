@@ -45,7 +45,7 @@ armor:20,
 "category":"turret"
 health:2000,
 "name":"titanberyl-lead enforecd breach",
-range:250,
+range:330,
 reload:30,
 "research":"astr_main_breach_2",
 "requirements":[beryllium/150,silicon/150,graphite/125,lead/175,titanberyl/200],
