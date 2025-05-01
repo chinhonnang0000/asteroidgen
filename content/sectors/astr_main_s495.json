@@ -1,7 +1,7 @@
 {
 "research":{
 parent:astr_main_s281,
-objectives:[{type: SectorComplete,preset:astr_main_s281}]
+"objectives":[{"type":"SectorComplete","preset":"astr_main_s281"}]
 },
   "localizedName": "Sector 495 - The origins of the flares",
   "description": "Enemy flare traces leading to the enemy base in this planet",
