@@ -1,0 +1,13 @@
+{
+  "type": "SolarGenerator",
+  "name": "small standard Solar Panel",
+  "description": "The same solar panel back in Serpulo. Useful if you reset the original campaign regularly with this mod disabled.",
+  "health": 40,
+  "size": 1,
+  "hasPower": true,
+  "hasLiquids": false,
+  "powerProduction": 0.12,
+  "requirements": [{"item": "lead","amount": 10},{"item":"silicon","amount":8}],
+  "category": "power",
+  "research": "astr_main_siaf"
+}

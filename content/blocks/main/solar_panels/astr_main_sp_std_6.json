@@ -1,0 +1,13 @@
+{
+  "type": "SolarGenerator",
+  "name": "gigantic standard Solar Panel",
+  "description": "",
+  "health": 2880,
+  "size": 6,
+  "hasPower": true,
+  "hasLiquids": false,
+  "powerProduction": 8.64,
+  "requirements": [{"item": "lead","amount": 720},{"item":"silicon","amount":676}],
+  "category": "power",
+  "research": "astr_main_ps_std_5"
+}

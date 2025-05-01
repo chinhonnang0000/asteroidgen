@@ -1,0 +1,13 @@
+{
+  "type": "SolarGenerator",
+  "name": "extra-large standard Solar Panel",
+  "description": "",
+  "health": 720,
+  "size": 4,
+  "hasPower": true,
+  "hasLiquids": false,
+  "powerProduction": 2.16,
+  "requirements": [{"item": "lead","amount": 180},{"item":"silicon","amount":144}],
+  "category": "power",
+  "research": "astr_main_ps_std_3"
+}
