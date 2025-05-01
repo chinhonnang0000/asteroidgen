@@ -2,7 +2,7 @@
 category: units
 configurable: false 
 consumes:{"power":1.5} 
-"description":"inferior to standard air factories but useful where copper and beryllium are not allowed.",
+"description":"inferior to standard air factories but useful where copper and beryllium are not allowed or found like [#0088ff]AQUARION [#ffffff]and [#999999]project Decay.",
 health:200
 localizedName: "lead flare factory"
 plans:[{"unit":"flare","requirements":["silicon/15"],"time":1200}]
