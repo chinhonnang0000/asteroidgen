@@ -9,5 +9,5 @@
   "powerProduction": 4.32,
   "requirements": [{"item": "lead","amount": 360},{"item":"silicon","amount":288}],
   "category": "power",
-  "research": "astr_main_ps_std_4"
+  "research": "astr_main_sp_std_4"
 }
