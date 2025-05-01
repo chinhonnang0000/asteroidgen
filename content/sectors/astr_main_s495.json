@@ -1,0 +1,16 @@
+{
+"research":{
+parent:astr_main_s281,
+objectives:[{type: SectorComplete,preset:astr_main_s281}]
+},
+  "localizedName": "Sector 495 - The origins of the flares",
+  "description": "Enemy flare traces leading to the enemy base in this planet",
+  "difficulty": 4,
+  "planet": "asteroidgen",
+  "sector": 495,
+  "isLastSector": false,
+  "alwaysUnlocked": false,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "addStartingItems": true,
+}
