@@ -1,5 +1,6 @@
 {
-category: units
+category: units,
+"clearOnDoubleTap":false,
 configurable: false 
 consumes:{"power":1.5}
 "description":"inferior to standard flare factory but very useful in [#0088ff]AQUARION [#ffffff]and [#aaaaaa]Project Decay [#ffffff]where no copper or beryllium is allowed" 
