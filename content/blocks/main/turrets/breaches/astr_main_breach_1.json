@@ -44,6 +44,7 @@ shootEffect:{"type":"MultiEffect",effects:[shootBigColor,colorSparkBig]},"smokeE
 armor:6,
 "category":"turret"
 health:600,
+"name":"lead-enhanced breach",
 range:210,
 reload:30,
 "research":"astr_main_siaf",
