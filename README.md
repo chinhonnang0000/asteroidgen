@@ -26,10 +26,10 @@ campaign
 Currnet bugs: 
 - more to be found and be fixed. 
 
-Last thing completed ::: main - sector 281 as intermidiate between the first mission and vents. As the difficuly curve rose too quickly. and silicon smelters. 
+Last thing completed ::: main - better breaches, Cheap flare factory, Sector 495 as side mission. 
 
 Work in progress, excluding bugfixes - removed from this list once completed or cancelled 
-- better breaches, tier 1 alternative stell production. 
+- tier 1 alternative stell production. direct tier 2 and up serpulo unit production.  
 - sector 6 (mission 6) remake - phase glass walls, conduits, 3rd tier serpulo units phase version - AEGA solar panels - 1 series of turrets more overpowered than duodecs.
 - mission 7 - Heavy attacking units and enemiies that is not made by Anuke. 
 
