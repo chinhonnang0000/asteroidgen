@@ -1,14 +1,6 @@
 {
 "armor":3,
-category: units
-configurable: false 
-consumes:{"power":3}
-"description":"" 
-health:800
-localizedName: "attrax factory",
-"plans":[{"unit":"atrax","requirements":["silicon/50","graphite/40"],"time":600}]
-requirements:["titanium/200","lead/120","silicon/80"]
-"research":{"parent":"astr_main_siaf","objectives":[{"type":"SectorComplete","preset":"main_twt"}]},
-type:UnitFactory
-unitCapModifier: 25
+"category":"units",
+"configurable": false,
+"health": 800, 
 }
