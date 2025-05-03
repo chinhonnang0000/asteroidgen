@@ -1,0 +1,15 @@
+{
+"armor":3,
+category: units
+configurable: false 
+consumes:{"power":3} 
+"description":"produces mace bypassing dagger teardown",
+"health":800,
+"localizedName": "mace factory",
+plans:[{"unit":"mace","requirements":["silicon/55","graphite/40","lead/10"],"time":600}]
+requirements:["titanium/200","lead/120","silicon/80"]
+"research":{"parent":"astr_main_siaf"},
+size:3
+type:UnitFactory
+unitCapModifier: 25
+}

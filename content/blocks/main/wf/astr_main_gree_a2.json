@@ -1,0 +1,15 @@
+{
+"armor":3,
+category: units
+configurable: false 
+consumes:{"power":3} 
+"description":"produces poly bypassing mono teardown",
+"health":800,
+"localizedName": "poly factory",
+plans:[{"unit":"poly","requirements":["silicon/60","graphite/40","lead/15"],"time":600}]
+requirements:["titanium/200","lead/120","silicon/80"]
+"research":{"parent":"astr_main_siaf"},
+size:3
+type:UnitFactory
+unitCapModifier: 25
+}
