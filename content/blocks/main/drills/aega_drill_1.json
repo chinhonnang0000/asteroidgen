@@ -6,7 +6,7 @@
   "size": 1,
   "tier": 7,
   "itemCapacity": 60,
-  "drillTime": 30,
+  "drillTime": 20,
   "hasPower": false,
   "powerConsumes": 1,
   "consumes": {
