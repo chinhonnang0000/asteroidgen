@@ -3,4 +3,5 @@
 "category":"units",
 "configurable": false,
 "health": 800, 
+"type":"UnitFactory",
 }
