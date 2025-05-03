@@ -5,6 +5,6 @@
 "consumes":{"power":3},
 "health": 800, 
 "size":3,
-"plans":[{"unit":"attrax","time":600}],
+"plans":[{"unit":"atrax","time":600}],
 "type":"UnitFactory",
 }
