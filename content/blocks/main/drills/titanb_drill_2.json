@@ -4,9 +4,9 @@
 "health": 700,  
 "type": "Drill",
   "size": 2,
-  "tier": 4,
+  "tier": 5,
   "itemCapacity": 100,
-  "drillTime": 99,
+  "drillTime": 49,
   "hasPower": false,
   "powerConsumes": 1,
 
