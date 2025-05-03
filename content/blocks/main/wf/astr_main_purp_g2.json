@@ -3,5 +3,6 @@
 "category":"units",
 "configurable": false,
 "health": 800, 
+"size":3,
 "type":"UnitFactory",
 }
