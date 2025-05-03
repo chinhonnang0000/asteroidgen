@@ -2,11 +2,11 @@
 "armor":3,
 category: units
 configurable: false 
-consumes:{"power":1.5} 
-"description":"inferior to standard air factories but useful where copper and beryllium are not allowed or found like [#0088ff]AQUARION [#ffffff]and [#999999]project Decay.",
+consumes:{"power":3} 
+"description":"produces attrax bypassing crawler teardowns",
 "health":800,
-"localizedName": "lead flare factory",
-plans:[{"unit":"atrax","requirements":["silicon/15"],"time":1200}]
+"localizedName": "attrax factory",
+plans:[{"unit":"atrax","requirements":["silicon/15"],"time":600}]
 requirements:["titanium/200","lead/120","silicon/80"]
 research:astr_main_siaf,
 size:3
