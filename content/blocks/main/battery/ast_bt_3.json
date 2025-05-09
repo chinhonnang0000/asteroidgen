@@ -3,7 +3,7 @@ consumes:{powerBuffered: 7000}
 category:power
 description:"titanberyl coating makes the battery stronger"
 health:200
-localizedName: titanium battery
+"localizedName":"titanberyl battery"
 requirements:[{"item":lead,"amount":4},{"item":"titanberyl","amount":2}]
 research: ast_bt_2
 size:1
