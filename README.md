@@ -34,6 +34,7 @@ Work in progress, excluding bugfixes - removed from this list once completed or 
 - mission 7 - Heavy attacking units and enemiies that is not made by Anuke. 
 
 Proposed untouched (not started yet)
-- skilltree for erida,
-- Full inclusion of Project Decay + Tantria and its surrounding planets. 
+- Full inclusion of erida,
+- Full inclusion of Project Decay + Tantria and its surrounding planets.
+  
 Shelved or cancelled 
