@@ -4,11 +4,11 @@ category: units
 configurable: false 
 consumes:{"power":6} 
 "description":"produces Mega bypassing poly teardown",
-"health":1250,
+"health":2500,
 "itemCapacity":260,
 "localizedName": "Mega factory",
 plans:[{"unit":"mega","requirements":["silicon/180","graphite/40","titanium/80","metaglass/40","lead/15"],"time":1800}]
-requirements:["titanium/350","lead/650","thorium/650","silicon/450"]
+requirements:["titanium/350","lead/650","thorium/1000","silicon/450"]
 "research":{"parent":"astr_main_gree_a2"},
 size:5
 type:UnitFactory
