@@ -1,0 +1,15 @@
+{
+"armor":8,
+category: units
+configurable: false 
+consumes:{"power":6} 
+"description":"produces fotresses in one step",
+"health":2500,
+"localizedName": "fortress factory",
+plans:[{"unit":"fortress","requirements":["silicon/180","graphite/40","titanium/80","lead/10","metaglass/40"],"time":1800}]
+requirements:["titanium/350","lead/650","thorium/1000","silicon/450"]
+"research":{"parent":"astr_main_oran_g3"},
+size:5
+type:UnitFactory
+unitCapModifier: 30
+}

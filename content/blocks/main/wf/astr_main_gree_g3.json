@@ -1,0 +1,16 @@
+{
+"armor":8,
+category: units
+configurable: false 
+consumes:{"power":6} 
+"description":"produces Quasar bypassing poly teardown",
+"health":2500,
+"itemCapacity":260,
+"localizedName": "Quasar factory",
+plans:[{"unit":"quasar","requirements":["silicon/180","graphite/40","titanium/100","metaglass/40","lead/20"],"time":1800}]
+requirements:["titanium/350","lead/650","thorium/1000","silicon/450"]
+"research":{"parent":"astr_main_gree_g2"},
+size:5
+type:UnitFactory
+unitCapModifier: 30
+}
