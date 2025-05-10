@@ -8,7 +8,7 @@ consumes:{"power":6}
 "localizedName": "Spiroct factory",
 plans:[{"unit":"spiroct","requirements":["silicon/140","graphite/40","titanium/80","metaglass/40"],"time":1800}]
 requirements:["titanium/350","lead/650","thorium/1000","silicon/450"]
-"research":{"parent":"astr_main_oran_g3"},
+"research":{"parent":"astr_main_purp_g2"},
 size:5
 type:UnitFactory
 unitCapModifier: 30
