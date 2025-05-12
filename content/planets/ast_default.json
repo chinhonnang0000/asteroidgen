@@ -31,7 +31,7 @@ hiddenItems:[]
 iconColor: 978829 ,
 "itemWhitelist": [copper, lead, beryllium, graphite, titanium],
 "localizedName": "astr_jason" 
-mesh:{"type":"NoiseMesh","divisions":6,"color1":"988932","color2":"997939","colorOct":5,"colorPersistence":0.5,"octaves":3,"radius":1.9}
+mesh:{"type":"NoiseMesh","divisions":6,"color1":"223344","color2":"aa88bb","colorOct":5,"colorPersistence":0.5,"octaves":3,"radius":1.9}
 orbitRadius: 143
 parent: sun
 radius: 2
