@@ -5,10 +5,33 @@
 allowLaunchSchamatics:false
 allowWaves:true
 allowWaveSimulation: true
-description: "A planet to gather resources and tech to make jason 2.0 playable"
+"description": "A planet to gather resources and tech to make jason 2.0 playable"
 "defaultCore":"core-nucleus"
 drawOrbit:true
-generator: SerpuloPlanetGenerator
+"generator":{
+"type":"SerpuloPlanetGenerator",
+"min": 1,"max": 1,
+
+  # Noise properties.
+  octaves: 2
+  persistence: 0.4
+  scale: 30
+  mag: 0.4
+  thresh: 1
+  foct: 3
+  fmag: 0.5
+  fscl: 50
+  fper: 0.6,
+
+  # Asteroid radius range.
+  "radMin": 600, "radMax": 600
+
+  # Terrain generation chances, in order: ice > carbon > beryl > ferric.
+  iceChance: 0.5
+  carbonChance: 1
+  berylChance: 0
+  ferricChance: 0
+},
 hasAtmosphere:false
 hiddenItems:[]
 iconColor: 978829 ,
