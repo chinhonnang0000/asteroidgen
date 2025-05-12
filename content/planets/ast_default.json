@@ -20,11 +20,7 @@ drawOrbit:true
   "fmag":0.5,
   "fscl":50,
   "fper":0.6,
-
-  # Asteroid radius range.
-  "radMin": 600, "radMax": 600
-
-  # Terrain generation chances, in order: ice > carbon > beryl > ferric.
+  "radMin": 600, "radMax": 600,
   "iceChance":0.5,
   "carbonChance":1,
   berylChance: 0
