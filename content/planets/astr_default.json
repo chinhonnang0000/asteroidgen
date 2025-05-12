@@ -1,7 +1,7 @@
 {
 "allowWaves":true,
 "alwaysUnlocked":true,
-"generator":{}
+"generator":"SerpuloPlanetGenerator",
 "localizedName":"astr_default",
 "mesh":{"type":"noiseMesh","divisions":4,"color1":"887766","color2":"665544","radius":1.55}
 "parent":"sun",
