@@ -5,7 +5,7 @@
 allowLaunchSchamatics:false
 allowWaves:true
 allowWaveSimulation: true
-"description": "A planet to gather resources and tech to make jason 2.0 playable"
+"description": "A planet to gather resources and tech to make jason 2.0 playable. generator adjusted based on that mod."
 "defaultCore":"core-nucleus"
 drawOrbit:true
 "generator":{
@@ -26,12 +26,10 @@ drawOrbit:true
   berylChance: 0
   ferricChance: 0
 },
-hasAtmosphere:false
-hiddenItems:[]
-iconColor: 978829 ,
+"iconColor":"9999a8",
 "itemWhitelist": [copper, lead, beryllium, graphite, titanium],
 "localizedName": "astr_jason" 
-mesh:{"type":"NoiseMesh","divisions":6,"color1":"223344","color2":"aa88bb","colorOct":5,"colorPersistence":0.5,"octaves":3,"radius":1.9}
+mesh:{"type":"NoiseMesh","divisions":6,"color1":"888888","color2":"aaaabb","colorOct":5,"colorPersistence":0.5,"octaves":3,"radius":1.9}
 orbitRadius: 143
 parent: sun
 radius: 2
