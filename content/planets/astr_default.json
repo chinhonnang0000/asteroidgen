@@ -8,4 +8,5 @@
 "mesh":{"type":"noiseMesh","divisions":4,"color1":"887766","color2":"665544","radius":1.55}
 "parent":"sun",
 "sectorSize":4, 
+"radius":1.6,
 }
