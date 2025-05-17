@@ -1,0 +1,16 @@
+{
+"research":{
+parent:astr_main_turbc,
+objectives:[{type: SectorComplete,"preset":"turbc"}]
+},
+  "localizedName": "Sector 161 - The origins of the stells",
+  "description": "Enemy stells traces leading to the enemy base in this planet",
+  "difficulty": 7,
+  "planet": "asteroidgen",
+  "sector": 161,
+  "isLastSector": false,
+  "alwaysUnlocked": false,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "addStartingItems": true,
+}
