@@ -1,6 +1,6 @@
 {
 "research":{
-parent:astr_main_turbc,
+"parent":"turbc",
 objectives:[{type: SectorComplete,"preset":"turbc"}]
 },
   "localizedName": "Sector 161 - The origins of the stells",
