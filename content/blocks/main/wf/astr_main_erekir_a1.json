@@ -1,0 +1,15 @@
+{
+"armor":3,
+category: units
+configurable: false 
+consumes:{"power":1.5} 
+"description":"the same ship fabricator back in Erekir",
+"health":800,
+"localizedName": "titanium enhached ship fabricator",
+plans:[{"unit":"elude","requirements":["graphite/50","silicon/50"],"time":2000}]
+requirements:["beryllium/250","silicon/200","titanium/300"]
+"research":{"parent":"astr_main_siaf","objectives":[{"type":"onSector","preset":"astr_main_s161"}]},
+size:3
+type:UnitFactory,
+"unitCapModifier":15,
+}
