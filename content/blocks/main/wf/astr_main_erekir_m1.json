@@ -1,0 +1,15 @@
+{
+"armor":30,
+category: units
+configurable: false 
+consumes:{"power":1.5} 
+"description":"the same mech fabricator back in Erekir but stronger",
+"health":1200,
+"localizedName": "premium mech fabricator",
+plans:[{"unit":"merui","requirements":["beryllium/50","silicon/70"],"time":2000}]
+requirements:["graphite/300","silicon/200","beryllium/250","tungsten/60"]
+"research":{"parent":"astr_main_siaf","objectives":[{"type":"onSector","preset":"astr_main_s161"}]},
+size:3
+type:UnitFactory,
+"unitCapModifier":15,
+}
