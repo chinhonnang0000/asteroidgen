@@ -5,7 +5,7 @@ consumes:{"power":1.5}
 "description":"the same tank fabs back in Erekir",
 "health":575,
 "localizedName": "standard Tankfabricator",
-"plans":[{"unit":"stell","requirements":["beryllium/40","silicon/50"],"time"1800}]
+"plans":[{"unit":"stell","requirements":["beryllium/40","silicon/50"],"time":1800}]
 requirements:["silicon/200","beryllium/150"]
 "research":{"parent":"astr_main_siaf","objectives":[{"type":"onSector","preset":"astr_main_s161"}]},
 size:3
