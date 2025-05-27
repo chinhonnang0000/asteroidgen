@@ -1,0 +1,12 @@
+{
+"flying":true,
+"health":150,
+"lowAltitude":true,
+"range":180,
+"speed":3,
+"weapons":
+[
+{"bullet":{"type":"BasicBulletType","speed":3,"lifetime":60,"damage":22},"reload":17,"x";3},
+{"bullet":{"type":"BasicBulletType","speed":3,"lifetime":60,"damage":22},"reload":17,"x";-3}
+]
+}
