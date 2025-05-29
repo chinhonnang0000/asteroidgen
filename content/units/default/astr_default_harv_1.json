@@ -1,5 +1,4 @@
 {
-"defaultCommand":"UnitCommand.mineCommand",
 "description":"the alapha that has no attacking capabilities"
 "flying":true,
 "health":150,
