@@ -1,5 +1,6 @@
 {
 "configurable":false,
+"localizedName":"alpha attk factory",
 "plans":[{"unit":"astr_default_attk_1","requirements":["copper/20","lead/20"],"time":600}],
 "requirements":["copper/100","lead/100"],
 "research":"astr_default",
