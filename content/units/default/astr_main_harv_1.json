@@ -1,0 +1,15 @@
+{
+"defaultCommand":"mineCommand",
+"description":"the alapha that has no attacking capabilities"
+"flying":true,
+"health":150,
+"itemCapacity":60,
+"lowAltitude":true,
+"mineFloor":true,
+"mineRange":150,
+"mineSpeed":15,
+"mineTier":2,
+"mineWalls":true,
+"speed":3,
+"weapons":[]
+}
