@@ -9,4 +9,5 @@
 "parent":"sun",
 "sectorSize":4, 
 "radius":1.6,
+"research":{"root":true,"planet":"astr_default","name":"astr_default"}
 }
