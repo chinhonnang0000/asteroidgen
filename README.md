@@ -35,7 +35,7 @@ Work in progress, excluding bugfixes - removed from this list once completed or 
 - astr_default - large scatters, lead-copper air units, 
 
 Proposed untouched (not started yet)
-- Full inclusion of erida, https://github.com/germantova/erida - removed from browser 
+- Full inclusion of erida (before v8 integrtion), https://github.com/germantova/erida - removed from browser 
   
 Shelved or cancelled 
 - Full inclusion of Project Decay + Tantria and its surrounding planets. - Intermod
