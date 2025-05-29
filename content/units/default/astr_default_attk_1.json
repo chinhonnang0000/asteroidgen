@@ -1,6 +1,8 @@
 {
+"description": "the alpha that has no mining capabilities",
 "flying":true,
 "health":150,
+"localisedName":"alpha attk",
 "lowAltitude":true,
 "range":180,
 "speed":3,
