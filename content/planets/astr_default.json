@@ -5,7 +5,7 @@
 "description":"the minimum writing to make a planet conquerable. \n\nThis would how non-user ganerated in most planets in incomplete mods",
 "generator":"SerpuloPlanetGenerator",
 "localizedName":"astr_default",
-"mesh":{"type":"noiseMesh","divisions":4,"color1":"887766","color2":"665544","radius":1.55}
+"mesh":{"type":"noiseMesh","divisions":4,"color1":"888888","color2":"555049","radius":1.55}
 "parent":"sun",
 "sectorSize":4, 
 "radius":1.6,
