@@ -1,0 +1,9 @@
+{
+"configurable":false,
+"plans":[{"unit":"astr_default_harv_1","requirements":["copper/20","lead/20"],"time":600}],
+"requirements":["copper/100","lead/100"],
+"research":"astr_default";
+"size":3,
+"type":"UnitFactory",
+"unitCapModifier":5,
+}
