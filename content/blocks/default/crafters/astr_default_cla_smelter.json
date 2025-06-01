@@ -5,6 +5,7 @@
 "description":"smelts copper lead alloys."
 "drawer":{"type":"DrawMulti","drawers":[{"type":"DrawDefault"},{"type":"DrawFlame"}]}
 "health":2500,
+"itemCapacity":90,
 "localizedName":"copper lead smelter",
 "productionTime":120, 
 "outputItem":{"item":"astr_default_cla","amount":1}
