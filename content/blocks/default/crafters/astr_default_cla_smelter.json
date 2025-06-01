@@ -1,0 +1,15 @@
+{
+"category":"crafting",
+"consumes":{"items":"copper/1","lead/1"}
+"armor":30,
+"description":"smelts copper lead alloys."
+"drawer":{"type":"DrawMulti","drawers":[{"type":"DrawDefault"},{"type":"DrawFlame"}]}
+"health":2500,
+"localizedName":"copper lead smelter",
+"productionTime":120, 
+"outputItem":{"item":"astr_default_cla","amount":1}
+"requirements":["copper/500","lead/400","astr_default_stone/600"],
+"research":"astr_default_stone_smelter"
+"size":3,
+"type":"GnenricCrafter"
+}
