@@ -1,5 +1,6 @@
 {
 "category":"production",
+"craftEffect":"smeltsmoke"
 "armor":15,
 "description":"extracts stone from asteroid for smelting purposes."
 "health":2200,
