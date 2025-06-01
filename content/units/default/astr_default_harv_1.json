@@ -12,6 +12,7 @@
 "mineSpeed":15,
 "mineTier":2,
 "mineWalls":true,
+"research":"astr_default_wf_oran_0",
 "speed":3,
 "weapons":[]
 }
