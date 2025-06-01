@@ -1,6 +1,6 @@
 {
 "canMine":true,
-"defaultController":"BuilderAI",
+"defaultController":"MinerAI",
 "description":"the alapha that has no attacking capabilities"
 "flying":true,
 "health":150,
