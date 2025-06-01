@@ -6,6 +6,7 @@
 "health":150,
 "itemCapacity":60,
 "lowAltitude":true,
+"localizwdName":"alpha harv",
 "mineFloor":true,
 "mineRange":150,
 "mineSpeed":15,
