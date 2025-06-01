@@ -5,6 +5,7 @@
 "localizedName":"alpha attk",
 "lowAltitude":true,
 "range":180,
+"research":"astr_default_wf_oran_0",
 "speed":3,
 "weapons":
 [
