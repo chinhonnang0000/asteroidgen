@@ -11,5 +11,5 @@
 "requirements":["copper/500","lead/400","astr_default_stone/600"],
 "research":"astr_default_stone_extractor"
 "size":3,
-"type":"GnenricCrafter"
+"type":"GenericCrafter"
 }
