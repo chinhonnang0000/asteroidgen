@@ -1,0 +1,12 @@
+{
+"category":"production",
+"armor":15,
+"description":"extracts stone from asteroid for smelting purposes."
+"health":2200,
+"localizedName":"stone extractor",
+"productionTime":30, 
+"outputItem":{"item":"astr_default_stone","amount":1}
+"requirements":["copper/500","lead/400"],
+"size":3,
+"type":"GnenricCrafter"
+}
