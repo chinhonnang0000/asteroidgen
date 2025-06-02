@@ -1,0 +1,17 @@
+{
+"armor":50,
+"category":"units",
+"constructTime":1200,
+"consumes":{items:["copper/100","lead/100","astr_default_cla/50"]}
+"health":1100,
+"upgrades":
+[
+[astr_default_attk_1,astr_default_attk_2],
+[astr_default_harv_1,astr_default_harv_2]
+],
+"requirements":["copper/1000","lead/800","astr_default_stone/600","astr_default_cla/400"],
+"research":"astr_default_cla_smelter",
+"size":3,
+"type":"Reconstructor",
+"unitCapModifier":25,
+}
