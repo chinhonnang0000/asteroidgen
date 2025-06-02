@@ -1,11 +1,11 @@
 {
 "defaultController":"MinerAI",
-"description":"the alapha that has no attacking capabilities"
+"description":"the upgraded beta that has no attacking capabilities"
 "flying":true,
 "health":680,
 "itemCapacity":150,
 "lowAltitude":true,
-"localizedName":"alpha harv",
+"localizedName":"beta harv",
 "mineFloor":true,
 "mineRange":300,
 "mineSpeed":60,
