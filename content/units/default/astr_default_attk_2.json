@@ -1,5 +1,6 @@
 {
-"description": "the alpha that has no mining capabilities",
+"armor":5,
+"description": "the upgraded beta that has no mining capabilities",
 "flying":true,
 "health":680,
 "localizedName":"beta attk",
