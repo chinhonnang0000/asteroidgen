@@ -26,15 +26,16 @@ campaign
 Currnet bugs: 
 - more to be found and be fixed. 
 
-Last thing completed ::: default - tier 1 air units, 
+Last thing completed ::: default - tier 2 air units, 
 
 Work in progress, excluding bugfixes - removed from this list once completed or cancelled 
 - direct tier 4 and 5 serpulo unit production.  
 - sector 6 (mission 6) remake - phase glass walls, conduits, 3rd tier serpulo units phase version - AEGA solar panels - 1 series of turrets more overpowered than duodecs.
 - mission 7 - Heavy attacking units and enemiies that is not made by Anuke.
-- astr_default - large scatters, tier 2 air units, 
+- astr_default - large scatters, 
 
 Proposed untouched (not started yet)
+- astr_default - tier 3 units, 
 - Full inclusion of erida (before v8 integrtion), https://github.com/germantova/erida - removed from browser 
   
 Shelved or cancelled 
