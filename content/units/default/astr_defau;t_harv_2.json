@@ -1,0 +1,17 @@
+{
+"defaultController":"MinerAI",
+"description":"the alapha that has no attacking capabilities"
+"flying":true,
+"health":680,
+"itemCapacity":150,
+"lowAltitude":true,
+"localizedName":"alpha harv",
+"mineFloor":true,
+"mineRange":300,
+"mineSpeed":60,
+"mineTier":3,
+"mineWalls":true,
+"research":"astr_default_haev_1",
+"speed":4.5,
+"weapons":[]
+}
