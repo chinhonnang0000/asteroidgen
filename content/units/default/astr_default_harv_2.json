@@ -1,4 +1,5 @@
 {
+"armor":5,
 "defaultController":"MinerAI",
 "description":"the upgraded beta that has no attacking capabilities"
 "flying":true,
@@ -11,7 +12,7 @@
 "mineSpeed":60,
 "mineTier":3,
 "mineWalls":true,
-"research":"astr_default_haev_1",
+"research":"astr_default_harv_1",
 "speed":4.5,
 "weapons":[]
 }
