@@ -10,7 +10,7 @@
 "speed":4.5,
 "weapons":
 [
-{"bullet":{"type":"BasicBulletType","speed":5,"pierce":2,"lifetime":60,"damage":45},"reload":17,"x":5,"mirror":true,"name":"sbw2"},
-{"bullet":{"type":"BasicBulletType","speed":5,"pierce":2,"lifetime":60,"damage":45},"reload":17,"x":-5,"mirror":true,"name":"sbw2"}
+{"bullet":{"type":"BasicBulletType","speed":5,"pierce":2,"lifetime":60,"damage":90},"reload":17,"x":5,"mirror":true,"name":"sbw2"},
+{"bullet":{"type":"BasicBulletType","speed":5,"pierce":2,"lifetime":60,"damage":90},"reload":17,"x":-5,"mirror":true,"name":"sbw2"}
 ]
 }
