@@ -6,7 +6,7 @@
 "drawer":{"type":"DrawMulti","drawers":[
 {"type":"DrawRegion","suffix":"-bottom"},
 {"type":"DrawLiquidTile","drawLiquid":"water"},
-{"type":"DrawCultivator"},
+{"type":"DrawCultivator"},"DrawDefault",
 {"type":"DrawRegion","suffix":"-top"}
 ]}
 "hasLiquids":true,
