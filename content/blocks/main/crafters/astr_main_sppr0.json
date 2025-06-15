@@ -6,7 +6,7 @@
 "drawer":{"type":"drawMulti","drawers":[
 {"type":"DrawBottom","suffix":"-bott"},
 {"type":"DrawSpin":"suffix":"-rotator"},
-{"type":"DrawLiquidTile","drawLiquid':"oil'},
+{"type":"DrawLiquidTile","drawLiquid':"oil"},
 {"type":"DrawDefault"}
 ]}
 "health":640,
