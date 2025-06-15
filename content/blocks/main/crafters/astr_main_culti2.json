@@ -1,0 +1,25 @@
+{
+"armor":4,
+"attribute":"spores",
+"category":"crafting",
+"consumes":{"power":2,"liquid":"water/0.3"},
+"craftTime":60,
+"description":"cultivator enhanced with titanium"
+"drawer":{"type":"DrawMulti","drawers":[
+{"type":"DrawRegion","suffix":"-bottom"},
+{"type":"DrawLiquidTile","drawLiquid":"water"},
+{"type":"DrawCultivator"},"DrawDefault",
+{"type":"DrawRegion","suffix":"-top"}
+]}
+"hasLiquids":true,
+"hasPower":true,
+"health": 500,
+"itemCapacity":20,
+"liquidCapacity":60,
+"localizedName":"titanium enhanced cultivator",
+"outputItem":{"item":"spore-pod","amount":2},
+"requirements":["copper/25","titanium/40","lead/25","silicon/10"],
+"research":{"parent":"astr_main_culti1"},
+"size":2,
+"type":"AttributeCrafter",
+}

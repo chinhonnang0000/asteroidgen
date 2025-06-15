@@ -1,0 +1,25 @@
+{
+"armor":10,
+"attribute":"spores",
+"category":"crafting",
+"consumes":{"power":3,"liquid":"water/0.5"},
+"craftTime":60,
+"description":"-"
+"drawer":{"type":"DrawMulti","drawers":[
+{"type":"DrawRegion","suffix":"-bottom"},
+{"type":"DrawLiquidTile","drawLiquid":"water"},
+{"type":"DrawCultivator"},"DrawDefault",
+{"type":"DrawRegion","suffix":"-top"}
+]}
+"hasLiquids":true,
+"hasPower":true,
+"health": 1200,
+"itemCapacity":20,
+"liquidCapacity":60,
+"localizedName":"titanberyl cultivator",
+"outputItem":{"item":"spore-pod","amount":4},
+"requirements":["copper/25","titanberyl/40","lead/25","silicon/10"],
+"research":{"parent":"astr_main_culti2"},
+"size":2,
+"type":"AttributeCrafter",
+}

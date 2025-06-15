@@ -1,0 +1,25 @@
+{
+"armor":30,
+"attribute":"spores",
+"category":"crafting",
+"consumes":{"power":4,"liquid":"water/0.8"},
+"craftTime":60,
+"description":"-"
+"drawer":{"type":"DrawMulti","drawers":[
+{"type":"DrawRegion","suffix":"-bottom"},
+{"type":"DrawLiquidTile","drawLiquid":"water"},
+{"type":"DrawCultivator"},"DrawDefault",
+{"type":"DrawRegion","suffix":"-top"}
+]}
+"hasLiquids":true,
+"hasPower":true,
+"health": 4200,
+"itemCapacity":50,
+"liquidCapacity":120,
+"localizedName":"AEGA spore cultivator",
+"outputItem":{"item":"spore-pod","amount":8},
+"requirements":["copper/25","aeg_alloy/40","lead/25","silicon/20"],
+"research":{"parent":"astr_main_culti3"},
+"size":2,
+"type":"AttributeCrafter",
+}

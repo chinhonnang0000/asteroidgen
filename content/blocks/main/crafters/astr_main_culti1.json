@@ -1,0 +1,24 @@
+{
+"attribute":"spores",
+"category":"crafting",
+"consumes":{"power":1.33,"liquid":"water/0.2"},
+"craftTime":100,
+"description":"the standard cultivator back in Serpulo"
+"drawer":{"type":"DrawMulti","drawers":[
+{"type":"DrawRegion","suffix":"-bottom"},
+{"type":"DrawLiquidTile","drawLiquid":"water"},
+{"type":"DrawCultivator"},"DrawDefault",
+{"type":"DrawRegion","suffix":"-top"}
+]}
+"hasLiquids":true,
+"hasPower":true,
+"health": 160,
+"itemCapacity":10,
+"liquidCapacity":30,
+"localizedName":"standard cultivator",
+"outputItem":{"item":"spore-pod","amount":1},
+"requirements":["copper/25","lead/25","silicon/10"],
+"research":{"parent":"astr_main_culti0"},
+"size":2,
+"type":"AttributeCrafter",
+}
