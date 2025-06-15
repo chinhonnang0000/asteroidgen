@@ -18,7 +18,7 @@
 "localizedName":"standard cultivator",
 "outputItem":{"item":"spore-pod","amount":1},
 "requirements":["copper/25","lead/25","silicon/10"],
-"research":{"parent":"astr_main_culti0"},
+"research":{"parent":"astr_main_culti0","objectives":[{"type":"OnSector","preset":"astr_main_s376"}]},
 "size":2,
 "type":"AttributeCrafter",
 }
