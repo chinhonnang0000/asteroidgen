@@ -5,7 +5,7 @@
 "craftTime":180,
 "drawer":{"type":"DrawMulti","drawers":[
 {"type":"DrawRegion","suffix":"-bottom"},
-{"type":"DrawLiquidTile","liquid":"water"},
+{"type":"DrawLiquidTile","drawLiquid":"water"},
 {"type":"DrawCultivator"},
 {"type":"DrawRegion","suffix":"-top"}
 ]}
