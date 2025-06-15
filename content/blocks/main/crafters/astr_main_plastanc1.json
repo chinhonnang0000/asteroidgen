@@ -4,9 +4,10 @@
 "craftEffect":"formsmoke",
 "craftTime":60,
 "description":"the same plastanium compressor back in Serpulo",
-"localisedName":"standard plastanium compressor"
+"localisedName":"standard plastanium compressor",
+"outputItem":"plastanium/1"
 "requirements":["silicon/80","lead/115","graphite/60",titanium/80],
-"research":{"parent":"satr_main_sppr0"},
+"research":{"parent":"astr_main_sppr0"},
 "health":320,
 "size":2,
 "updateEffect":"plasticburn",
