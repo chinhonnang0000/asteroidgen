@@ -5,7 +5,7 @@
 "description":"pressing spores to get oil",
 "drawer":{"type":"drawMulti","drawers":[
 {"type":"DrawBottom","suffix":"-bott"},
-{"type":"DrawSpin":"suffix":"-rotator"},
+{"type":"DrawSpin","suffix":"-rotator"},
 {"type":"DrawLiquidTile","drawLiquid":"oil"},
 {"type":"DrawDefault"}
 ]}
