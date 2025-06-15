@@ -10,5 +10,6 @@
 "research":{"parent":"astr_main_sppr0"},
 "health":320,
 "size":2,
+"type":"GenericCrafter",
 "updateEffect":"plasticburn",
 }
