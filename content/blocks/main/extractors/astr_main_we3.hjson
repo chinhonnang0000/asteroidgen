@@ -1,0 +1,17 @@
+{
+"armor":10,
+"alwaysUnlocked":false,
+"attribute":"water",
+"category":"production",
+"consumes":{"power":2.5},
+"description":"-",
+"health": 1200,
+"localizedName": "titanberyl enforced water extractor",
+"liquidCapacity": 200,
+"pumpAmount":1.5,
+"research":"astr_main_we2",
+"requirements":["metaglass/30","graphite/30","titanberyl/50","lead/30","copper/30"],
+"result":"water",
+"size":2,
+"type":"SolidPump"
+}

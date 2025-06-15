@@ -1,0 +1,17 @@
+{
+"armor":4,
+"alwaysUnlocked":false,
+"attribute":"water",
+"category":"production",
+"consumes":{"power":2},
+"description":"the water extractor back in Serpulo",
+"health": 500,
+"localizedName": "titanium enforced water extractor",
+"liquidCapacity": 90,
+"pumpAmount":0.5,
+"research":"astr_main_we1",
+"requirements":["metaglass/30","graphite/30","titanium/50","lead/30","copper/30"],
+"result":"water",
+"size":2,
+"type":"SolidPump"
+}

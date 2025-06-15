@@ -1,0 +1,17 @@
+{
+"armor":25,
+"alwaysUnlocked":false,
+"attribute":"water",
+"category":"production",
+"consumes":{"power":3},
+"description":"-",
+"health": 4000,
+"localizedName": "AEGA enforced water extractor",
+"liquidCapacity": 500,
+"pumpAmount":5,
+"research":"astr_main_we3",
+"requirements":["metaglass/30","graphite/30","aeg_alloy/50","lead/30","copper/30"],
+"result":"water",
+"size":2,
+"type":"SolidPump"
+}
