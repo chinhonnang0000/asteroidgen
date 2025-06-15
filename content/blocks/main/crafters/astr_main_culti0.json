@@ -13,7 +13,7 @@
 "hasPower":true,
 "health": 50,
 "localizedName":"lead cultivator",
-"outputItem":{"item":"sporePod","amount":1},
+"outputItem":{"item":"spore-pod","amount":1},
 "requirements":["lead/30","silicon/10"],
 "research":{"parent":"asteroidgen_origin"},
 "size":2,
