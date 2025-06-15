@@ -1,7 +1,7 @@
 {
 "research":{
-parent:kilns,
-objectives:[{type: SectorComplete,preset:kilns}]
+"parent":"kilns",
+"objectives":[{"type":"SectorComplete","preset":"kilns"}]
 },
   "localizedName": "Sector 376 - ruins of the plataniums",
   "description": "",
