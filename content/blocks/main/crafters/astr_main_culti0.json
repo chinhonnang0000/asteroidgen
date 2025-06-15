@@ -3,7 +3,7 @@
 "category":"crafting",
 "consumes":{"power":1,"liquid":"water/0.2"},
 "craftTime":180,
-"drawer":{"type":"DrawMulti",drawers:[
+"drawer":{"type":"DrawMulti","drawers":[
 {"type":"DrawRegion","suffix":"-bottom"},
 {"type":"DrawLiquidTile","liquid":"water"},
 {"type":"DrawCultivator"},
