@@ -10,7 +10,7 @@
 "localisedName":"titanberyl-enhanced plastanium compressor",
 "liquidCapacity":120,
 "outputItem":"plastanium/2"
-"requirements":["silicon/80","lead/115","graphite/60",titanium/80,"titanberl/130"],
+"requirements":["silicon/80","lead/115","graphite/60",titanium/80,"titanberyl/130"],
 "research":{"parent":"astr_main_plastanc1"},
 "size":2,
 "type":"GenericCrafter",
