@@ -1,0 +1,22 @@
+{
+"armor":1
+"category":"crafting",
+"craftTime":20,
+"consumes":{"power":1,"items":["spore-pod/10"]}
+"description":"pressing spores to get oil. Enforced with copper",
+"drawer":{"type":"drawMulti","drawers":[
+{"type":"DrawRegion","suffix":"-bott"},
+{"type":"DrawBlurSpin","suffix":"-rotator"},
+{"type":"DrawLiquidTile","drawLiquid":"oil"},
+{"type":"DrawDefault"}
+]}
+"health":1300,
+"itemCapacity":20,
+"localizedName":"astr_main spore press 1"
+"liquidCapacity":500,
+"outputLiquid":{"liquid":"oil","amount":3},
+"requirements":["lead/100","silicon/100","metaglass/50","copper/100"],
+"research":"astr_main_sppr0",
+"size":4,
+"type":"GenericCrafter",
+}
