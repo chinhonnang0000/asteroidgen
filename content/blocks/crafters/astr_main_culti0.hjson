@@ -1,0 +1,21 @@
+{
+"attribute":"spores",
+"category":"crafting",
+"consumes":{"power":1,"liquid":"water/0.2"},
+"craftTime":180,
+"drawer":{"type":"DrawMulti",drawers:[
+{"type":"DrawRegion","suffix":"-bottom"},
+{"type":"DrawLiquidTile","liquid":"water"},
+{"type":"DrawCultivator"},
+{"type":"DrawRegion","suffix":"-top"}
+]}
+"hasLiquids":true,
+"hasPower":true,
+"health": 50,
+"localizedName":"lead cultivator",
+"outputItem":{"item":"sporePod',"amount":1},
+"requirements":["lead/30","silicon/10"],
+"research":{"parent":"asteroidgen_origin'},
+"size":2,
+"type":"AttributeCrafter",
+}
