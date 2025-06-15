@@ -15,7 +15,7 @@
 "localizedName":"lead cultivator",
 "outputItem":{"item":"spore-pod","amount":1},
 "requirements":["lead/30","silicon/10"],
-"research":{"parent":"asteroidgen_origin"},
+"research":{"parent":"asteroidgen_origin","objectives":[{"type":"OnSector","preset":"astr_main_s376"}]},
 "size":2,
 "type":"AttributeCrafter",
 }
