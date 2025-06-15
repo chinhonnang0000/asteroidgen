@@ -1,0 +1,17 @@
+{
+"research":{
+parent:kilns,
+objectives:[{type: SectorComplete,preset:kilns}]
+},
+  "localizedName": "Sector 376 - ruins of the plataniums",
+  "description": "",
+  "captureWave":15,
+  "difficulty": 8,
+  "planet": "asteroidgen",
+  "sector": 367,
+  "isLastSector": false,
+  "alwaysUnlocked": false,
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "addStartingItems": true,
+}
