@@ -1,12 +1,12 @@
 {
 "category":"crafting",
 "craftTime":20,
-"consumes":{"power":0.7,"items":[spore-pod/5]}
+"consumes":{"power":0.7,"items":["spore-pod/5"]}
 "description":"pressing spores to get oil",
 "drawer":{"type":"drawMulti","drawers":[
 {"type":"DrawBottom","suffix":"-bott"},
 {"type":"DrawSpin":"suffix":"-rotator"},
-{"type":"DrawLiquidTile","drawLiquid':"oil"},
+{"type":"DrawLiquidTile","drawLiquid":"oil"},
 {"type":"DrawDefault"}
 ]}
 "health":640,
