@@ -1,0 +1,18 @@
+{
+"armor":10,
+"category":"crafting",
+"consumes":{"power":4,"liquids":["oil/0.5"],"items":["titanium/4"]},
+"craftEffect":"formsmoke",
+"craftTime":60,
+"description":"the plastanium compressor made stronger with itianberyl",
+"health":800,
+"itemCapacity":25,
+"localisedName":"titanberyl-enhanced plastanium compressor",
+"liquidCapacity":120,
+"outputItem":"plastanium/2"
+"requirements":["silicon/80","lead/115","graphite/60",titanium/80,"titanberl/130"],
+"research":{"parent":"astr_main_plastanc1"},
+"size":2,
+"type":"GenericCrafter",
+"updateEffect":"plasticburn",
+}

@@ -1,0 +1,18 @@
+{
+"armor":25,
+"category":"crafting",
+"consumes":{"power":5,"liquids":["oil/1"],"items":["titanium/8"]},
+"craftEffect":"formsmoke",
+"craftTime":60,
+"description":"the plastanium compressor made stronger with AEGA",
+"health":2000,
+"itemCapcity":60,
+"liquidCapacity":250,
+"localisedName":"AEGA-enhanced plastanium compressor",
+"outputItem":"plastanium/4"
+"requirements":["silicon/80","lead/115","graphite/60",titanium/80,"aeg_alloy/130"],
+"research":{"parent":"astr_main_plastanc2"},
+"size":2,
+"type":"GenericCrafter",
+"updateEffect":"plasticburn",
+}
