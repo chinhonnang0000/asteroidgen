@@ -1,0 +1,16 @@
+{
+"alwaysUnlocked":false,
+"attribute":"water",
+"category":"production",
+"consumes":{"power":1},
+"description":"inferior to standard water extractor back in Serpulo",
+"health": 50,
+"localizedName": "lead water extractor",
+"liquidCapacity": 3,
+"pumpAmount":0.03,
+"research":"asteroidgen_origin",
+"requirements":["metaglass/30","graphite/30","lead/30"],
+"result":"water",
+"size":2,
+"type":"SolidPump"
+}
