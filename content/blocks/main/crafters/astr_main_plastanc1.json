@@ -1,6 +1,6 @@
 {
 "category":"crafting",
-"consumes":{"power":3,liquids["oil/0.25"]},
+"consumes":{"power":3,"liquids":["oil/0.25"],"items":["titanium/2"]},
 "craftEffect":"formsmoke",
 "craftTime":60,
 "description":"the same plastanium compressor back in Serpulo",
