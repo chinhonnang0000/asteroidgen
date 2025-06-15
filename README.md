@@ -26,10 +26,10 @@ campaign
 Currnet bugs: 
 - more to be found and be fixed. 
 
-Last thing completed ::: main :: cultivators, 
+Last thing completed ::: main :: spore press, 
 
 Work in progress, excluding bugfixes - removed from this list once completed or cancelled 
-- sporepress > plastanium press > direct tier 4 and 5 serpulo unit production.  
+- plastanium press > direct tier 4 and 5 serpulo unit production.  
 - sector 6 (mission 6) remake - phase glass walls, conduits, 3rd tier serpulo units phase version - AEGA solar panels - 1 series of turrets more overpowered than duodecs.
 - mission 7 - Heavy attacking units and enemiies that is not made by Anuke.
 - astr_default - large scatters, 
