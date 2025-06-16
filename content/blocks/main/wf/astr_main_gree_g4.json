@@ -1,0 +1,16 @@
+{
+"armor":50,
+category: units
+configurable: false 
+consumes:{"power":13} 
+"description":"produces Vela in one stap - no teardoens no cryofluids",
+"health":10000,
+"itemCapacity":2000,
+"localizedName": "vela factory",
+"plans":[{"unit":"vela","requirements":["plastanium/650","silicon/1020","graphite/40","titanium/830","metaglass/40"],"time":5400}]
+"requirements":["titanium/2000","lead/2000","thorium/2000","silicon/1000","plastanium/450","phase-fabric/600"]
+"research":{"parent":"astr_main_gree_g3"},
+"size":7,
+"type":UnitFactory,
+"unitCapModifier": 60
+}
