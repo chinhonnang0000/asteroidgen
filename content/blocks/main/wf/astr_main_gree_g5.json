@@ -1,0 +1,16 @@
+{
+"armor":250,
+category: units
+configurable: false 
+consumes:{"power":25} 
+"description":"produces Corvus in one stap - no teardowns no cryofluids",
+"health":25000,
+"itemCapacity":5000,
+"localizedName": "corvus factory",
+"plans":[{"unit":"corvus","requirements":["phase-fabric/350","surge-alloy/600","plastanium/1250","silicon/2000","graphite/40","titanium/830","metaglass/40"],"time":14400}]
+"requirements":["titanium/4000","lead/4000","thorium/4000","silicon/1000","plastanium/600","surge-alloy/800","phase-fabric/600"]
+"research":{"parent":"astr_main_gree_g4"},
+"size":9,
+"type":UnitFactory,
+"unitCapModifier": 150
+}
