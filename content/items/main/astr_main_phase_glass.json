@@ -1,0 +1,9 @@
+{
+alwaysUnlocked: false,
+cost: 0.01,
+description: "Phase glass - readily be made into phase fabric and much stronger than meta glass. Also be ussed in high tech applications", 
+name: phase glass,
+hardness: 0.01,
+research: "titanberyl",
+hiddenOnPlanets: []
+}
