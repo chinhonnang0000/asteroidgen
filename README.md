@@ -26,10 +26,9 @@ campaign
 Currnet bugs: 
 - more to be found and be fixed. 
 
-Last thing completed ::: main :: tier 4 unit production
+Last thing completed ::: main :: tier 5 unit production
 
 Work in progress, excluding bugfixes - removed from this list once completed or cancelled 
-- tier 5 serpulo unit production.  
 - sector 6 (mission 6) remake - phase glass walls, conduits, 3rd tier serpulo units phase version - AEGA solar panels - 1 series of turrets more overpowered than duodecs.
 - mission 7 - Heavy attacking units and enemiies that is not made by Anuke.
 - astr_default - large scatters, 
